@@ -1,0 +1,16 @@
+{
+  "id": "privacy-policy-entailment",
+  "name": "privacy_policy_entailment",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/privacy_policy_entailment"
+  ],
+  "prompt_templates": [
+    "legalbench/privacy_policy_entailment"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

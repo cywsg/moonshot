@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-permissible-acquirement-of-similar-information",
+  "name": "contract_nli_permissible_acquirement_of_similar_information",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_permissible_acquirement_of_similar_information"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_permissible_acquirement_of_similar_information"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

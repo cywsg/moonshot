@@ -1,0 +1,603 @@
+{
+    "name": "opp115_do_not_track",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "opp115_do_not_track"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "target": "Yes",
+            "input": "MNG currently does not support Do Not Track browser settings and does not currently participate in any Do Not Track frameworks that would allow us to respond to signals or other mechanism from you regarding the collection of information, including PIN or CIN.",
+            "index": 0
+        },
+        {
+            "target": "Yes",
+            "input": "California Do Not Track Notice Some browsers offer a \"Do Not Track\" feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these \"Do Not Track\" signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on the Sites for these purposes.",
+            "index": 1
+        },
+        {
+            "target": "Yes",
+            "input": "We do not respond to these \"Do Not Track\" signals.",
+            "index": 2
+        },
+        {
+            "target": "Yes",
+            "input": "we do not currently support any browser based Do Not Track (DNT)",
+            "index": 3
+        },
+        {
+            "target": "Yes",
+            "input": "However, we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to any potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.",
+            "index": 4
+        },
+        {
+            "target": "Yes",
+            "input": "As discussed below, you may opt out of third party tracking on the Service at any time. However, we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to any potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.",
+            "index": 5
+        },
+        {
+            "target": "Yes",
+            "input": "Do Not Track Signals Our websites do not treat browsers that send a do not track signal differently from browsers that do not send one.",
+            "index": 6
+        },
+        {
+            "target": "Yes",
+            "input": "Our websites do not treat browsers that send a do not track signal differently from browsers that do not send one.",
+            "index": 7
+        },
+        {
+            "target": "Yes",
+            "input": "We do not respond to browser-based \"do not track\" signals.",
+            "index": 8
+        },
+        {
+            "target": "Yes",
+            "input": "reddit's website does not currently respond to a Do Not Track (\"DNT\") or similar signal",
+            "index": 9
+        },
+        {
+            "target": "Yes",
+            "input": "oes not currently respond to a Do Not Track (\"DNT\") or similar signal",
+            "index": 10
+        },
+        {
+            "target": "Yes",
+            "input": "we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.",
+            "index": 11
+        },
+        {
+            "target": "Yes",
+            "input": "As discussed below, you may opt out of third party tracking on the Service at any time. However, we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.",
+            "index": 12
+        },
+        {
+            "target": "Yes",
+            "input": "However, we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.",
+            "index": 13
+        },
+        {
+            "target": "Yes",
+            "input": "(Note: Time Inc. sites do not recognize the \"do not track signals\" that some browsers may employ.)",
+            "index": 14
+        },
+        {
+            "target": "Yes",
+            "input": "We do not respond to web browser \"do not track\" or other related mechanisms at this time.",
+            "index": 15
+        },
+        {
+            "target": "Yes",
+            "input": "The JibJab Sites do not currently respond to \"Do Not Track\" signals of Web browsers.",
+            "index": 16
+        },
+        {
+            "target": "Yes",
+            "input": "should the industry establish uniform technological standards for recognizing and interpreting \"Do Not Track\" signals, the JibJab Sites would be open to following such industry standards.",
+            "index": 17
+        },
+        {
+            "target": "Yes",
+            "input": "The JibJab Sites do not currently respond to \"Do Not Track\" signals of Web browsers",
+            "index": 18
+        },
+        {
+            "target": "Yes",
+            "input": "However, should the industry establish uniform technological standards for recognizing and interpreting \"Do Not Track\" signals, the JibJab Sites would be open to following such industry standards.",
+            "index": 19
+        },
+        {
+            "target": "Yes",
+            "input": "Hearst does not act on Do Not Track requests from your browser.",
+            "index": 20
+        },
+        {
+            "target": "Yes",
+            "input": "Tracking Requests. Hearst does not act on Do Not Track requests from your browser. For more information click here",
+            "index": 21
+        },
+        {
+            "target": "Yes",
+            "input": "earst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.",
+            "index": 22
+        },
+        {
+            "target": "Yes",
+            "input": "Effect of Tracking Requests. Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.",
+            "index": 23
+        },
+        {
+            "target": "Yes",
+            "input": "Hearst does not act on Do Not Track requests from your browser because, this way, we are able to personalize your experience on our sites and tailor content to your interests.",
+            "index": 24
+        },
+        {
+            "target": "Yes",
+            "input": "Currently, our Sites do not respond to \"Do Not Track\" signals from your browser.",
+            "index": 25
+        },
+        {
+            "target": "Yes",
+            "input": "the Services currently do not take action in response to these signals.",
+            "index": 26
+        },
+        {
+            "target": "Yes",
+            "input": "Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals.",
+            "index": 27
+        },
+        {
+            "target": "Yes",
+            "input": "Do Not Track Signals . At this time we do not respond to browser Do Not Track' signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.",
+            "index": 28
+        },
+        {
+            "target": "Yes",
+            "input": "At this time we do not respond to browser Do Not Track' signals",
+            "index": 29
+        },
+        {
+            "target": "Yes",
+            "input": "We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.",
+            "index": 30
+        },
+        {
+            "target": "Yes",
+            "input": "How does our site handle do not track signals? We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.",
+            "index": 31
+        },
+        {
+            "target": "Yes",
+            "input": "We do not currently actively respond to \"Do Not Track\" browser signals or mechanisms that indicate a request to disable online tracking of individual users who use our sites and services.",
+            "index": 32
+        },
+        {
+            "target": "Yes",
+            "input": "Do Not Track We do not currently actively respond to \"Do Not Track\" browser signals or mechanisms that indicate a request to disable online tracking of individual users who use our sites and services.",
+            "index": 33
+        },
+        {
+            "target": "Yes",
+            "input": "Do Not Track: Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, GameStop does not recognize DNT.",
+            "index": 34
+        },
+        {
+            "target": "Yes",
+            "input": "AOL currently does not take action in response to these signals.",
+            "index": 35
+        },
+        {
+            "target": "Yes",
+            "input": "Some web browsers may transmit \"do not track\" signals to the websites and other online services with which the browser communicates. There is no standard that governs what, if anything, websites should do when they receive these signals. AOL currently does not take action in response to these signals. If and when a standard for responding is established, we may revisit its policy on responding to these signals.",
+            "index": 36
+        },
+        {
+            "target": "Yes",
+            "input": "Although Barnes & Noble Websites are currently unable to respond to Do Not Track Signals, you may opt out of tracking activities bv following the instructions in this Privacy Policy to opt out of IBM Coremetrics and behavioral advertising.",
+            "index": 37
+        },
+        {
+            "target": "Yes",
+            "input": "Although Barnes & Noble Websites are currently unable to respond to Do Not Track Signals",
+            "index": 38
+        },
+        {
+            "target": "Yes",
+            "input": "Barnes & Noble Websites are currently unable to respond to Do Not Track Signals",
+            "index": 39
+        },
+        {
+            "target": "Yes",
+            "input": "Your browser or device may include Do Not Track functionality. Because a Do Not Track compliance protocol has not yet been finalized, The Atlantics information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.",
+            "index": 40
+        },
+        {
+            "target": "Yes",
+            "input": "Instead, we adhere to the standards set out in this privacy policy and offer the opt-out choices described above.",
+            "index": 41
+        },
+        {
+            "target": "Yes",
+            "input": "Our Sites currently are not setup to process or respond to \"Do Not Track\" settings or signals from web browsers.",
+            "index": 42
+        },
+        {
+            "target": "Yes",
+            "input": "Our Sites currently are not setup to process or respond to \"Do Not Track\" settings or signals from web browsers. We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click here).",
+            "index": 43
+        },
+        {
+            "target": "Yes",
+            "input": "Some browsers have a do not track feature that lets you tell websites that you do not want to have your online activities tracked. Because these features are not yet uniform, we are not currently set up to respond to do not track signals. Our information and disclosure practices will continue to apply as described in this privacy policy regardless of any Do Not Track signals that are sent by certain browsers.",
+            "index": 44
+        },
+        {
+            "target": "Yes",
+            "input": "Because these features are not yet uniform, we are not currently set up to respond to do not track signals.",
+            "index": 45
+        },
+        {
+            "target": "Yes",
+            "input": "NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.",
+            "index": 46
+        },
+        {
+            "target": "Yes",
+            "input": "NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to revie",
+            "index": 47
+        },
+        {
+            "target": "Yes",
+            "input": "At this time, this website and the Services do not recognize automated browser signals regarding tracking mechanisms and preferences, which may include \"do not track\" instructions.",
+            "index": 48
+        },
+        {
+            "target": "Yes",
+            "input": "We currently take no action to respond to \"do not track\" signals.",
+            "index": 49
+        },
+        {
+            "target": "Yes",
+            "input": "we do not recognize or respond to browser-initiated DNT signals,",
+            "index": 50
+        },
+        {
+            "target": "Yes",
+            "input": "we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.",
+            "index": 51
+        },
+        {
+            "target": "Yes",
+            "input": "ack (\"DNT\") is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the NAI \"Consumer Opt-out\" link and the DAA opt-out link above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.",
+            "index": 52
+        },
+        {
+            "target": "Yes",
+            "input": "You may be able to adjust your browser's settings to turn on a \"do not track\" feature. Although our policy may change in the future, currently, we do not support \"do not track\" and will not honor your web browser's \"do not track\" signal.",
+            "index": 53
+        },
+        {
+            "target": "Yes",
+            "input": "we do not support \"do not track\" and will not honor your web browser's \"do not track\" signal.",
+            "index": 54
+        },
+        {
+            "target": "No",
+            "input": "If you purchase a ticket or perform any other transaction through our ticketing partner, their Privacy Policy is in effect for that transaction.",
+            "index": 55
+        },
+        {
+            "target": "No",
+            "input": "his Policy applies solely to our on-line information gathering and disclosure practices in connection with the Sites, and does not apply to any of our practices conducted off-line.",
+            "index": 56
+        },
+        {
+            "target": "No",
+            "input": "MLB Advanced Media, L.P. Privacy Administrator Address: 75 Ninth Avenue City: New York, State: New York Zip Code: 10011 Phone: (212) 485-6142 Fax: (212) 485-8111 Or send an email to privacy@website.mlb.com.",
+            "index": 57
+        },
+        {
+            "target": "No",
+            "input": "MediaNews occasionally offers contest and sweepstakes, which may be entered online. When a child under thirteen 13 enters a contest or sweepstakes, or participates in another activity that requires the use of personal information, we will ask for a parent's email address so that we can notify the parent of the child's participation, obtain the parent's consent and give the parent the option to have the child's information deleted. All of the child's personal information collected by MediaNews is securely maintained and used only for the specified purpose such as conducting the contest or sweepstakes and awarding prizes. MediaNews does not keep any of the child's personal information after the particular event is completed. Sometimes, MediaNews uses agents or contractors to provide services that support the internal operations of the site, such as helping us conduct a sweepstakes or sending prizes to winners. In these cases, MediaNews requires the agent or contractor to maintain the confidentiality, security and integrity of the information and limit use to the specific services they are performing on our behalf. MediaNews may disclose information maintained as required by law, for example, in response to a court order or a subpoena. MediaNews may also disclose such information in response to a specific law enforcement agency's request. Personal information is not disclosed to third parties except those who provide support for the internal operations of the site. Parents can consent to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties.",
+            "index": 58
+        },
+        {
+            "target": "No",
+            "input": "Although Stripe and PayPal send us a receipt with your name and email address if you provide it, we don't add that information to your account.",
+            "index": 59
+        },
+        {
+            "target": "No",
+            "input": "Children. The Services are not intended for persons under the age of 13. We require that only persons 13 years of age or older use the Services. By using the Services, you hereby represent that you are at least 13 years old. Some third parties, such as platform providers like the iTunes Store or Google Play may provide age-based ratings on some of the Services. These ratings shall have no bearing on this limitation. Third parties may also provide content categories on some of the Services. These categories shall have no bearing on this limitation.",
+            "index": 60
+        },
+        {
+            "target": "No",
+            "input": "HTML 5: HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.",
+            "index": 61
+        },
+        {
+            "target": "No",
+            "input": "If you are a parent or guardian who believes that your Minor under the age of 13 has submitted personal information or other information to us without your consent, please contact privacy@barnesandnoble.com. Once we verify that you are the parent or legal guardian, at your request, we will promptly provide to you information regarding what, if any, personal information we have collected about your child and how it has been used or shared. We will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same.",
+            "index": 62
+        },
+        {
+            "target": "No",
+            "input": "We may receive information about you from publicly and commercially available sources",
+            "index": 63
+        },
+        {
+            "target": "No",
+            "input": "We make every effort to ensure that your personal information is protected on our system",
+            "index": 64
+        },
+        {
+            "target": "No",
+            "input": "The Science Website is maintained by the American Association for the Advancement of Science (AAAS), 1200 New York Avenue, NW, Washington, DC 20005.",
+            "index": 65
+        },
+        {
+            "target": "No",
+            "input": "Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of: What personal information may be collected and by what means Who, if anyone, is collecting your personal information How this information may be used, including who, if anyone, it might be shared with The consequences, if any, resulting from your refusal to provide personal information How you can access and, if necessary, change the personal information a company maintains How a company ensures data security, quality and integrity Where and how to ask questions or file complaints",
+            "index": 66
+        },
+        {
+            "target": "No",
+            "input": "In order to try to minimize this risk, we encrypt all information that you submit in ordering of our premium products using the Secure Sockets Layer (SSL) protocol.",
+            "index": 67
+        },
+        {
+            "target": "No",
+            "input": "If you provide information in connection with such co-branded service or feature, that information may be shared between Barnes & Noble and the third party.",
+            "index": 68
+        },
+        {
+            "target": "No",
+            "input": "Locate a Green Dealer Green Dealers by Award Level. Dealerships referenced herein are Honda and Acura dealers, which are independent from American Honda. Visiting these dealers online or in person is your personal choice.",
+            "index": 69
+        },
+        {
+            "target": "No",
+            "input": "MediaNews Group, Inc., MediaNews Group Interactive, Inc. or MediaNews Group affiliates, are affiliates of the CareerBuilder online careers service.",
+            "index": 70
+        },
+        {
+            "target": "No",
+            "input": "you will have an opportunity to choose not to share the information",
+            "index": 71
+        },
+        {
+            "target": "No",
+            "input": "When you provide PIN information and access MediaNews Web sites, you are sharing PIN",
+            "index": 72
+        },
+        {
+            "target": "No",
+            "input": "We use return e-mail addresses to answer the e-mails we receive.",
+            "index": 73
+        },
+        {
+            "target": "No",
+            "input": "Except as noted below : (i) our products and services are marketed for and directed towards purchase by adults or with the consent of adults; (ii) Individuals under the age of 18 (\"Minors\") are not permitted to use Barnes & Noble Websites or Apps without the supervision of a parent or legal guardian; (iii) we do not knowingly collect or solicit personal information from children under the age of 13 or knowingly allow such persons to register for an online account or to post personal information on the Barnes & Noble Websites; and (iv) should we learn that someone under the age of 13 has provided any personal information to or on any of the Barnes & Noble Websites, we will remove that information as soon as possible.",
+            "index": 74
+        },
+        {
+            "target": "No",
+            "input": "Request that we no longer collect or maintain such information about your child.",
+            "index": 75
+        },
+        {
+            "target": "No",
+            "input": "We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.",
+            "index": 76
+        },
+        {
+            "target": "No",
+            "input": "If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction.",
+            "index": 77
+        },
+        {
+            "target": "No",
+            "input": "Bank of America's Mobile Applications for U.S. accounts (\"Applications\") allows you to access your account balances and holdings, make deposits, transfers and pay bills on your mobile device. This Notice applies to any Personal Information or Other Information that we may collect through the Applications.",
+            "index": 78
+        },
+        {
+            "target": "No",
+            "input": "Any customer of the Barnes & Noble Gift Card website who receives promotional communications can opt-out of the receipt of any such communications by clicking on the opt-out link provided at the bottom of each email and following the instructions or by sending an e-mail to giftcardprefs@bn.com.",
+            "index": 79
+        },
+        {
+            "target": "No",
+            "input": "If we make a material change to the way in which we collect, use, and/or share your personal information,",
+            "index": 80
+        },
+        {
+            "target": "No",
+            "input": "12. IMPORTANT INFORMATION Notice to California Residents: Residents of the State of California may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us at Chief Privacy Officer, 100 Universal City Plaza, 1280, Universal City, California, 91608-1002, US. For all requests, you must put the statement \"Your California Privacy Rights\" in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.",
+            "index": 81
+        },
+        {
+            "target": "No",
+            "input": "You can unsubscribe from these e-mails at any time by going to http://register.zacks.com/unisub.php.",
+            "index": 82
+        },
+        {
+            "target": "No",
+            "input": "California's Business and Professions Code section 22575 requires us to disclose how we respond to \"do not track\" signals.",
+            "index": 83
+        },
+        {
+            "target": "No",
+            "input": "Without limiting the generality of the foregoing, our services may allow users above the age of 18 (such as healthcare providers, parents and guardians) to submit personal information about others, including minors. Such users assume full responsibility over their submission, use and transmission of such information.",
+            "index": 84
+        },
+        {
+            "target": "No",
+            "input": "Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.",
+            "index": 85
+        },
+        {
+            "target": "No",
+            "input": "Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.",
+            "index": 86
+        },
+        {
+            "target": "No",
+            "input": "This server encrypts all information you input before it is sent.",
+            "index": 87
+        },
+        {
+            "target": "No",
+            "input": "We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.",
+            "index": 88
+        },
+        {
+            "target": "No",
+            "input": "Internet Protocol (IP) Address: An IP address is your computer's location on the Internet. MediaNews Web sites log IP addresses",
+            "index": 89
+        },
+        {
+            "target": "No",
+            "input": "You also may write to us directly if you wish to:",
+            "index": 90
+        },
+        {
+            "target": "No",
+            "input": "Using HTTPS encryption when you authenticate (i.e., log into one of our Services), which helps prevent unauthorized access to your login credentials;",
+            "index": 91
+        },
+        {
+            "target": "No",
+            "input": "We may share aggregated Anonymous Information about you with third parties.",
+            "index": 92
+        },
+        {
+            "target": "No",
+            "input": "To the extent that administration of the program requires us to grant our Service Vendors access to customer information, we insist that they implement similar controls.",
+            "index": 93
+        },
+        {
+            "target": "No",
+            "input": "For example, when the e-mail address 'U13user@dictionary.com' is hashed, the result or \"hash value\" might be 'a8der13ap69'. Every time that hash function is applied to that e-mail address the result will be the same. It is called one-way hashing because the function allows you to convert the data only one way. So while it is possible to convert an e-mail address into a hash value, it is not possible to convert that value back into the e-mail address.",
+            "index": 94
+        },
+        {
+            "target": "No",
+            "input": "You can learn more about Flash objects - including how to control and disable them - through the Adobe interface",
+            "index": 95
+        },
+        {
+            "target": "No",
+            "input": "To learn how to manage how we - and our vendors - use cookies and other tracking tools, please click here.",
+            "index": 96
+        },
+        {
+            "target": "No",
+            "input": "if you delete certain information you may not be able to order services in the future without re-submitting such information.",
+            "index": 97
+        },
+        {
+            "target": "No",
+            "input": "Attribute content that you post to forums we operate on our Services",
+            "index": 98
+        },
+        {
+            "target": "No",
+            "input": "This statement does not apply to our offline information practices.",
+            "index": 99
+        },
+        {
+            "target": "No",
+            "input": "What information is covered by this privacy policy- What isn't- All information you provide directly to Tulsaworld.com is covered under this privacy policy. This information may include but is not limited to personally identifiable information such as your name, address, phone number, and e-mail address.",
+            "index": 100
+        },
+        {
+            "target": "No",
+            "input": "For example, like many Web sites, we use \"cookies,\" and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites.",
+            "index": 101
+        },
+        {
+            "target": "No",
+            "input": "We provide these companies only with the information they need to perform their services. These service providers are restricted from using personal information in any way other than to provide services for The New York Times, and they may not share, resell or use the data for their own direct marketing purposes.",
+            "index": 102
+        },
+        {
+            "target": "No",
+            "input": "When you share or recommend any TED.com content using your Facebook profile, your action is governed by Facebook's privacy policy. Likewise, when you share or recommend any TED.com content through other social media outlets, your actions are governed by their privacy policies.",
+            "index": 103
+        },
+        {
+            "target": "No",
+            "input": "You can choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use. For more information, please see the How We Use Your Information section below.",
+            "index": 104
+        },
+        {
+            "target": "No",
+            "input": "A visitor may modify, correct, change or update their personally identifiable information by contacting SRL via postal mail, e-mail, facsimile, or telephone as provided in Paragraph 3 of this Privacy Statement.",
+            "index": 105
+        },
+        {
+            "target": "No",
+            "input": "TEN: The Enthusiast Network Privacy Policy TEN: The Enthusiast Network (TEN or We or we) is strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to TEN and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.",
+            "index": 106
+        },
+        {
+            "target": "No",
+            "input": "provide the customer with a method of \"opting out\" of receiving future communications of a similar nature.",
+            "index": 107
+        },
+        {
+            "target": "No",
+            "input": "Personal information is information that can be used to identify, locate, or contact an individual, and includes other information that may be associated with personal information. When you interact with our sites and services, depending on the site or service, we may ask for the following personal information directly from you",
+            "index": 108
+        },
+        {
+            "target": "No",
+            "input": "To learn more about how to manage flash cookies, you can visit the Adobe website and make changes at the Global Privacy Settings Panel.",
+            "index": 109
+        },
+        {
+            "target": "Yes",
+            "input": "may not respond to Do Not Track requests or headers from some or all browsers",
+            "index": 110
+        },
+        {
+            "target": "Yes",
+            "input": "Our system may not respond to Do Not Track requests or headers from some or all browsers. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance's opt-out page here.",
+            "index": 111
+        },
+        {
+            "target": "Yes",
+            "input": "Our system may not respond to Do Not Track requests or headers from some or all browsers.",
+            "index": 112
+        },
+        {
+            "target": "Yes",
+            "input": "We do not respond to browser-based \"do not track\" signals.",
+            "index": 113
+        },
+        {
+            "target": "No",
+            "input": "Information regarding Steam billing, a users Steam account, a users Internet connection and the Valve software installed on a users computer is uploaded to the server in connection with the users use of Steam and Valve software. Valve software automatically generates and submits to Valve bug reports upon a crash or other fault in the Valve software, services or Steam games. This automatically generated bug report information may include information about other software or hardware on a user's system. Valve does not associate and store the automatically generated bug report information with users personally identifiable information. Any bug reporting information manually submitted by users (e.g. through Valve's Bug Reporter form) is associated and stored with personally identifiable information sent voluntarily by the user through a bug report.",
+            "index": 114
+        },
+        {
+            "target": "No",
+            "input": "Governing Law SCEA operates in parts of North and South America but this site is intended for consumers in the United States. When we process personal data and information and personally identifying information in the United States, we follow United States data protection and privacy regulations, which may not offer the same level of protection as in other parts of the world, such as the European Union. If we are made aware that a consumer's country of residence is outside the United States, that consumer will be directed to the appropriate Sony company.",
+            "index": 115
+        },
+        {
+            "target": "No",
+            "input": "These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements.",
+            "index": 116
+        },
+        {
+            "target": "No",
+            "input": "We reserve the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes.",
+            "index": 117
+        }
+    ]
+}

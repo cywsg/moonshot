@@ -1,0 +1,16 @@
+{
+  "id": "cuad-covenant-not-to-sue",
+  "name": "cuad_covenant_not_to_sue",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_covenant_not_to_sue"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_covenant_not_to_sue"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

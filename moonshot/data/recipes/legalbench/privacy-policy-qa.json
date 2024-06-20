@@ -1,0 +1,16 @@
+{
+  "id": "privacy-policy-qa",
+  "name": "privacy_policy_qa",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/privacy_policy_qa"
+  ],
+  "prompt_templates": [
+    "legalbench/privacy_policy_qa"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

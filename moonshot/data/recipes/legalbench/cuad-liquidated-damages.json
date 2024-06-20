@@ -1,0 +1,16 @@
+{
+  "id": "cuad-liquidated-damages",
+  "name": "cuad_liquidated_damages",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_liquidated_damages"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_liquidated_damages"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

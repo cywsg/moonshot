@@ -1,0 +1,16 @@
+{
+  "id": "maud-general-economic-and-financial-conditions-subject-to-disproportionate-impact-modifier",
+  "name": "maud_general_economic_and_financial_conditions_subject_to_disproportionate_impact_modifier",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_general_economic_and_financial_conditions_subject_to_disproportionate_impact_modifier"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_general_economic_and_financial_conditions_subject_to_disproportionate_impact_modifier"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

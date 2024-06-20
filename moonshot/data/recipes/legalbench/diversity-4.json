@@ -1,0 +1,16 @@
+{
+  "id": "diversity-4",
+  "name": "diversity_4",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/diversity_4"
+  ],
+  "prompt_templates": [
+    "legalbench/diversity_4"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

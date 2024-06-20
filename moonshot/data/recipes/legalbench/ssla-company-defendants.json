@@ -1,0 +1,16 @@
+{
+  "id": "ssla-company-defendants",
+  "name": "ssla_company_defendants",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/ssla_company_defendants"
+  ],
+  "prompt_templates": [
+    "legalbench/ssla_company_defendants"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cuad-minimum-commitment",
+  "name": "cuad_minimum_commitment",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_minimum_commitment"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_minimum_commitment"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

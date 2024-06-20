@@ -1,0 +1,16 @@
+{
+  "id": "cuad-source-code-escrow",
+  "name": "cuad_source_code_escrow",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_source_code_escrow"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_source_code_escrow"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

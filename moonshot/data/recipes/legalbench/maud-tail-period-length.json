@@ -1,0 +1,16 @@
+{
+  "id": "maud-tail-period-length",
+  "name": "maud_tail_period_length",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_tail_period_length"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_tail_period_length"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

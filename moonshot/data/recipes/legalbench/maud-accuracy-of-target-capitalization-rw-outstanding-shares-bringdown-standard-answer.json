@@ -1,0 +1,16 @@
+{
+  "id": "maud-accuracy-of-target-capitalization-rw-outstanding-shares-bringdown-standard-answer",
+  "name": "maud_accuracy_of_target_capitalization_rw_(outstanding_shares)_bringdown_standard_answer",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_accuracy_of_target_capitalization_rw_(outstanding_shares)_bringdown_standard_answer"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_accuracy_of_target_capitalization_rw_(outstanding_shares)_bringdown_standard_answer"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

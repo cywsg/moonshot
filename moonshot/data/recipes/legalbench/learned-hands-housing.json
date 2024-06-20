@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-housing",
+  "name": "learned_hands_housing",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_housing"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_housing"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

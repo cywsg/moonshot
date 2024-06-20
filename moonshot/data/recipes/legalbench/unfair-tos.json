@@ -1,0 +1,16 @@
+{
+  "id": "unfair-tos",
+  "name": "unfair_tos",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/unfair_tos"
+  ],
+  "prompt_templates": [
+    "legalbench/unfair_tos"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

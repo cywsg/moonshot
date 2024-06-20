@@ -1,0 +1,5 @@
+{
+    "name": "rule_qa",
+    "description": "",
+    "template": "Q: {{ prompt }}\nA: "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cuad-anti-assignment",
+  "name": "cuad_anti-assignment",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_anti-assignment"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_anti-assignment"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

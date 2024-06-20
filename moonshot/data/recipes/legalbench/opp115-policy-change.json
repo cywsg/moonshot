@@ -1,0 +1,16 @@
+{
+  "id": "opp115-policy-change",
+  "name": "opp115_policy_change",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_policy_change"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_policy_change"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

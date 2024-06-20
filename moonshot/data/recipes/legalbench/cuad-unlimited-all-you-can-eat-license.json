@@ -1,0 +1,16 @@
+{
+  "id": "cuad-unlimited-all-you-can-eat-license",
+  "name": "cuad_unlimited-all-you-can-eat-license",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_unlimited-all-you-can-eat-license"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_unlimited-all-you-can-eat-license"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

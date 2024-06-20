@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-business",
+  "name": "learned_hands_business",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_business"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_business"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-sharing-with-employees",
+  "name": "contract_nli_sharing_with_employees",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_sharing_with_employees"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_sharing_with_employees"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "definition-classification",
+  "name": "definition_classification",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/definition_classification"
+  ],
+  "prompt_templates": [
+    "legalbench/definition_classification"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

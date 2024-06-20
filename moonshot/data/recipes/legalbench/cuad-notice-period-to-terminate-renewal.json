@@ -1,0 +1,16 @@
+{
+  "id": "cuad-notice-period-to-terminate-renewal",
+  "name": "cuad_notice_period_to_terminate_renewal",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_notice_period_to_terminate_renewal"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_notice_period_to_terminate_renewal"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

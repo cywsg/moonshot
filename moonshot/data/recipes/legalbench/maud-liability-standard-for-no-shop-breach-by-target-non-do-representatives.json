@@ -1,0 +1,16 @@
+{
+  "id": "maud-liability-standard-for-no-shop-breach-by-target-non-do-representatives",
+  "name": "maud_liability_standard_for_no-shop_breach_by_target_non-do_representatives",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_liability_standard_for_no-shop_breach_by_target_non-do_representatives"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_liability_standard_for_no-shop_breach_by_target_non-do_representatives"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

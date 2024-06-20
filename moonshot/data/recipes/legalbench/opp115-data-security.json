@@ -1,0 +1,16 @@
+{
+  "id": "opp115-data-security",
+  "name": "opp115_data_security",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_data_security"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_data_security"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

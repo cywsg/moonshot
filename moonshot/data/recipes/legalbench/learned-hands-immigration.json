@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-immigration",
+  "name": "learned_hands_immigration",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_immigration"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_immigration"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

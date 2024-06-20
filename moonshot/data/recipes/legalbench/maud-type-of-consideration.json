@@ -1,0 +1,16 @@
+{
+  "id": "maud-type-of-consideration",
+  "name": "maud_type_of_consideration",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_type_of_consideration"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_type_of_consideration"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

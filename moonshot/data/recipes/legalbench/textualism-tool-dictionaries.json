@@ -1,0 +1,16 @@
+{
+  "id": "textualism-tool-dictionaries",
+  "name": "textualism_tool_dictionaries",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/textualism_tool_dictionaries"
+  ],
+  "prompt_templates": [
+    "legalbench/textualism_tool_dictionaries"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-benefits",
+  "name": "learned_hands_benefits",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_benefits"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_benefits"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

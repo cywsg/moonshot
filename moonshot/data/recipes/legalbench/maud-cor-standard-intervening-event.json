@@ -1,0 +1,16 @@
+{
+  "id": "maud-cor-standard-intervening-event",
+  "name": "maud_cor_standard_(intervening_event)",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_cor_standard_(intervening_event)"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_cor_standard_(intervening_event)"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

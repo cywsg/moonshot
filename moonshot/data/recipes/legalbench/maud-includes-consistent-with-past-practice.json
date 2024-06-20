@@ -1,0 +1,16 @@
+{
+  "id": "maud-includes-consistent-with-past-practice",
+  "name": "maud_includes_consistent_with_past_practice",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_includes_consistent_with_past_practice"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_includes_consistent_with_past_practice"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

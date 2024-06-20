@@ -1,0 +1,16 @@
+{
+  "id": "cuad-joint-ip-ownership",
+  "name": "cuad_joint_ip_ownership",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_joint_ip_ownership"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_joint_ip_ownership"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

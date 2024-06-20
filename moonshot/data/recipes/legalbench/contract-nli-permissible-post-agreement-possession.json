@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-permissible-post-agreement-possession",
+  "name": "contract_nli_permissible_post-agreement_possession",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_permissible_post-agreement_possession"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_permissible_post-agreement_possession"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

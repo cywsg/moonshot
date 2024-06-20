@@ -1,0 +1,16 @@
+{
+  "id": "citation-prediction-open",
+  "name": "citation_prediction_open",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/citation_prediction_open"
+  ],
+  "prompt_templates": [
+    "legalbench/citation_prediction_open"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

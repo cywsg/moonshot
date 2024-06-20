@@ -1,0 +1,16 @@
+{
+  "id": "cuad-no-solicit-of-customers",
+  "name": "cuad_no-solicit_of_customers",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_no-solicit_of_customers"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_no-solicit_of_customers"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

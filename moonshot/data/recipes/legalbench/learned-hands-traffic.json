@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-traffic",
+  "name": "learned_hands_traffic",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_traffic"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_traffic"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

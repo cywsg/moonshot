@@ -1,0 +1,649 @@
+{
+    "name": "cuad_non-disparagement",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "cuad_non-disparagement"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "input": "In further consideration of this Agreement, XLI shall not in any way disparage the Trademarks, nor any of WCC's parent, subsidiary, or affiliated companies' trademarks or its or their products.",
+            "target": "Yes",
+            "document_name": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement.PDF",
+            "index": 0
+        },
+        {
+            "input": "The Company agrees that, from the date of this Agreement until the earliest of (i) the date that is thirty (30) calendar days prior to any applicable deadline by which a shareholder must give notice to the Company of its intention to nominate a director for election at or bring other business before the 2015 Annual Meeting under the Company's By\u00adLaws and (ii) any material breach of this Agreement by JANA (provided that JANA shall have three (3) business days following written notice from the Company of material breach to remedy such material breach if capable of remedy), neither it nor any of its Affiliates or Associates will in any manner, directly or indirectly make, or cause to be made, or in any way encourage any other person to make or cause to be made, any statement or announcement that relates to and constitutes an ad hominem attack on, or relates to and otherwise disparages, JANA, any of its members, officers or directors or any person who has served as a member, officer or director of JANA, including: (i) in any document or report filed with or furnished to the SEC or any other governmental agency, (ii) in any press release or other publicly available format or (iii) to any journalist or member of the media (including without limitation, in a television, radio, newspaper or magazine interview), or otherwise.",
+            "target": "Yes",
+            "document_name": "URSCORPNEW_03_17_2014-EX-99-COOPERATION AGREEMENT.PDF",
+            "index": 1
+        },
+        {
+            "input": "The Sponsor shall have the right to terminate this Agreement on written notice to Racing if any driver, the general manager or any other member of Racing<omitted>(iii) disparages the products or services of the Sponsor",
+            "target": "Yes",
+            "document_name": "GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT.PDF",
+            "index": 2
+        },
+        {
+            "input": "NCM shall not engage in any conduct which may place Network Affiliate or any Network Affiliate Mark in a negative light or context,",
+            "target": "Yes",
+            "document_name": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf",
+            "index": 3
+        },
+        {
+            "input": "acts or omissions reasonably determined by the Company to be prejudicial or injurious to the business or goodwill of the Company, its officers, employees, shareholders or products, the golf industry or professional golf; and",
+            "target": "Yes",
+            "document_name": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF",
+            "index": 4
+        },
+        {
+            "input": "Without limiting the preceding sentence, Allied agrees not to use the Newegg Marks in any advertising materials or conduct any activities in a manner that may be seen to unreasonably modify, alter, detract from or impair the integrity, character, or dignity of the Newegg Marks or reflect unfavorably upon Newegg or Newegg Products.",
+            "target": "Yes",
+            "document_name": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.pdf",
+            "index": 5
+        },
+        {
+            "input": "In the event that: (a) Company at any time engages in<omitted>other behavior that is materially harming the goodwill or reputation of ACSI or its Affiliates or the ACSI Site;<omitted>the same shall be deemed a material breach of this Agreement which is not susceptible to cure, and ACSI shall be entitled to terminate this Agreement upon written notice to Company.",
+            "target": "Yes",
+            "document_name": "AudibleInc_20001113_10-Q_EX-10.32_2599586_EX-10.32_Co-Branding Agreement_ Marketing Agreement_ Investment Distribution Agreement.pdf",
+            "index": 6
+        },
+        {
+            "input": "The Agent shall not use or facilitate the use of promotional materials which disparage Roundup Products or Industrial Property.",
+            "target": "Yes",
+            "document_name": "Monsanto Company - SECOND A&R EXCLUSIVE AGENCY AND MARKETING AGREEMENT .PDF",
+            "index": 7
+        },
+        {
+            "input": "Network Affiliate shall not engage in any conduct which may place NCM or any NCM Mark in a negative light or context,",
+            "target": "Yes",
+            "document_name": "DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement.pdf",
+            "index": 8
+        },
+        {
+            "input": "Distributor shall not do anything which is contrary to or which in Erchonia's reasonable business judgment is harmful to its honor, goodwill or reputation.",
+            "target": "Yes",
+            "document_name": "InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.pdf",
+            "index": 9
+        },
+        {
+            "input": "During the term hereof and for a period of two years thereafter, each of Agent and Kallo agrees that it will refrain from making any representation, statement, comment or any other form of communication, whether written or oral (hereinafter collectively referred to as a \"Communication\"), to any third party, including but not limited to the principals, customers, suppliers and competitors of the other party, which Communication reflects any opinion, judgment, observation or<omitted>representation of fact, which has the effect or tendency to, or could have the effect or tendency to, disparage, denigrate, criticize or otherwise reflect negatively on the other party and/or the other party's products, services, officers, directors, shareholders, employees or investors (a \"Disparaging Communication\").",
+            "target": "Yes",
+            "document_name": "KALLOINC_11_03_2011-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF'",
+            "index": 10
+        },
+        {
+            "input": "No Party will make, issue or release any statement which results in any defamation or disparagement of the Village, the City of Canton, the other Party, or any team, person, performer or organization involved in events at the Village.",
+            "target": "Yes",
+            "document_name": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+            "index": 11
+        },
+        {
+            "input": "Each of the HOF Entities or Constellation may terminate this Agreement at any time without liability if association with another Party could, in such Party's reasonable opinion, materially damage its reputation or image or in the event a Party breaches Section 3.3 hereof, which breach is not cured within sixty (60).",
+            "target": "Yes",
+            "document_name": "GpaqAcquisitionHoldingsInc_20200123_S-4A_EX-10.8_11951679_EX-10.8_Service Agreement.pdf",
+            "index": 12
+        },
+        {
+            "input": "The Company shall not tarnish or bring into disrepute the reputation of or goodwill associated with the Seller Licensed Trademarks or Arizona.",
+            "target": "Yes",
+            "document_name": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement.pdf",
+            "index": 13
+        },
+        {
+            "input": "The Client and the Designer both agree to never to disparage or speak ill of the other party to anyone and or post negative or disparaging comments Online regarding any of the Designer's products, services, affiliates, subsidiaries, officers, directors, employees or shareholders, and will take reasonable steps to prevent and will not knowingly permit any of their respective employees or agents to, disparage or speak ill of such persons.",
+            "target": "Yes",
+            "document_name": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf",
+            "index": 14
+        },
+        {
+            "input": "CONSULTANT agrees to act in good faith so as to not harm the business reputation of the Company in any way.",
+            "target": "Yes",
+            "document_name": "MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.PDF",
+            "index": 15
+        },
+        {
+            "input": "EFS and its affiliates conduct their activities, both relating to the Playboy Commerce Business and otherwise, in a way that does not jeopardize the Playboy Marks or the reputation and image of any Playboy entity or activity.",
+            "target": "Yes",
+            "document_name": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf",
+            "index": 16
+        },
+        {
+            "input": "Company shall not specify the business practices of MA, nor regulate the manner in which MA shall operate its business, provided that MA (a) conducts business in a manner that reflects favorably at all times on the Technology sold and the good name, goodwill and reputation of Company and its affiliates<omitted>",
+            "target": "Yes",
+            "document_name": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf",
+            "index": 17
+        },
+        {
+            "input": "Refrain from making any claims or representations concerning the Products other than as set forth in the applicable specifications or labeling therefor and never disparage either STAAR or the Products.",
+            "target": "Yes",
+            "document_name": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement.pdf",
+            "index": 18
+        },
+        {
+            "input": "In consideration for such training, trade secrets and confidential information, you and your principals agree that during the term of this Agreement, and for a continuous uninterrupted period commencing upon expiration or termination of this Agreement, regardless of the cause for termination, and continuing for a period of three (3) years thereafter, neither you nor your principals shall, directly or indirectly, for themselves, or through, on behalf of, or in conjunction with any person, persons, partnership, limited liability company or corporation: 7.1.1 Divert or attempt to divert any business or customer of the Franchised Business or any Unit Franchisee anywhere, by direct or indirect inducement or otherwise, or do or perform, directly or indirectly, any other act injurious or prejudicial to the goodwill associated with our Proprietary Marks or the System.",
+            "target": "Yes",
+            "document_name": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf",
+            "index": 19
+        },
+        {
+            "input": "JANA agrees that, from the date of this Agreement until the earliest of (i) the date that is thirty (30) calendar days prior to any applicable deadline by which a shareholder must give notice to the Company of its intention to nominate a director for election at or bring other business before the 2015 Annual Meeting under the Company's By\u00adLaws and (ii) any material breach of this Agreement by the Company (provided that the Company shall have three (3) business days following written notice from JANA of material breach to remedy such material breach if capable of remedy) (such period, the \"Cooperation Period\"), neither it nor any of its Affiliates or Associates will in any manner, directly or indirectly, make, or cause to be made, or in any way encourage any other person to make or cause to be made, any statement or announcement that relates to and constitutes an ad hominem attack on, or relates to and otherwise disparages, the Company, any of its officers or directors or any person who has served as an officer or director of the Company, including: (i) in any document or report filed with or furnished to the Securities and Exchange Commission (the \"SEC\") or any other governmental agency, (ii) in any press release or other publicly available format or (iii) to any journalist or member of the media (including without limitation, in a television, radio, newspaper or magazine interview), or otherwise; provided, that if the Company makes any material announcement prior to the March Board Meeting, JANA will be permitted to make objective statements that solely reflect JANA's view, as a shareholder, with respect to such announcement.",
+            "target": "Yes",
+            "document_name": "URSCORPNEW_03_17_2014-EX-99-COOPERATION AGREEMENT.PDF",
+            "index": 20
+        },
+        {
+            "input": "The Franchisee will not directly or indirectly, at any time during the term of this Agreement or thereafter, do or cause to be done any act or thing disputing, attacking or in any way impairing the validity of and BKC's right, title or interest in the Burger King Marks and the Burger King System.",
+            "target": "Yes",
+            "document_name": "INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT.PDF",
+            "index": 21
+        },
+        {
+            "input": "However, conduct which Company, in its discretion, deems detrimental to Company's image or reputation, shall be grounds for termination of this Agreement, upon reasonable notice and the failure to cure such behavior by Distributor.",
+            "target": "Yes",
+            "document_name": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+            "index": 22
+        },
+        {
+            "input": "CONSULTANT acknowledges that any disparaging comments by him against the Company are likely to substantially depreciate the business reputation of the Company.",
+            "target": "Yes",
+            "document_name": "MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.PDF",
+            "index": 23
+        },
+        {
+            "input": "Company and North shall at all times deal with each other in good faith and strive to maintain and enhance each other's positive image and reputation.",
+            "target": "Yes",
+            "document_name": "PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement.pdf",
+            "index": 24
+        },
+        {
+            "input": "Neither the Farids Group nor any of its Affiliates shall in any manner, directly or indirectly, in any capacity or manner, make or cause to be made, or in any way encourage any other person to make or cause to be made, any public statement or public announcement, including in any document or report filed with or furnished to the SEC or through the press, media, analysts or other persons, that constitutes an ad hominem attack on or otherwise disparages, defames or slanders the Company or any of its Affiliates or any of their respective successors or current or former members, partners, officers, directors or employees; provided, that, the limitations set forth in this Section 8.8(b) shall not prevent the Farids Group or any of its Affiliates from (i) responding to any statement made by the Company or any of its Affiliates or representatives that was made in breach of Section 8.8(a) above or (ii) if solicited by a Third Party, making objective statements that reflect the Farids Group's or any of its Affiliates' view with respect to factual matters concerning specific acts or determinations of the Company, any of its Affiliates or any current or former representatives of the Company or any of its Affiliates occurring after the date hereof. For the avoidance of doubt, a public statement or announcement shall only be deemed to be made by the Farids Group or any of its Affiliates if such public statement or announcement is made by (X) a Farids manager, director or executive officer or an EA manager, director or executive officer (Y) an employee or representative of Farids or EA authorized to make such statement or announcement on behalf of Farids or EA, as applicable.",
+            "target": "Yes",
+            "document_name": "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 25
+        },
+        {
+            "input": "use of controlled substances, except as prescribed by a licensed medical professional in the treatment of illness or disease;",
+            "target": "Yes",
+            "document_name": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF",
+            "index": 26
+        },
+        {
+            "input": "Each party agrees that, during the Term of this Agreement and for a period of five (5) years thereafter, neither will make written or oral comments regarding the other that are negative, disparaging, tend to bring the other into disrepute or call into question the business acumen, character, honesty or integrity of the other.",
+            "target": "Yes",
+            "document_name": "OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT.PDF",
+            "index": 27
+        },
+        {
+            "input": "The parties will ensure that marketing, promotional and selling plans promote the sale of the Natural Products in a manner that is consistent with this Agreement and complementary to Roundup Products, and does not directly or indirectly disparage or advertise against Roundup Products, as set forth in this Agreement.",
+            "target": "Yes",
+            "document_name": "Monsanto Company - SECOND A&R EXCLUSIVE AGENCY AND MARKETING AGREEMENT .PDF",
+            "index": 28
+        },
+        {
+            "input": "conduct which could reasonably be expected to degrade the Professional, devalue the services of the Professional or to bring the Professional into public hatred, contempt, scorn or ridicule, or that could reasonably be expected to shock, insult or offend the community or to offend public morals or decency.",
+            "target": "Yes",
+            "document_name": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF",
+            "index": 29
+        },
+        {
+            "input": "Termination by Company under this Section 12.2 shall be effective sixty (60) days following Company's giving of notice to Distributor if the occurrence giving rise to the right of termination has not been cured, or immediately in the event of a breach of Section 6 regarding Non-Disclosure of Confidential Information or Section 7.1 regarding conduct injurious to Company's reputation.",
+            "target": "Yes",
+            "document_name": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+            "index": 30
+        },
+        {
+            "input": "We have the right to terminate this Agreement effective upon delivery of notice of termination to you, if:<omitted>(8) you are involved in any action that is likely to adversely affect the reputation of the Company, the Franchise, and/or the goodwill associated with the Marks;",
+            "target": "Yes",
+            "document_name": "JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT.PDF",
+            "index": 31
+        },
+        {
+            "input": "Each Investor agrees that, until the earlier of (i) the expiration of the Standstill Period or (ii) any material breach of this Agreement by the Company (provided that the Company shall have three (3) business days following written notice from such Investor of any material breach to remedy such material breach if capable of remedy), neither it nor any of its Affiliates or Associates will, and it will cause each of its Affiliates and Associates not to, directly or indirectly, publicly make, express, transmit, speak, write, verbalize or otherwise publicly communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing), any remark, comment, message, information, declaration, communication or other statement of any kind, whether verbal or in writing, that might reasonably be construed to be derogatory or critical of, or negative toward, the Company or any of its directors, officers, Affiliates, Associates, subsidiaries, employees, agents or representatives (collectively, the \"Company Representatives\"), or that reveals, discloses, incorporates, is based upon, discusses, includes or otherwise involves any confidential or proprietary information of the Company or its subsidiaries or Affiliates or Associates, or to malign, harm, disparage, defame or damage the reputation or good name of the Company, its business or any of the Company Representatives.",
+            "target": "Yes",
+            "document_name": "MEETGROUP,INC_06_29_2017-EX-10.1-COOPERATION AGREEMENT.PDF",
+            "index": 32
+        },
+        {
+            "input": "Berkshire may terminate this Agreement immediately by giving Auriemma notice if<omitted>(iii) Auriemma publicly disparages Berkshire and/ or its products.",
+            "target": "Yes",
+            "document_name": "BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement.pdf",
+            "index": 33
+        },
+        {
+            "input": "Neither the Company nor any of its Affiliates shall in any manner, directly or indirectly, in any capacity or manner, make or cause to be made, or in any way encourage any other person to make or cause to be made, any public statement or public announcement, including in any document or report filed with or furnished to the SEC or through the press, media, analysts or other persons, that constitutes an ad hominem attack on or otherwise disparages, defames or slanders the Farids Group or any of its Affiliates or any of their respective successors or current or former members, partners, officers, directors or employees (it being understood and agreed that the restrictions in this Section 8.8(a) shall not apply to any member of the Board of Directors based upon discussions solely among other members of the Board of Directors and/or management of the Company); provided, that the limitations set forth in this Section 8.8(a) shall not prevent the Company or any of its Affiliates from (i) responding to any public statement or announcement made by the Farids Group or any of its Affiliates that was made in breach of Section 8.8(b) below or (ii) if solicited by a Third Party, making objective statements that reflect the Company's view with respect to factual matters concerning specific acts or determinations of the Farids Group or any of its Affiliates (or their respective current or former representatives) occurring after the date hereof.",
+            "target": "Yes",
+            "document_name": "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 34
+        },
+        {
+            "input": "Subject to applicable law, the Company, on the one hand, and each of the Marathon Parties on the other hand, covenants and agrees that, during the Support Period or if earlier, until such time as the other Party or any of its or her officers, directors, employees, subsidiaries, Affiliates, Associates, agents, attorneys or other representatives (collectively, the \"Representatives\") shall have breached this section, neither it nor any of its respective Representatives acting, directly or indirectly, at its direction or on its behalf, shall in any way publicly (including by any communication with other investors or prospective investors in the Company where such communications could reasonably be expected to be made public or trigger a public disclosure obligation, with securities analysts or any member of traditional or digital media) criticize, disparage, call into disrepute or otherwise defame or slander the other Party or such other Party's Representatives (including any current officer or director of a Party or a Party's subsidiaries who no longer serves in such capacity at any time following the execution of this Agreement), or any of their businesses, products or services, in any manner that would reasonably be expected to damage the business or reputation of such other Party.",
+            "target": "Yes",
+            "document_name": "ELFBEAUTY,INC_07_02_2020-EX-10.1-COOPERATION AGREEMENT.PDF",
+            "index": 35
+        },
+        {
+            "input": "PPG SHANGHAI shall have the right to terminate this Agreement and/or suspend its performance hereunder immediately upon giving notice to DISTRIBUTOR, which termination shall be effective upon receipt of notice, if any one of the following occurs:<omitted>(ii) DISTRIBUTOR, or any principal owner of DISTRIBUTOR, is convicted of a crime which, in PPG SHANGHAI's reasonable judgment, may adversely affect the goodwill or interest of DISTRIBUTOR or of PPG SHANGHAI;",
+            "target": "Yes",
+            "document_name": "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT.PDF",
+            "index": 36
+        },
+        {
+            "input": "Subject to applicable law, each of the Parties covenants and agrees that, during the Standstill Period, neither Party nor any of its subsidiaries, Affiliates, successors, assigns, principals, partners, members, general partners, officers, key employees or directors (collectively, \"Representatives\"), shall in any way, directly or indirectly, in any capacity or manner, whether written or oral, electronically or otherwise (including, without limitation, in a television, radio, internet, newspaper, magazine interview, or otherwise through the press, media, analysts or other persons or in any document or report filed with the SEC), publicly disparage, impugn, make ad hominem attacks on or otherwise defame or slander or make, express, transmit, speak, write, verbalize or otherwise publicly communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing), any public communication or statement of any kind, whether verbal, in writing, electronically transferred or otherwise, that might reasonably be construed to be disparage, derogate or impugn, the other Party or such other Party's Representatives (including any current officer or director of a Party or a Parties' subsidiaries who no longer serves in such capacity following the execution of this Agreement), employees, stockholders (solely in their capacity as stockholders of the applicable Party), or any of their businesses, products or services, in any manner that would reasonably be expected to damage the business, or reputation of the other Party or of its Representatives (including former officers and directors), directors (or former directors), employees, stockholders (solely in their capacity as stockholders of the applicable Party); provided that, with respect to any litigation, arbitration or other proceeding between the Parties, nothing in this Section 5 shall prevent either Party from disclosing any facts or circumstances with respect to any such litigation, arbitration or other proceeding.",
+            "target": "Yes",
+            "document_name": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT.PDF",
+            "index": 37
+        },
+        {
+            "input": "Licensee will<omitted>(C) avoid making disparaging, false or misleading statements or representations with regard to Fox, the Property or the Wireless Products,",
+            "target": "Yes",
+            "document_name": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement1.pdf",
+            "index": 38
+        },
+        {
+            "input": "All Parties agree not to disparage or make derogatory comments, verbal or written, regarding the other Party during the Term of the Agreement, and for one year thereafter.",
+            "target": "Yes",
+            "document_name": "PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.pdf",
+            "index": 39
+        },
+        {
+            "input": "Either Party shall have the right to immediately terminate this Agreement in the event the other Party, in such Party's reasonable discretion, engages in illegal, indecent, immoral, harmful or scandalous behavior or activities that may directly or indirectly damage such Party's reputation or goodwill or violates any rules or regulations of Team or the National Football League or if this would otherwise violate League policy or directive.",
+            "target": "Yes",
+            "document_name": "VIOLINMEMORYINC_12_12_2012-EX-10.14-SPONSORSHIP AGREEMENT.PDF",
+            "index": 40
+        },
+        {
+            "input": "Each member of the ValueAct Group agrees that, during the Covered Period, (unless specifically requested in writing by the Company, acting through a resolution of a majority of the Company's directors not including the ValueAct Designee), it shall not, and shall cause each of its Affiliates or Associates (as such terms are defined in Rule 12b-2 promulgated by the SEC under the Exchange Act) (collectively and individually, the \"ValueAct Affiliates,\" provided that no portfolio company of the ValueAct Group shall be deemed a \"ValueAct Affiliate\" so long as such portfolio company (A) has not discussed any of the actions set forth in this subsection (a) with the ValueAct Group or the ValueAct Designee, (B) has not received from the ValueAct Group or the ValueAct Designee information concerning the Company or its business, and (C) is not acting at the request of, in coordination with or on behalf of the ValueAct Group or the ValueAct Designee), not to, directly or indirectly, in any manner, alone or in concert with others:<omitted>(ix) disparage or cause to be disparaged the Company or Affiliates thereof, any of its current or former officers, or directors;",
+            "target": "Yes",
+            "document_name": "ALLISONTRANSMISSIONHOLDINGSINC_12_15_2014-EX-99.1-COOPERATION AGREEMENT.PDF",
+            "index": 41
+        },
+        {
+            "input": "CONSULTANT further agrees that it will not directly or indirectly defame, disparage, or publicly criticize the services, business, integrity, veracity or reputation of the Company or its owners, officers, directors, or employees in any forum or through any medium of communication.",
+            "target": "Yes",
+            "document_name": "MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT.PDF",
+            "index": 42
+        },
+        {
+            "input": "The Company hereby agrees that, until the earlier of (i) the expiration of the Standstill Period or (ii) any material breach of this Agreement by an Investor (provided that such Investor shall have three (3) business days following written notice from the Company of any material breach to remedy such material breach if capable of remedy), neither it nor any of its Affiliates will, and it will cause each of its Affiliates not to, directly or indirectly, publicly make, express, transmit, speak, write, verbalize or otherwise publicly communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing), any remark, comment, message, information, declaration, communication or other statement of any kind, whether verbal or in writing, that might reasonably be construed to be derogatory or critical of, or negative toward, the Investors or their Affiliates or Associates or any of their agents or representatives (collectively, the \"Investor Agents\"), or that reveals, discloses, incorporates, is based upon, discusses, includes or otherwise involves any confidential or proprietary information of any Investor or its Affiliates or Associates, or to malign, harm, disparage, defame or damage the reputation or good name of any Investor, its business or any of the Investor Agents.",
+            "target": "Yes",
+            "document_name": "MEETGROUP,INC_06_29_2017-EX-10.1-COOPERATION AGREEMENT.PDF",
+            "index": 43
+        },
+        {
+            "input": "Franchisee shall not do anything or suffer anything to be done which may adversely affect any rights of Franchisor in and to any Franchisor Property, or any registrations thereof or which, directly or indirectly, may<omitted>disparage or detract from Franchisor's reputation.",
+            "target": "Yes",
+            "document_name": "SimplicityEsportsGamingCompany_20181130_8-K_EX-10.1_11444071_EX-10.1_Franchise Agreement.pdf",
+            "index": 44
+        },
+        {
+            "input": "Each party agrees that it will use all reasonable commercial efforts to prevent its employees from making any Disparaging Communications regarding the other party and/or the other party's products, services, officers, directors, shareholders, employees or investors; provided, however, that nothing in this Section (11), subparagraph (j) shall restrict or impede the exercise of any rights or remedies of a Party under this Agreement.",
+            "target": "Yes",
+            "document_name": "KALLOINC_11_03_2011-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF'",
+            "index": 45
+        },
+        {
+            "input": "The Company may terminate the Executive's employment under this Agreement with immediate effect without notice and with no liability to make any further payment to the Executive (other than in respect of amounts accrued at the Termination Date) if in the reasonable opinion of the Company the Executive:<omitted>makes any statement or other form of communication that disparages or undermines the goodwill or reputation of any Group Company.",
+            "target": "Yes",
+            "document_name": "THERAVANCEBIOPHARMA,INC_05_08_2020-EX-10.2-SERVICE AGREEMENT.PDF",
+            "index": 46
+        },
+        {
+            "input": "AJR shall not take any action or suffer any action to occur, whether taken by the Team or others, which could result in an adverse impact on XC, its Licensed Materials and the goodwill associated therewith as a result of this Agreement.",
+            "target": "Yes",
+            "document_name": "XYBERNAUTCORP_07_12_2002-EX-4-SPONSORSHIP AGREEMENT.PDF",
+            "index": 47
+        },
+        {
+            "input": "You further agree to refrain from any business or advertising practice that may be harmful to the business of the Company, the Franchise, and/or the goodwill associated with the Marks and other The Joint Corp. franchises.",
+            "target": "Yes",
+            "document_name": "JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT.PDF",
+            "index": 48
+        },
+        {
+            "input": "PAPA JOHN'S shall not, during the Term or at any time thereafter: (I) defame or disparage CELEBRITY or the Personality Rights (or any portion thereof), nor shall PAPA JOHN'S place the CELEBRITY or the Personality Rights (or any portion thereof) in a negative light, whether in connection with this Agreement or otherwise",
+            "target": "Yes",
+            "document_name": "PapaJohnsInternationalInc_20190617_8-K_EX-10.1_11707365_EX-10.1_Endorsement Agreement.pdf",
+            "index": 49
+        },
+        {
+            "input": "This Agreement and the performance of transactions under this Agreement shall be governed by the substantive laws of the state of New York.",
+            "target": "No",
+            "document_name": "MANUFACTURERSSERVICESLTD_06_05_2000-EX-10.14-OUTSOURCING AGREEMENT.PDF",
+            "index": 50
+        },
+        {
+            "input": "This Agreement shall commence on the Effective Date and continue in full force and effect until the end of the fifteenth (15th) Contract Year, and shall continue in full force and effect thereafter until terminated by either Party by providing thirty (30) calendar days' prior written notice of termination to the other Party (such fifteen (15) Contract Year period, as may be further extended as provided herein is referred to as the \"Term\").",
+            "target": "No",
+            "document_name": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.pdf",
+            "index": 51
+        },
+        {
+            "input": "VerticalNet agrees that during the term of this Agreement, it shall not enter into an agreement with Futurestep, Inc. to provide promotional opportunities to Futurestep throughout all of the VerticalNet Online Communities, nor enter into any agreement with Futurestep, Inc. for the joint marketing of each other's Sites or services.",
+            "target": "No",
+            "document_name": "LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding Agreement.pdf",
+            "index": 52
+        },
+        {
+            "input": "This insurance will include (a) worker's compensation insurance, (b) comprehensive general liability insurance, including coverage for product liability, bodily injury and property damage, and (c) automobile liability insurance.",
+            "target": "No",
+            "document_name": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.pdf",
+            "index": 53
+        },
+        {
+            "input": "It is expressly agreed by the Parties that the Lenders shall be third party beneficiaries of Section 4.09, Section 6.03, Section 8.02(b), Section 8.04, Section 8.05 and this Section 8.13",
+            "target": "No",
+            "document_name": "SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 54
+        },
+        {
+            "input": "provided that at any time following the 7th anniversary of such date, either party may terminate such strategic alliance upon not less than 60 days' prior written notice to the other party.",
+            "target": "No",
+            "document_name": "REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 55
+        },
+        {
+            "input": "This Agreement is deemed made and entered into in the State of California and shall be construed, enforced and performed in accordance with the laws of the State of California, without reference, to choice of law.",
+            "target": "No",
+            "document_name": "AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 56
+        },
+        {
+            "input": "The Owner Indemnified Parties' additional insured status will not limit the application of insurance protection as required by this Agreement which arises out of the Operator's indemnity obligations. These policies shall provide primary coverage for claims in which Operator has agreed to hold harmless and/or to indemnify the Owner Indemnified Parties.",
+            "target": "No",
+            "document_name": "VERTEXENERGYINC_08_14_2014-EX-10.24-OPERATION AND MAINTENANCE AGREEMENT.PDF",
+            "index": 57
+        },
+        {
+            "input": "maintain books, records and accounts of all transactions and activities covered by this Agreement and permit reasonable examination thereof by Ehave and its representatives in accordance with this Agreement.",
+            "target": "No",
+            "document_name": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement.pdf",
+            "index": 58
+        },
+        {
+            "input": "Any and all web pages used by Contractor in connection with the Offering (the \"Web Pages\"), and all associated Proprietary Rights, shall be owned exclusively by the Company.",
+            "target": "No",
+            "document_name": "ASPIRITYHOLDINGSLLC_05_07_2012-EX-10.6-OUTSOURCING AGREEMENT.PDF",
+            "index": 59
+        },
+        {
+            "input": "If this Agreement is terminated Lucid shall not be liable for any incidental, indirect; special punitive of consequential damages of any kind, including any perceived or real market development costs.",
+            "target": "No",
+            "document_name": "LUCIDINC_04_15_2011-EX-10.9-DISTRIBUTOR AGREEMENT.PDF",
+            "index": 60
+        },
+        {
+            "input": "This Agreement may be renewed for additional periods of one (1) year (each such additional period, a \"Renewal Term\") unless either Party provides notice of nonrenewal upon not less than [***] prior written notice to the other Party.",
+            "target": "No",
+            "document_name": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement.PDF",
+            "index": 61
+        },
+        {
+            "input": "You acknowledge and agree that any such concept, process or improvement shall become our property and we may utilize or disclose such information to other master franchisees and unit franchisees as we determine to be appropriate.",
+            "target": "No",
+            "document_name": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf",
+            "index": 62
+        },
+        {
+            "input": "HSNS will pay to E.piphany a minimum sell through revenue commitment of $750,000.00 (\"MINIMUM SELL-THROUGH COMMITMENT\") during the initial three year term of this Agreement on the dates and in the minimum amounts (\"Minimum Quarterly Payments\") as follows.",
+            "target": "No",
+            "document_name": "OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT.PDF",
+            "index": 63
+        },
+        {
+            "input": "Unless otherwise terminated as provided herein, the initial term of this Agreement shall be three (3) years from the Effective Date and shall thereafter be automatically renewed for subsequent one (1) year periods unless either party notifies the other in writing of its election not to renew the Agreement at least one hundred twenty (120) days prior to the expiration of the then-current term.",
+            "target": "No",
+            "document_name": "VISIUMTECHNOLOGIES,INC_10_20_2004-EX-10.20-DISTRIBUTOR AGREEMENT.PDF",
+            "index": 64
+        },
+        {
+            "input": "THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF COLORADO, UNITED STATES, WITHOUT REGARD TO ITS PRINCIPLES REGARDING CONFLICT OF LAWS.",
+            "target": "No",
+            "document_name": "WORLDWIDESTRATEGIESINC_11_02_2005-EX-10-RESELLER AGREEMENT.PDF",
+            "index": 65
+        },
+        {
+            "input": "This Agreement shall be effective until the earlier of (a) its termination in accordance with the provisions of this Article 14 or (b) the date that is two (2) years after the date of this Agreement; provided, however, that this Agreement will renew automatically for successive terms of one (1) year each unless a party to this Agreement delivers written notice of termination to the other party to this Agreement at least sixty (60) days prior to the end of the original or any renewal term or the parties to this Agreement do not agree in writing to the Quota Amount referred to in subsection 14.2(b)(1) for any one (1) year renewal term at least sixty (60) days prior to the commencement of such term.",
+            "target": "No",
+            "document_name": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.pdf",
+            "index": 66
+        },
+        {
+            "input": "In the event that (i) TouchStar terminates this Agreement in accordance with any one or more of the provisions of Section 8.2 or (ii) Reseller elects not to enter into a new agreement with TouchStar pursuant to Section 8.1, all Customer Agreements with Customers shall be transferred by Reseller to TouchStar.",
+            "target": "No",
+            "document_name": "WORLDWIDESTRATEGIESINC_11_02_2005-EX-10-RESELLER AGREEMENT.PDF",
+            "index": 67
+        },
+        {
+            "input": "CSA shall have the right to request an independent audit of the sales of the Product containing the Property which the Company agrees to assist within a reasonable period of time of such request.",
+            "target": "No",
+            "document_name": "LegacyEducationAllianceInc_20141110_8-K_EX-10.9_8828866_EX-10.9_Endorsement Agreement.pdf",
+            "index": 68
+        },
+        {
+            "input": "Except as set forth below, MusclePharm shall not assign or otherwise transfer, license, sublicense, or delegate any rights or obligations under this Agreement without the express prior written consent of the AS Parties.",
+            "target": "No",
+            "document_name": "MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.pdf",
+            "index": 69
+        },
+        {
+            "input": "Network hereby grants to Affiliate the exclusive right via Broadcast Television, and Affiliate hereby accepts such exclusive right and the obligation during the Term to broadcast the Service via Broadcast Television (i) over the transmission facilities of each Station identified on Exhibit A, which is licensed by the FCC to serve the community for each such Station (the \"Licensed Community\"), for receipt by TV Households in the DMA in which the Licensed Community is located, as such DMA is identified on Exhibit A, and (ii) over the transmission facilities of any Acquired Station, except to the extent that, as of the date Affiliate notifies Network in writing of its binding agreement to acquire such Acquired Station, (A) another Broadcast Television station in the same DMA as the Acquired Station has exclusive rights to broadcast the Service, or (B) the Acquired Station is obligated to broadcast other material that precludes it from also carrying the Service",
+            "target": "No",
+            "document_name": "TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate Agreement.pdf",
+            "index": 70
+        },
+        {
+            "input": "VerticalNet will pay Neoforma [*] of the Training and Education Gross Margin.",
+            "target": "No",
+            "document_name": "NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement.pdf",
+            "index": 71
+        },
+        {
+            "input": "You agree not to use any Mark as part of any corporate or trade name or with any prefix, suffix, or other modifying words, terms, designs, or symbols (other than logos and additional trade and service marks licensed to you under this Agreement), or in any modified form.",
+            "target": "No",
+            "document_name": "JOINTCORP_09_19_2014-EX-10.15-FRANCHISE AGREEMENT.PDF",
+            "index": 72
+        },
+        {
+            "input": "Owner covenants that it will maintain at all times during the Term of this Agreement insurance coverage for sudden and accidental pollution of $500,000,000.",
+            "target": "No",
+            "document_name": "MARTINMIDSTREAMPARTNERSLP_01_23_2004-EX-10.3-TRANSPORTATION SERVICES AGREEMENT.PDF",
+            "index": 73
+        },
+        {
+            "input": "Any attempt to assign without the other party's consent will be null and void and will afford the non-assigning party the right to immediately cancel and terminate this Agreement.",
+            "target": "No",
+            "document_name": "CURAEGISTECHNOLOGIES,INC_05_26_2010-EX-1-CORPORATE SPONSORSHIP AGREEMENT.PDF",
+            "index": 74
+        },
+        {
+            "input": "Subject to the terms and conditions of this Agreement, Licensor hereby grants to Licensee, and Licensee hereby accepts from Licensor, an exclusive, non-transferable (except as set forth in Section 10.7) and non-sublicensable (except as provided in Section 2.1(c)) license to use the Licensed Domain Names in connection with the Business during the Term.",
+            "target": "No",
+            "document_name": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf",
+            "index": 75
+        },
+        {
+            "input": "COMPANY shall pay an annual EARNED ROYALTY as follows: 2.1.1 Four percent (4%) of the sum of NET REVENUES.",
+            "target": "No",
+            "document_name": "VirtuosoSurgicalInc_20191227_1-A_EX1A-6 MAT CTRCT_11933379_EX1A-6 MAT CTRCT_License Agreement.pdf",
+            "index": 76
+        },
+        {
+            "input": "This Agreement and all Actions (whether in contract or tort) that may be based upon, arise out of or relate to this Agreement or the negotiation, execution or performance hereof or thereof shall be governed by and construed in accordance with the Law of the State of Delaware, without regard to any Laws or principles thereof that would result in the application of the Laws of any other jurisdiction.",
+            "target": "No",
+            "document_name": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+            "index": 77
+        },
+        {
+            "input": "If MacroGenics does not abate such violation of Jointly Owned Patents, including by commencement of a lawsuit against the accused person if necessary, within *** after receiving notice of such infringement of Jointly Owned Patents and immediately after notice of other violation of such Jointly Owned Patents, then Green Cross shall be entitled (but shall not be obligated) to take all actions reasonably necessary to abate such violation in the Territory, including commencement of a lawsuit against the accused Third Party if necessary.",
+            "target": "No",
+            "document_name": "MACROGENICSINC_08_02_2013-EX-10-COLLABORATION AGREEMENT.PDF",
+            "index": 78
+        },
+        {
+            "input": "EXCEPT WITH RESPECT TO DAMAGES THAT ARISE DUE TO A PARTY'S BREACH OF CONFIDENTIALITY (ARTICLE 12) OR INDEMNIFICATION OBLIGATIONS (ARTICLE 11), IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR CONSEQUENTIAL, INDIRECT, SPECIAL, EXEMPLARY OR PUNITIVE DAMAGES FOR ANY CAUSE OF ACTION, WHETHER IN CONTRACT, TORT OR OTHERWISE, INCLUDING LOST REVENUES, PROFITS OR BUSINESS OPPORTUNITIES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, WHETHER OR NOT THE OTHER PARTY WAS OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF THESE DAMAGES. EXCEPT WITH RESPECT TO DAMAGES THAT ARISE DUE TO A PARTY'S BREACH OF CONFIDENTIALITY (ARTICLE 12) OR INDEMNIFICATION OBLIGATIONS (ARTICLE 11), THE LIABILITY OF EITHER PARTY UNDER THIS AGREEMENT (WHETHER BY REASON OF BREACH OF CONTRACT, TORT, OR OTHERWISE) WITH RESPECT TO A GIVEN CLAIM SHALL NOT EXCEED AN AMOUNT EQUAL TO [***].",
+            "target": "No",
+            "document_name": "Microgenics Corporation - Collaborative Development and Commercialization Agreement.PDF",
+            "index": 79
+        },
+        {
+            "input": "MSCI hereby grants (subject to any existing third party contractual obligations) to MS a non-exclusive, perpetual, irrevocable, world- wide, royalty-free license for MS to use, modify, copy, create derivative works of and sublicense, for any business purpose, the MSCI Licensed Materials.",
+            "target": "No",
+            "document_name": "MSCIINC_02_28_2008-EX-10.10-.PDF",
+            "index": 80
+        },
+        {
+            "input": "If by reason of state or other law, we are prohibited from receiving a percentage of certain components of Gross Revenues (including alcoholic-beverage sales), you must pay us an equivalent amount by increasing the Royalty percentage applied to Gross Revenues exclusive of the prohibited components.",
+            "target": "No",
+            "document_name": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement1.pdf",
+            "index": 81
+        },
+        {
+            "input": "In the event of a termination of this Agreement, FG shall have an irrevocable, exclusive, license, with the right to grant and authorize sublicenses, to any trademarks used by Astellas in association with the Lead Compounds hereunder to make, use, sell, import and otherwise exploit products within the Field in the Astellas Territory.",
+            "target": "No",
+            "document_name": "FIBROGENINC_10_01_2014-EX-10.11-COLLABORATION AGREEMENT.PDF",
+            "index": 82
+        },
+        {
+            "input": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York without reference to any rules of conflict of laws.",
+            "target": "No",
+            "document_name": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement.pdf",
+            "index": 83
+        },
+        {
+            "input": "NEITHER PARTY SHALL HAVE ANY LIABILITY HEREUNDER FOR ANY INDIRECT, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOSS OF PROFIT OR BUSINESS OPPORTUNITIES, WHETHER OR NOT THE PARTY WAS ADVISED OF THE POSSIBILITY OF SUCH.",
+            "target": "No",
+            "document_name": "IVILLAGEINC_03_17_1999-EX-10.16-SPONSORSHIP AGREEMENT.PDF",
+            "index": 84
+        },
+        {
+            "input": "The Celebrity shall be named as an additional insured on coverages A, B and C.",
+            "target": "No",
+            "document_name": "PharmagenInc_20120803_8-KA_EX-10.1_7693204_EX-10.1_Endorsement Agreement.pdf",
+            "index": 85
+        },
+        {
+            "input": "The provisions of this Agreement shall be governed by and construed in accordance with the laws of the State of California (excluding any conflict of law rule or principle that would refer to the laws of another jurisdiction).",
+            "target": "No",
+            "document_name": "HertzGroupRealtyTrustInc_20190920_S-11A_EX-10.8_11816941_EX-10.8_Trademark License Agreement.pdf",
+            "index": 86
+        },
+        {
+            "input": "The coverage of third-party liability insurance shall not be lower than RMB1 million.",
+            "target": "No",
+            "document_name": "ZtoExpressCaymanInc_20160930_F-1_EX-10.10_9752871_EX-10.10_Transportation Agreement.pdf",
+            "index": 87
+        },
+        {
+            "input": "Except for the joint marketing efforts referred to in Section 3.1 (v) above, Purolator agrees not to directly or indirectly solicit next day or multiple day freight from existing sameday customers of Dynamex.",
+            "target": "No",
+            "document_name": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.PDF",
+            "index": 88
+        },
+        {
+            "input": "Such covenants must be on a form that we provide, which form will, among other things, designate us as a third party beneficiary of such covenants with the independent right to enforce them.",
+            "target": "No",
+            "document_name": "GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement.PDF",
+            "index": 89
+        },
+        {
+            "input": "The parties agree that the records maintained and produced under this Agreement shall, at all times, be available at the Operations Center for examination and audit by governmental agencies having jurisdiction over the Customer's business, including any Federal, State or Puerto Rico Regulator.",
+            "target": "No",
+            "document_name": "OFGBANCORP_03_28_2007-EX-10.23-OUTSOURCING AGREEMENT.PDF",
+            "index": 90
+        },
+        {
+            "input": "For the acceptance period and for a period of one year from the Maintenance Commencement Date, and thereafter for as long as the Software is covered by Maintenance Services and is used by Sparkling in accordance with this Agreement, Garman warrants that the Software shall perform in conformance with the Specifications in all material respects.",
+            "target": "No",
+            "document_name": "SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT.PDF",
+            "index": 91
+        },
+        {
+            "input": "The rights and obligations of the Remarketing Agent hereunder may not be assigned or delegated to any other person without the prior written consent of the Fund.",
+            "target": "No",
+            "document_name": "NUVEEN - REMARKETING AGREEMENT.PDF",
+            "index": 92
+        },
+        {
+            "input": "Any attempted assignment by the Professional without the prior written consent of the Company shall be void.",
+            "target": "No",
+            "document_name": "WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT.PDF",
+            "index": 93
+        },
+        {
+            "input": "In addition to any outstanding Guarantee payments which Licensee shall pay to Fox as set forth in Paragraph 3 of this Amendment below, Licensee shall pay to Fox a minimum recoupable guarantee of ***** dollars (US$*****) on or before ***** (\"ICE AGE 2 Guarantee\"), and<omitted>Fox shall earn, and Licensee shall pay the applicable Major Release Royalties as set forth in Paragraph 7(a)(i) of the Agreement in connection with the property \"ICE AGE 2\".",
+            "target": "No",
+            "document_name": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement2.pdf",
+            "index": 94
+        },
+        {
+            "input": "Subject to the restrictions set forth in Section 5.1 of this Agreement and Section 2.3 of the Warrant, in the event any member of the Farids Group proposes to Transfer (other than a Permitted Transfer) (i) a Threshold Block, in a transaction or series of related transactions, that, to the Farids Group's knowledge (after due inquiry in connection with a private, non-open market transaction) is to a Person whom the Company reasonably determines is a direct or indirect material competitor of the Company or any Affiliate of such Person or (ii) a Significant Block, in a transaction or series of related transactions, that, to the Farids Group's knowledge (after due inquiry in connection with a private, non-open market transaction) is to a Person whom the Company reasonably determines is a direct or indirect material competitor of the Company or any Affiliate of such Person (in each case, regardless of whether such Transfer will constitute a 144 Sale), the Farids Group shall furnish to the Company a written notice of such proposed Transfer (a \"ROFR Sale Notice\") at least (5) business days prior to the business day that the Farids Group proposes to effect such Transfer.",
+            "target": "No",
+            "document_name": "ROCKYMOUNTAINCHOCOLATEFACTORY,INC_12_23_2019-EX-10.2-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 95
+        },
+        {
+            "input": "NEITHER PARTY SHALL BE ENTITLED TO RECOVER FROM THE OTHER PARTY ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES IN CONNECTION WITH THIS AGREEMENT; provided however, that this Section 10.5 shall not be construed to limit (a) either Party's right to special, incidental or consequential damages for the other Party's breach of Article 8 or (b) either Party's indemnification rights or obligations under Article 11.",
+            "target": "No",
+            "document_name": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement.pdf",
+            "index": 96
+        },
+        {
+            "input": "If King does not perform, in the aggregate, two times the PDE Minimum in any two consecutive Agreement Quarters, Depomed may demand that King cure such default by (A) [***] and (B) [***], in each case, prior to the end of the next succeeding Agreement Quarter following notice from Depomed.",
+            "target": "No",
+            "document_name": "KINGPHARMACEUTICALSINC_08_09_2006-EX-10.1-PROMOTION AGREEMENT.PDF",
+            "index": 97
+        },
+        {
+            "input": "The parties shall provide the medium on which the source code shall be supplied, which in default of agreement shall be such medium as the escrow agent NCC Escrow International Limited thinks fit.",
+            "target": "No",
+            "document_name": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT - Escrow Agreement.pdf",
+            "index": 98
+        },
+        {
+            "input": "Further, Pey Dirt will be entitled to fifty percent (50%) of all gross profits (i.e., gross revenues less only Company's actual out-of-pocket costs of obtaining the raw merchandise) generated from merchandise related to the Endorsed Products and/or the Manning Identification, said merchandise to be advertised exclusively on the back panel of each box of Endorsed Products.",
+            "target": "No",
+            "document_name": "WARNINGMANAGEMENTSERVICESINC_12_10_1999-EX-10-ENDORSEMENT AGREEMENT.PDF",
+            "index": 99
+        },
+        {
+            "input": "Franchisee agrees to refrain from any business or advertising practice which may be injurious to the business of Pretzel Time and the goodwill associated with the Marks and other Pretzel Time Units.",
+            "target": "Yes",
+            "document_name": "MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.PDF",
+            "index": 100
+        },
+        {
+            "input": "The Client and Designer both agree not to post on defamatory websites or review websites any negative posts concerning each other, the names of our companies, and our employees.",
+            "target": "Yes",
+            "document_name": "PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2.pdf",
+            "index": 101
+        },
+        {
+            "input": "Each Party covenants that it shall not make, publish or communicate to any person or entity in any online or other public forum any defamatory, misleading or disparaging remarks, comments or statements concerning (a) the other Party or any of its affiliates, or any of such Party's or its affiliates' respective employees, officers, directors, agents, officials, equity holders, investors or sponsors, or (b) any software, products or services of the other Party or any affiliate.",
+            "target": "Yes",
+            "document_name": "AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement.pdf",
+            "index": 102
+        },
+        {
+            "input": "Notwithstanding anything to the contrary, in no event shall the restrictions set forth in this Section 2.3.2 apply to [***].",
+            "target": "No",
+            "document_name": "DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement.pdf",
+            "index": 103
+        },
+        {
+            "input": "This Agreement shall continue in effect for a period of one year from the date of its execution and from year to year thereafter provided such continuance is specifically approved by a majority of the trustees of the Trust who (i) are not \"interested persons\" of the Trust or any other party to this Agreement, as defined in the 1940 Act, and (ii) have no direct or indirect financial interest in the operation of this Agreement (\"Non- Interested Trustees\").",
+            "target": "No",
+            "document_name": "SECURIANFUNDSTRUST_05_01_2012-EX-99.28.H.9-NET INVESTMENT INCOME MAINTENANCE AGREEMENT.PDF",
+            "index": 104
+        },
+        {
+            "input": "This Agreement shall be governed by and be --------- ---- construed in accordance with the laws of the Province of Ontario, Canada.",
+            "target": "No",
+            "document_name": "ENTRUSTINC_07_24_1998-EX-10.5-STRATEGIC ALLIANCE AGREEMENT.PDF",
+            "index": 105
+        }
+    ]
+}

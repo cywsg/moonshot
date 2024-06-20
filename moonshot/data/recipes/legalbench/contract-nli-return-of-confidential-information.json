@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-return-of-confidential-information",
+  "name": "contract_nli_return_of_confidential_information",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_return_of_confidential_information"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_return_of_confidential_information"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

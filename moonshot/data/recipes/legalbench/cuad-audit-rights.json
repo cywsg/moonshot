@@ -1,0 +1,16 @@
+{
+  "id": "cuad-audit-rights",
+  "name": "cuad_audit_rights",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_audit_rights"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_audit_rights"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

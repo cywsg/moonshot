@@ -1,0 +1,16 @@
+{
+  "id": "overruling",
+  "name": "overruling",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/overruling"
+  ],
+  "prompt_templates": [
+    "legalbench/overruling"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

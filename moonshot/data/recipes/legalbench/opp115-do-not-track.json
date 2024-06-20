@@ -1,0 +1,16 @@
+{
+  "id": "opp115-do-not-track",
+  "name": "opp115_do_not_track",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_do_not_track"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_do_not_track"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

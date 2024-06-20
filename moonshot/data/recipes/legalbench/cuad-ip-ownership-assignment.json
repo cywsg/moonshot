@@ -1,0 +1,16 @@
+{
+  "id": "cuad-ip-ownership-assignment",
+  "name": "cuad_ip_ownership_assignment",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_ip_ownership_assignment"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_ip_ownership_assignment"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "proa",
+  "name": "proa",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/proa"
+  ],
+  "prompt_templates": [
+    "legalbench/proa"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

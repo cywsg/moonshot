@@ -1,0 +1,16 @@
+{
+  "id": "cuad-non-transferable-license",
+  "name": "cuad_non-transferable_license",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_non-transferable_license"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_non-transferable_license"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

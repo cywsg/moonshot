@@ -1,0 +1,16 @@
+{
+  "id": "textualism-tool-plain",
+  "name": "textualism_tool_plain",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/textualism_tool_plain"
+  ],
+  "prompt_templates": [
+    "legalbench/textualism_tool_plain"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

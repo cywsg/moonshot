@@ -1,0 +1,5 @@
+{
+    "name": "supply_chain_disclosure_best_practice_audits",
+    "description": "",
+    "template": "{{ prompt }}\n\nQuestion: Does the above disclosure meet the following criteria: Does the above statement disclose whether the retail seller or manufacturer  performs any type of audit, or reserves the right to audit? Answer yes or no.\nAnswer: "
+}

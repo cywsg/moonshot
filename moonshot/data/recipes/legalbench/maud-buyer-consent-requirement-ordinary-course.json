@@ -1,0 +1,16 @@
+{
+  "id": "maud-buyer-consent-requirement-ordinary-course",
+  "name": "maud_buyer_consent_requirement_(ordinary_course)",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_buyer_consent_requirement_(ordinary_course)"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_buyer_consent_requirement_(ordinary_course)"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "maud-application-of-buyer-consent-requirement-negative-interim-covenant",
+  "name": "maud_application_of_buyer_consent_requirement_(negative_interim_covenant)",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_application_of_buyer_consent_requirement_(negative_interim_covenant)"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_application_of_buyer_consent_requirement_(negative_interim_covenant)"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

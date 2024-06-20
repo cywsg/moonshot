@@ -1,0 +1,16 @@
+{
+  "id": "cuad-third-party-beneficiary",
+  "name": "cuad_third_party_beneficiary",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_third_party_beneficiary"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_third_party_beneficiary"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "maud-knowledge-definition",
+  "name": "maud_knowledge_definition",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_knowledge_definition"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_knowledge_definition"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

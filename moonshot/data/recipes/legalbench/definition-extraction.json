@@ -1,0 +1,16 @@
+{
+  "id": "definition-extraction",
+  "name": "definition_extraction",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/definition_extraction"
+  ],
+  "prompt_templates": [
+    "legalbench/definition_extraction"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

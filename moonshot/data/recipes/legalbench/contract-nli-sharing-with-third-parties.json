@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-sharing-with-third-parties",
+  "name": "contract_nli_sharing_with_third-parties",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_sharing_with_third-parties"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_sharing_with_third-parties"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

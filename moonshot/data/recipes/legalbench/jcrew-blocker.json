@@ -1,0 +1,16 @@
+{
+  "id": "jcrew-blocker",
+  "name": "jcrew_blocker",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/jcrew_blocker"
+  ],
+  "prompt_templates": [
+    "legalbench/jcrew_blocker"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

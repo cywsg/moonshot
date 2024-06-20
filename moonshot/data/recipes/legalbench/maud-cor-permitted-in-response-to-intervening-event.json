@@ -1,0 +1,16 @@
+{
+  "id": "maud-cor-permitted-in-response-to-intervening-event",
+  "name": "maud_cor_permitted_in_response_to_intervening_event",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_cor_permitted_in_response_to_intervening_event"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_cor_permitted_in_response_to_intervening_event"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

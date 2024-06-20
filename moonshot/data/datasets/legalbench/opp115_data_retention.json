@@ -1,0 +1,493 @@
+{
+    "name": "opp115_data_retention",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "opp115_data_retention"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "target": "Yes",
+            "input": "social media service, you are asking that service to send us certain information from your account with the service,",
+            "index": 0
+        },
+        {
+            "target": "Yes",
+            "input": "This information, such as name, mailing address, email address, type of request and possibly additional information,",
+            "index": 1
+        },
+        {
+            "target": "Yes",
+            "input": "name of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site",
+            "index": 2
+        },
+        {
+            "target": "Yes",
+            "input": "the date and time you access our site, the website that referred you to us, and the pages you visit (click-through).",
+            "index": 3
+        },
+        {
+            "target": "Yes",
+            "input": "The posts and comments you make on reddit are not private, even if made to a subreddit not readily accessible to the public.",
+            "index": 4
+        },
+        {
+            "target": "Yes",
+            "input": "Except for the IP address you use to create the account",
+            "index": 5
+        },
+        {
+            "target": "Yes",
+            "input": "the posts and content you made during your tenure as a reddit user",
+            "index": 6
+        },
+        {
+            "target": "Yes",
+            "input": "the posts and content you made during your tenure as a reddit user will not be automatically deleted",
+            "index": 7
+        },
+        {
+            "target": "Yes",
+            "input": "Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.",
+            "index": 8
+        },
+        {
+            "target": "Yes",
+            "input": "We do not store credit card numbers except for the last 4 digits.",
+            "index": 9
+        },
+        {
+            "target": "Yes",
+            "input": "delete the information provided after your request has been fulfilled.",
+            "index": 10
+        },
+        {
+            "target": "Yes",
+            "input": "the fulfilment of your order, the processing of your payment details and the provision of support services",
+            "index": 11
+        },
+        {
+            "target": "Yes",
+            "input": "delete the information provided after your request has been fulfilled",
+            "index": 12
+        },
+        {
+            "target": "Yes",
+            "input": "The name of the domain from which you access the Internet (for example, gmail.com, if you are connecting from a Google account);",
+            "index": 13
+        },
+        {
+            "target": "Yes",
+            "input": "The type of browser and operating system used to access our Websites;",
+            "index": 14
+        },
+        {
+            "target": "Yes",
+            "input": "The date and time you access our sites; The pages, files, documents and links that you visit; and The domain of the website which referred you to this Website (the last website you visited before visiting this one).",
+            "index": 15
+        },
+        {
+            "target": "Yes",
+            "input": "the name of the web site from which you linked to USA.gov, the name of the file or words you searched, items clicked on a page,",
+            "index": 16
+        },
+        {
+            "target": "Yes",
+            "input": "are the date, the IP address and the URL of the request.",
+            "index": 17
+        },
+        {
+            "target": "Yes",
+            "input": "Payment information, such as credit card number and expiration date",
+            "index": 18
+        },
+        {
+            "target": "Yes",
+            "input": "Information about your interactions with the websites, apps, and other services you use, the content you view, the search queries you submit,",
+            "index": 19
+        },
+        {
+            "target": "Yes",
+            "input": "Information about how you access those websites, apps, and other services, your browser or operating system, your Internet Protocol (\"IP\") address",
+            "index": 20
+        },
+        {
+            "target": "Yes",
+            "input": "as long as we need it for purposes not prohibited by applicable laws.",
+            "index": 21
+        },
+        {
+            "target": "Yes",
+            "input": "contact us by phone or email, we may keep a record",
+            "index": 22
+        },
+        {
+            "target": "Yes",
+            "input": "We maintain automatic information in aggregated form, not associated with your IP address or personally identifiable information.",
+            "index": 23
+        },
+        {
+            "target": "Yes",
+            "input": "Please be advised that Barnes & Noble may archive information it collects on its community and visitors",
+            "index": 24
+        },
+        {
+            "target": "Yes",
+            "input": "We will retain your information for as long as your account is active or as needed to provide you with services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.",
+            "index": 25
+        },
+        {
+            "target": "Yes",
+            "input": "no longer than is necessary for the purposes for which the data was collected",
+            "index": 26
+        },
+        {
+            "target": "Yes",
+            "input": "The time period for which we keep information varies according to the purpose for which it is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.",
+            "index": 27
+        },
+        {
+            "target": "Yes",
+            "input": "Click here to see examples of the information we receive.",
+            "index": 28
+        },
+        {
+            "target": "Yes",
+            "input": "we usually keep a copy of the prior version for our records.",
+            "index": 29
+        },
+        {
+            "target": "Yes",
+            "input": "Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.",
+            "index": 30
+        },
+        {
+            "target": "Yes",
+            "input": "To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can.",
+            "index": 31
+        },
+        {
+            "target": "Yes",
+            "input": "We keep personal information as long as it is necessary or relevant for our business.",
+            "index": 32
+        },
+        {
+            "target": "Yes",
+            "input": "In addition to session cookies and persistent cookies, there may be other cookies",
+            "index": 33
+        },
+        {
+            "target": "Yes",
+            "input": "any data necessary to investigate any violation of terms of use or alleged harmful or illegal activity",
+            "index": 34
+        },
+        {
+            "target": "Yes",
+            "input": "e-mail addresses of either the sender or recipient of such articles or links",
+            "index": 35
+        },
+        {
+            "target": "Yes",
+            "input": "we will ask you for your friend's name and email address.",
+            "index": 36
+        },
+        {
+            "target": "Yes",
+            "input": "We store search terms (and the cookie IDs associated with search terms)",
+            "index": 37
+        },
+        {
+            "target": "Yes",
+            "input": "Once your information is received from an SNS, that information is stored and used by us in accordance with this Privacy Policy.",
+            "index": 38
+        },
+        {
+            "target": "Yes",
+            "input": "such as your e-mail address or any other personal data contained in the body of your e-mail message",
+            "index": 39
+        },
+        {
+            "target": "Yes",
+            "input": "as long as your account is active or as needed to provide you services.",
+            "index": 40
+        },
+        {
+            "target": "Yes",
+            "input": "We will retain your personal information for as long as your account is active or as needed to provide you services.",
+            "index": 41
+        },
+        {
+            "target": "Yes",
+            "input": "If information is changed or deleted, we may still retain some of your information in our files to resolve disputes, enforce our user agreement, administer our services, comply with technical and legal requirements, and/or other constraints related to the security, integrity, and operation of our Online Services.",
+            "index": 42
+        },
+        {
+            "target": "Yes",
+            "input": "Even if you do not opt-in to receive promotional information or you have opted-in and then later choose to opt-out, we reserve the right to contact you as necessary in our sole discretion regarding The Hill, any request you have made for services or products from The Hill, changes to this Privacy Policy and any other matters that may be relevant to the information we collect.",
+            "index": 43
+        },
+        {
+            "target": "No",
+            "input": "Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses.",
+            "index": 44
+        },
+        {
+            "target": "No",
+            "input": "We also require our credit card transaction processor to use adequate security and encryption technology to ensure the safety and security of your personally identifiable information.",
+            "index": 45
+        },
+        {
+            "target": "No",
+            "input": "you post publicly will be shared with others when you use the public features of our service",
+            "index": 46
+        },
+        {
+            "target": "No",
+            "input": "publicly available on-line and you do so at your own risk",
+            "index": 47
+        },
+        {
+            "target": "No",
+            "input": "If you do not want to receive e-mail or other mail from us",
+            "index": 48
+        },
+        {
+            "target": "No",
+            "input": "We collect personal information when you create an account through the Curse Features; subscribe to our newsletter; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes, other promotions, or opt into third party offers and/or newsletters; purchase a product through the Curse Features; register a product that you have purchased; or receive customer or technical support.",
+            "index": 49
+        },
+        {
+            "target": "No",
+            "input": "Customer data transferred to Publisher will be held and maintained by Publisher pursuant to Publishers respective privacy policies, which can be found at the following: http://lima.ohcommedia.com, http://sedalia.ohcommedia.com, http://jacksonville.ohcommedia.com and http://alton.ohcommedia.com.",
+            "index": 50
+        },
+        {
+            "target": "No",
+            "input": "In addition to the practices described above, we use a variety of physical, technical and administrative security measures that help to safeguard your information.",
+            "index": 51
+        },
+        {
+            "target": "No",
+            "input": "INFORMATION SHARING AND DISCLOSURE Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:",
+            "index": 52
+        },
+        {
+            "target": "No",
+            "input": "The information such Advertising Service Providers may collect, or we may share with them, includes your devices type, IP address, MAC address or other device ID, browser type, language, operating system and generalized geographic location; the types of pages, content and ads you, or others who are using your device, visited or viewed and the frequency of your visit/viewing; and information regarding your use of or activities in connection with a website or Online Service",
+            "index": 53
+        },
+        {
+            "target": "No",
+            "input": "Within the family of CBS Interactive Services and other CBS businesses",
+            "index": 54
+        },
+        {
+            "target": "No",
+            "input": "MediaNews Group, Inc., MediaNews Group Interactive, Inc. or MediaNews Group affiliates, are affiliates of the CareerBuilder online careers service.",
+            "index": 55
+        },
+        {
+            "target": "No",
+            "input": "hen updating your personal information, we may ask you to verify your identity before we can act on your request.",
+            "index": 56
+        },
+        {
+            "target": "No",
+            "input": "Visit our Advertising, Analytics and Privacy page to learn more about your choices related to use of your information for online advertising.",
+            "index": 57
+        },
+        {
+            "target": "No",
+            "input": "Furthermore, we will not keep your credit card number in our database once a transaction is completed.",
+            "index": 58
+        },
+        {
+            "target": "No",
+            "input": "Additionally, advertisements that are managed by third parties which may appear on the Site(s) use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements.",
+            "index": 59
+        },
+        {
+            "target": "No",
+            "input": "The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our Privacy Notice.",
+            "index": 60
+        },
+        {
+            "target": "No",
+            "input": "NOTMC does not target children and does not knowingly collect any personally identifiable information from children under the age of thirteen (13). When a user discloses personal information on our Online Services, the user is representing to us that he or she is at least thirteen (13) years of age.",
+            "index": 61
+        },
+        {
+            "target": "No",
+            "input": "to protect against the loss, misuse and alteration of the information under our control.",
+            "index": 62
+        },
+        {
+            "target": "No",
+            "input": "Some documents - including images, sound, cartographic, textual, or electronic materials - found in our holdings may be copyrighted. Please note that it is your responsibility to identify the copyright owner and to obtain permission before making use of this material in any way.",
+            "index": 63
+        },
+        {
+            "target": "No",
+            "input": "Users of free online services provided by AAASsuch as free partial access to Science , Science Signaling , or Science Translational Medicine , access to Science NOW or SAGE KE, e-mail alerting services or Science Careers servicesare agreeing that AAAS may contact them by e-mail in exchange for these free services",
+            "index": 64
+        },
+        {
+            "target": "No",
+            "input": "8. Kids And Parents. The CoveredSites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limits your children's exposure to material online. Minors' Right to Request Deletion of User-Posted Comments: If you are a California resident and registered user on Seventeen.com and posted comments on that site when you were under 18 years old, you may request deletion of those comments by contacting us at webfeedback@seventeen.com. and indicate in the subject line \"California take-down request\". You must provide us with the live url where the content resides, a copy of the content (cut and pasted into your email), the date of publication and, if applicable, the user name associated with it. We will act as promptly as possible to remove the posting(except in certain circumstances mandated by law). Note that our deletion does not ensure complete or comprehensive removal of your content from the internet and comments that may have been posted by others about you or your posting will remain accessible online.",
+            "index": 65
+        },
+        {
+            "target": "No",
+            "input": "We use various Internet technologies to manage the NYT Services and track use of the Services.",
+            "index": 66
+        },
+        {
+            "target": "No",
+            "input": "interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions",
+            "index": 67
+        },
+        {
+            "target": "No",
+            "input": "Most browsers include an option to clear existing cookies or reject new ones",
+            "index": 68
+        },
+        {
+            "target": "No",
+            "input": "Using HTTPS encryption when you authenticate (i.e., log into one of our Services), which helps prevent unauthorized access to your login credentials;",
+            "index": 69
+        },
+        {
+            "target": "No",
+            "input": "Attn: Privacy Compliance Officer International Dairy Queen, Inc. 7505 Metro Blvd Minneapolis, MN 55439 Email: privacy@idq.com",
+            "index": 70
+        },
+        {
+            "target": "No",
+            "input": "Some access requests may be subject to a small fee. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information.",
+            "index": 71
+        },
+        {
+            "target": "No",
+            "input": "Your California Privacy Rights It is High Gear Medias policy to share personal information only with the users informed consent unless otherwise specified in this privacy policy. With your consent, from time-to-time, High Gear Media may provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. California Civil Code Section 1798.83, also known as the Shine The Light law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please let us know using this contact us form . You may also let us know at this number that you no longer wish your information to be shared.",
+            "index": 72
+        },
+        {
+            "target": "No",
+            "input": "Because these features are not yet uniform, we are not currently set up to respond to do not track signals.",
+            "index": 73
+        },
+        {
+            "target": "No",
+            "input": "Use of our services and products may be subject to other terms, conditions and disclosures prescribed by the Company, console manufacturers and/or other partners, including: (i) the Limited Software Warranty and License Agreement that accompanied the purchase of the game; (ii) terms of service, privacy policy, and code of conduct for our Online Services; (iii) other terms and disclosures which are made available to you by the Company; and (iv) the terms, conditions, and disclosures made available to you by third parties in connection with the use of their gaming consoles and/or Online Services. All such terms, conditions and disclosures are incorporated by reference into this Privacy Policy.",
+            "index": 74
+        },
+        {
+            "target": "No",
+            "input": "to protect the rights, reputation, property or safety of lynda.com or others;",
+            "index": 75
+        },
+        {
+            "target": "No",
+            "input": "You may also use the contact information provided to request access or changes to your personally identifiable information",
+            "index": 76
+        },
+        {
+            "target": "No",
+            "input": "nformation Storage: Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Be advised that Company may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to the Company's Privacy Policy followed by your submission of information represents your agreement to any such transfer.",
+            "index": 77
+        },
+        {
+            "target": "No",
+            "input": "any applicable identification number or password that we may require,",
+            "index": 78
+        },
+        {
+            "target": "No",
+            "input": "Your personally identifiable information is transferred to our computers utilizing encryption software.",
+            "index": 79
+        },
+        {
+            "target": "No",
+            "input": "New Technology: As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way, but are protected by confidentiality.",
+            "index": 80
+        },
+        {
+            "target": "No",
+            "input": "Your Subscriber Information may be used internally within UpToDate. For example, UpToDate may use your Subscriber Information internally to provide subscription services to you and process your transactions, to contact you for customer service and billing purposes, to communicate to you about your subscription or changes to our service, to understand who uses the Website and to improve the Website.",
+            "index": 81
+        },
+        {
+            "target": "No",
+            "input": "In order for online behavioral advertising opt outs from our Sites and on other sites to work on your device, your browser must be set to accept cookies. If you delete cookies, buy a new device, access our Site or other sites from a different device, login under a different screen name, or change web browsers, you will need to opt-out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.",
+            "index": 82
+        },
+        {
+            "target": "No",
+            "input": "Barnes & Noble Websites, Devices and Apps may provide you with the ability to enter (either directly, or by authorizing Barnes & Noble to download the information from a third party such as a social networking website) your information such as your contacts, calendar entries or photos, or images you may submit to us to help us locate products for you.",
+            "index": 83
+        },
+        {
+            "target": "No",
+            "input": "other than what you supply to us on a voluntary basis upon request",
+            "index": 84
+        },
+        {
+            "target": "No",
+            "input": "ediaNews may also use the information collected when, in its sole discretion, it believes necessary or appropriate in connection with a sale or transfer of some or all of MediaNews' assets in our Web site.",
+            "index": 85
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Statement applies to users of allstate.com and miallstate.com, regardless of whether the user is an Allstate customer.",
+            "index": 86
+        },
+        {
+            "target": "No",
+            "input": "A court, another business, or other interested party in the event of a bankruptcy proceeding, in which case the information about you would be among the many assets shared or transferred.",
+            "index": 87
+        },
+        {
+            "target": "Yes",
+            "input": "If you create an account through one of our Sites, this personal information",
+            "index": 88
+        },
+        {
+            "target": "Yes",
+            "input": "requires that you disclose the name and e-mail address of the person to whom you are forwarding the article.",
+            "index": 89
+        },
+        {
+            "target": "Yes",
+            "input": "lease note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities.",
+            "index": 90
+        },
+        {
+            "target": "Yes",
+            "input": "lease note that when you delete your account, we may retain your account information for a reasonable period of time afterward for the purpose of internal account management and fraud prevention activities",
+            "index": 91
+        },
+        {
+            "target": "No",
+            "input": "Information you share Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content.",
+            "index": 92
+        },
+        {
+            "target": "No",
+            "input": "You always may choose not to provide information and most Internet browsers allow you to control the automatic collection of information from your computer.",
+            "index": 93
+        },
+        {
+            "target": "No",
+            "input": "username, password, and other account access information in a safe place and not to divulge it to anyone",
+            "index": 94
+        },
+        {
+            "target": "No",
+            "input": "We recognize the importance of protecting children's online privacy. Our websites and mobile services are intended for a general audience and are not directed to children. In order to protect the privacy of children, Walmart websites and mobile services knowingly collect personal information from children under the age of 13 only with prior parental consent or as permitted by law. Please Contact Us if you believe we may have collected information from your child through our websites or mobile services and we will work to delete it.",
+            "index": 95
+        }
+    ]
+}

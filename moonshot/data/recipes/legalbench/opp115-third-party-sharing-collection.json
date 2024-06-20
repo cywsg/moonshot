@@ -1,0 +1,16 @@
+{
+  "id": "opp115-third-party-sharing-collection",
+  "name": "opp115_third_party_sharing_collection",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_third_party_sharing_collection"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_third_party_sharing_collection"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

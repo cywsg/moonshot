@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-limited-use",
+  "name": "contract_nli_limited_use",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_limited_use"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_limited_use"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

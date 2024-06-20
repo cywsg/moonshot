@@ -1,0 +1,16 @@
+{
+  "id": "cuad-non-compete",
+  "name": "cuad_non-compete",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_non-compete"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_non-compete"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

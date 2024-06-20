@@ -1,0 +1,673 @@
+{
+    "name": "citation_prediction_classification",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "citation_prediction_classification"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "input": "If the employee establishes a prima facie retaliation claim, \"the burden shifts to the employer to state a legitimate, non-retaliatory reason for its decision.\"",
+            "citation": "Feist v. La., Dep't of Justice, Off. of the Att'y Gen.",
+            "target": "Yes",
+            "index": 0
+        },
+        {
+            "input": "When a defendant presents an affidavit concerning a factual narrative of the events that is neither contradicted by the record nor inherently incredible and the government offers nothing more than contrary representations to contradict it, the defendant is entitled to an evidentiary hearing.",
+            "citation": "Huff v. United States",
+            "target": "Yes",
+            "index": 1
+        },
+        {
+            "input": "[E]xclusions are always strictly construed against the insurer and in favor of the insured.",
+            "citation": "Nationwide Mut. Ins. Co. v. Cosenza",
+            "target": "Yes",
+            "index": 2
+        },
+        {
+            "input": "Claim construction requires determining how a skilled artisan would understand a claim term \"in the context of the entire patent, including the specification.\"",
+            "citation": "Phillips v. AWH Corp.",
+            "target": "Yes",
+            "index": 3
+        },
+        {
+            "input": "To succeed on summary judgment in reliance on an affirmative defense, the moving party must establish beyond peradventure all of the essential elements of the \"defense to warrant judgment in [its] favor.\"",
+            "citation": "Smith v. Ochsner Health Sys.",
+            "target": "Yes",
+            "index": 4
+        },
+        {
+            "input": "Once the case proceeds to trial, the full record developed in court supersedes the record existing at the time of the summary-judgment motion.",
+            "citation": "Ortiz v. Jordan",
+            "target": "Yes",
+            "index": 5
+        },
+        {
+            "input": "With respect to the requirements of organizational standing, \"the second and third conditions are unquestionably satisfied here\" because \"protecting the environment is a core purpose of [Southwest Advocates] and the relief it seeks does not require the participation of individual members.\"",
+            "citation": "Utah Physicians for a Healthy Env't v. Diesel Power Gear, LLC",
+            "target": "Yes",
+            "index": 6
+        },
+        {
+            "input": "To be \"equivalent to a demotion,\" the action need not \"result in a decrease in pay, title, or grade; it can be a demotion if the new position proves objectively worse\u2014such as being less prestigious or less interesting or providing less room for advancement.\"",
+            "citation": "Alvarado v. Tex. Rangers",
+            "target": "Yes",
+            "index": 7
+        },
+        {
+            "input": "The Supreme Court has recently stated that \"one of multiple cases consolidated under [Rule 42(a)(2)] retains its independent character, at least to the extent it is appealable and finally resolved, regardless of any ongoing proceedings in the other cases.\"",
+            "citation": "Hall v. Hall",
+            "target": "Yes",
+            "index": 8
+        },
+        {
+            "input": "Physical damage to property therefore typically means \"\u2018a distinct, demonstrable, and physical alteration' of its structure.\"",
+            "citation": "Port Authority of New York and New Jersey v. Affiliated FM Insurance Company",
+            "target": "Yes",
+            "index": 9
+        },
+        {
+            "input": "In reviewing a motion for summary judgment, we apply the same standard as the District Court, \"[d]rawing all reasonable inferences in favor of the party against whom judgment is sought\" and affirming the grant of the motion \"only when no 27 issues of material fact exist and the party for whom judgment is entered is entitled to judgment as a matter of law.\"",
+            "citation": "Prusky v. Reliastar Life Ins. Co.",
+            "target": "Yes",
+            "index": 10
+        },
+        {
+            "input": "District courts must hold an evidentiary hearing on motions under \u00a7 2255 \"unless the record conclusively shows that the petitioner is entitled to no relief.\"",
+            "citation": "Martin v. United States",
+            "target": "Yes",
+            "index": 11
+        },
+        {
+            "input": "The difference between an abstract question and a \u2018controversy' contemplated by the [DJA] is necessarily one of degree, and it would be difficult, if it would be possible, to fashion a precise test for determining in every case whether there is such a controversy.",
+            "citation": "Md. Cas. Co. v. Pac. Coal & Oil Co.,",
+            "target": "Yes",
+            "index": 12
+        },
+        {
+            "input": "A \"patent is invalid for indefiniteness if its claims, read in light of the specification delineating the patent, and the prosecution history, fail to inform, with reasonable cer- tainty, those skilled in the art about the scope of the inven- tion.\"",
+            "citation": "Nautilus, Inc. v. Biosig Instruments, Inc.",
+            "target": "Yes",
+            "index": 13
+        },
+        {
+            "input": "A court also should consider the patent's prosecution history, and may rely on dictionary definitions, \"so long as the dictionary definition does not contradict any definition found in or ascertained by a reading of the patent documents.\"",
+            "citation": "Phillips v. AWH Corp.",
+            "target": "Yes",
+            "index": 14
+        },
+        {
+            "input": "If she has direct evidence of discrimination, the court does not wade into the McDonnell Douglas test,4 but instead the burden shifts to Performance to \"prove by a preponderance of the evidence that the same decision would have been made regardless of the discriminatory animus.\"",
+            "citation": "Jones v. Robinson Prop. Grp., L.P.",
+            "target": "Yes",
+            "index": 15
+        },
+        {
+            "input": "In so doing, \"we draw all facts \u2013 which we assume to be true unless contradicted by more specific allegations or documentary evidence \u2013 from the complaint and from the exhibits attached thereto,\" and \"we construe all reasonable inferences . . . in [the non-movant's] favor.\"",
+            "citation": "Amidax Trading Grp. v. S.W.I.F.T. 10 SCRL",
+            "target": "Yes",
+            "index": 16
+        },
+        {
+            "input": "\u2018Under this chapter' refers to duties the CRA imposes on various actors, whether those duties take the form of determinations, findings, actions, or omissions.",
+            "citation": "Kan. Nat. Res. Coal. v. U.S. Dep't of Interior",
+            "target": "Yes",
+            "index": 17
+        },
+        {
+            "input": "In nearly all situations, \"a case arises under federal law when federal law creates the cause of action asserted.\"",
+            "citation": "Gunn v. Minton,",
+            "target": "Yes",
+            "index": 18
+        },
+        {
+            "input": "Proof of scienter requires \"a showing of either conscious intent to defraud or 'a high degree of recklessness.'\"",
+            "citation": "SEC v. Ficken",
+            "target": "Yes",
+            "index": 19
+        },
+        {
+            "input": "As we have explained, \"[w]ithout a constitutional violation by the individual officers, there can be no \u00a7 1983 or Monell . . . municipal liability.\"",
+            "citation": "Sanders v. City of Minneapolis",
+            "target": "Yes",
+            "index": 20
+        },
+        {
+            "input": "[O]nce an interest has been identified as a \u2018judicially cognizable interest' in one case, it is such an interest in other cases as well (although there may be other grounds for granting standing in one case but not the other).",
+            "citation": "In re Special Grand Jury 89\u201302",
+            "target": "Yes",
+            "index": 21
+        },
+        {
+            "input": "When a statute is divisible, we employ the \"modified categorical approach\" and look to a \"limited class of documents\" to determine the offense underlying a defendant's prior conviction",
+            "citation": "Mathis v. United States",
+            "target": "Yes",
+            "index": 22
+        },
+        {
+            "input": "This Circuit recognizes that when evaluating an application of the plain view doctrine, an officer's testimony can be \"sufficient to establish that the [incriminating evidence] was visible from outside the car.\"",
+            "citation": "United States v. Galaviz",
+            "target": "Yes",
+            "index": 23
+        },
+        {
+            "input": "One element of the case-or-controversy requirement is that [plaintiffs], based on their complaint, must establish that they have standing to sue.",
+            "citation": "Raines v. Byrd",
+            "target": "Yes",
+            "index": 24
+        },
+        {
+            "input": "A genuine dispute over that fact exists if \"the evidence is such that a reasonable jury could return a verdict for the nonmoving party.\"",
+            "citation": "McCarty v. Hillstone Rest. Grp., Inc.",
+            "target": "Yes",
+            "index": 25
+        },
+        {
+            "input": "As the EEOC as amicus helpfully points out, stating one's belief that discrimination has occurred \"virtually always\" constitutes opposition, except in \"eccentric cases.\"",
+            "citation": "Crawford v. Metropolitan Government of Nashville & Davidson County",
+            "target": "Yes",
+            "index": 26
+        },
+        {
+            "input": "Under both Pennsylvania and New Jersey law, our role in interpreting an insurance policy is to \"ascertain the intent of the parties as manifested by the language of the written instrument.\"",
+            "citation": "Am. Auto. Ins. Co. v. Murray",
+            "target": "Yes",
+            "index": 27
+        },
+        {
+            "input": "A reasonable jury could have concluded that the Viking Statements \"expresse[d] certainty about . . . thing[s],\" and thus were actionable statements of fact, for a number of reasons.",
+            "citation": "Omnicare, Inc. v. Laborers Dist. Council Constr. Indus. Pension Fund",
+            "target": "Yes",
+            "index": 28
+        },
+        {
+            "input": "We review de novo whether an offense is a \"crime of violence\" within the meaning of the Guidelines",
+            "citation": "United States v. Harris",
+            "target": "Yes",
+            "index": 29
+        },
+        {
+            "input": "Requiring that evidence be \u2018immediate' and \u2018apparent' constrains the expansion of the limited search authorized by the warrant into a generalized search, and it prevents officers from having an opportunity to create a reason to expand the search.",
+            "citation": "United States v. McLevain",
+            "target": "Yes",
+            "index": 30
+        },
+        {
+            "input": "The Supreme Court and this court have repeatedly \"held that environmental plaintiffs adequately allege injury in fact when they aver that they use the affected area and are persons for whom the aesthetic and recreational values of the area will be lessened by the challenged activity.\"",
+            "citation": "Friends of the Earth, Inc. v. Laidlaw Env't Servs. (TOC), Inc.",
+            "target": "Yes",
+            "index": 31
+        },
+        {
+            "input": "[T]he law is settled that as a general matter the First Amendment prohibits government officials from subjecting an individual to retaliatory actions . . . for speaking out.",
+            "citation": "Hartman v. Moore",
+            "target": "Yes",
+            "index": 32
+        },
+        {
+            "input": "The Supreme Court has \"explained that the phrase \u2018case of actual controversy' in the [DJA] refers to the [same] type of \u2018Cases' and \u2018Controversies' that are justiciable under Article III.\"",
+            "citation": "MedImmune, Inc. v. Genentech, Inc.",
+            "target": "Yes",
+            "index": 33
+        },
+        {
+            "input": "It does not matter that \"the environmental and health injuries claimed by [Ms. Dengel] are not directly related to the constitutional attack on the [CRA].\"",
+            "citation": "Duke Power Co. v. Carolina Env't Study Grp., Inc",
+            "target": "Yes",
+            "index": 34
+        },
+        {
+            "input": "To prove materiality, the SEC must show that there exists a \"substantial likelihood\" that the fact \"would have been viewed by the reasonable investor as having significantly altered the 'total mix' of information made available.\"",
+            "citation": "Basic Inc. v. Levinson,",
+            "target": "Yes",
+            "index": 35
+        },
+        {
+            "input": "This Court has sometimes dismissed suits brought under Section 1983 \"because the federal claims were insubstantial and were pretextual state law claims.\"",
+            "citation": "Lovern v. Edwards",
+            "target": "Yes",
+            "index": 36
+        },
+        {
+            "input": "As discussed earlier, Wallace was effectively demoted when she was prevented from working at elevation, and \"a demotion\" is considered a tangible employment action.",
+            "citation": "Lauderdale v. Tex. Dep't of Criminal Justice",
+            "target": "Yes",
+            "index": 37
+        },
+        {
+            "input": "[O]bjects falling in the plain view of an officer who has a right to be in the position to have that view are subject to seizure and may be introduced in evidence.",
+            "citation": "Harris v. United States",
+            "target": "Yes",
+            "index": 38
+        },
+        {
+            "input": "When applying the practical-likelihood standard in insurance coverage disputes, we must account for the fact that \"an insurer's duty to defend is . . . distinct from [its] duty to indemnify,\"",
+            "citation": "Euchner-USA, Inc. v. Hartford Cas. Ins. Co.",
+            "target": "Yes",
+            "index": 39
+        },
+        {
+            "input": "Lemelson is not helped by his reference to our statement that it is \"not a material omission to fail to point out information of which the market is already aware.\"",
+            "citation": "Thant v. Karyopharm Therapeutics Inc.",
+            "target": "Yes",
+            "index": 40
+        },
+        {
+            "input": "Only when a claim asserted under federal law is \"so insubstantial, implausible, foreclosed by prior decisions of [the Supreme Court], or otherwise completely devoid of merit as not to involve a federal controversy\" should the complaint be dismissed for lack of jurisdiction",
+            "citation": "Oneida Indian Nation v. Oneida Cnty",
+            "target": "Yes",
+            "index": 41
+        },
+        {
+            "input": "We review claim construction based on intrinsic evidence de novo and review any findings of fact regarding ex- trinsic evidence for clear error.",
+            "citation": "SpeedTrack, Inc. v. Amazon.com, Inc.",
+            "target": "Yes",
+            "index": 42
+        },
+        {
+            "input": "Language is ambiguous \"if it is reasonably susceptible of different constructions and capable of being understood in more than one sense.\"",
+            "citation": "Hutchison v. Sunbeam Coal Corp.,",
+            "target": "Yes",
+            "index": 43
+        },
+        {
+            "input": "At the same time, \"it is well settled that the failure to state a proper cause of action calls for a judgment on the merits and not for a dismissal for want of jurisdiction.\"",
+            "citation": "Bell v. Hood",
+            "target": "Yes",
+            "index": 44
+        },
+        {
+            "input": "Third, Ms. Dengel has satisfactorily alleged that her injuries would \"likely be redressed by a favorable decision.\"",
+            "citation": "Clinton v. City of New York,",
+            "target": "Yes",
+            "index": 45
+        },
+        {
+            "input": "Rather, courts should focus on the practical likelihood that the [relevant] contingencies will occur.\"",
+            "citation": "Emps. Ins. of Wausau v. Fox Ent. Grp., Inc",
+            "target": "Yes",
+            "index": 46
+        },
+        {
+            "input": "In reviewing the record, we \"construe facts in the light most favorable to the jury verdict, draw any inferences in favor of the non-movant, and abstain from evaluating the credibility of the witnesses or the weight of the evidence.\"",
+            "citation": "Suero-Algar\u00edn v. CMT Hosp. Hima San Pablo Caguas",
+            "target": "Yes",
+            "index": 47
+        },
+        {
+            "input": "Abuse of discretion occurs \"when a material factor deserving significant weight is ignored, when an improper factor is relied upon, or when all proper and no improper factors are assessed, but the [district] court makes a serious mistake in weighing them.\"",
+            "citation": "SEC v. Sargent",
+            "target": "Yes",
+            "index": 48
+        },
+        {
+            "input": "In other words, the DJA \"creates a means by which rights and obligations may be adjudicated in cases involving an actual controversy that has not reached the stage at which either party may seek a coercive remedy.\"",
+            "citation": "United States v. Doherty",
+            "target": "Yes",
+            "index": 49
+        },
+        {
+            "input": "Whether policy language is ambiguous \"is not a question to be resolved in a vacuum.\"",
+            "citation": "Madison Constr. Co. v. Harleysville Mut. Ins. Co.",
+            "target": "Yes",
+            "index": 50
+        },
+        {
+            "input": "Whether a search was reasonable under the Fourth Amendment is a question of law which is reviewed de novo.",
+            "citation": "United States v. Pearce",
+            "target": "Yes",
+            "index": 51
+        },
+        {
+            "input": "Even so, Laney \"cannot use [a] strong[er] retaliation claim to bootstrap his weak one.\"",
+            "citation": "Bharadwaj v. Mid Dakota Clinic",
+            "target": "Yes",
+            "index": 52
+        },
+        {
+            "input": "Summary judgment was appropriate if the evidence, viewed in the light most favorable to [Laney], shows no genuine issue of material fact exists and the defendants were entitled to judgment as a matter of law.",
+            "citation": "McManemy v. Tierney",
+            "target": "Yes",
+            "index": 53
+        },
+        {
+            "input": "[O]bjects falling in the plain view of an officer who has a right to be in the position to have that view are subject to seizure and may be introduced in evidence.",
+            "citation": "Martin v. United States",
+            "target": "No",
+            "index": 54
+        },
+        {
+            "input": "When a statute is divisible, we employ the \"modified categorical approach\" and look to a \"limited class of documents\" to determine the offense underlying a defendant's prior conviction",
+            "citation": "SEC v. Sargent",
+            "target": "No",
+            "index": 55
+        },
+        {
+            "input": "Proof of scienter requires \"a showing of either conscious intent to defraud or 'a high degree of recklessness.'\"",
+            "citation": "Huff v. United States",
+            "target": "No",
+            "index": 56
+        },
+        {
+            "input": "This Circuit recognizes that when evaluating an application of the plain view doctrine, an officer's testimony can be \"sufficient to establish that the [incriminating evidence] was visible from outside the car.\"",
+            "citation": "Gunn v. Minton,",
+            "target": "No",
+            "index": 57
+        },
+        {
+            "input": "Claim construction requires determining how a skilled artisan would understand a claim term \"in the context of the entire patent, including the specification.\"",
+            "citation": "MedImmune, Inc. v. Genentech, Inc.",
+            "target": "No",
+            "index": 58
+        },
+        {
+            "input": "Requiring that evidence be \u2018immediate' and \u2018apparent' constrains the expansion of the limited search authorized by the warrant into a generalized search, and it prevents officers from having an opportunity to create a reason to expand the search.",
+            "citation": "Amidax Trading Grp. v. S.W.I.F.T. 10 SCRL",
+            "target": "No",
+            "index": 59
+        },
+        {
+            "input": "[O]nce an interest has been identified as a \u2018judicially cognizable interest' in one case, it is such an interest in other cases as well (although there may be other grounds for granting standing in one case but not the other).",
+            "citation": "Harris v. United States",
+            "target": "No",
+            "index": 60
+        },
+        {
+            "input": "We review de novo whether an offense is a \"crime of violence\" within the meaning of the Guidelines",
+            "citation": "Gunn v. Minton,",
+            "target": "No",
+            "index": 61
+        },
+        {
+            "input": "Whether a search was reasonable under the Fourth Amendment is a question of law which is reviewed de novo.",
+            "citation": "Omnicare, Inc. v. Laborers Dist. Council Constr. Indus. Pension Fund",
+            "target": "No",
+            "index": 62
+        },
+        {
+            "input": "To be \"equivalent to a demotion,\" the action need not \"result in a decrease in pay, title, or grade; it can be a demotion if the new position proves objectively worse\u2014such as being less prestigious or less interesting or providing less room for advancement.\"",
+            "citation": "Emps. Ins. of Wausau v. Fox Ent. Grp., Inc",
+            "target": "No",
+            "index": 63
+        },
+        {
+            "input": "As we have explained, \"[w]ithout a constitutional violation by the individual officers, there can be no \u00a7 1983 or Monell . . . municipal liability.\"",
+            "citation": "Jones v. Robinson Prop. Grp., L.P.",
+            "target": "No",
+            "index": 64
+        },
+        {
+            "input": "A genuine dispute over that fact exists if \"the evidence is such that a reasonable jury could return a verdict for the nonmoving party.\"",
+            "citation": "Lovern v. Edwards",
+            "target": "No",
+            "index": 65
+        },
+        {
+            "input": "Physical damage to property therefore typically means \"\u2018a distinct, demonstrable, and physical alteration' of its structure.\"",
+            "citation": "Nationwide Mut. Ins. Co. v. Cosenza",
+            "target": "No",
+            "index": 66
+        },
+        {
+            "input": "In reviewing a motion for summary judgment, we apply the same standard as the District Court, \"[d]rawing all reasonable inferences in favor of the party against whom judgment is sought\" and affirming the grant of the motion \"only when no 27 issues of material fact exist and the party for whom judgment is entered is entitled to judgment as a matter of law.\"",
+            "citation": "United States v. Doherty",
+            "target": "No",
+            "index": 67
+        },
+        {
+            "input": "The Supreme Court has \"explained that the phrase \u2018case of actual controversy' in the [DJA] refers to the [same] type of \u2018Cases' and \u2018Controversies' that are justiciable under Article III.\"",
+            "citation": "SEC v. Ficken",
+            "target": "No",
+            "index": 68
+        },
+        {
+            "input": "Once the case proceeds to trial, the full record developed in court supersedes the record existing at the time of the summary-judgment motion.",
+            "citation": "Phillips v. AWH Corp.",
+            "target": "No",
+            "index": 69
+        },
+        {
+            "input": "To succeed on summary judgment in reliance on an affirmative defense, the moving party must establish beyond peradventure all of the essential elements of the \"defense to warrant judgment in [its] favor.\"",
+            "citation": "Martin v. United States",
+            "target": "No",
+            "index": 70
+        },
+        {
+            "input": "Under both Pennsylvania and New Jersey law, our role in interpreting an insurance policy is to \"ascertain the intent of the parties as manifested by the language of the written instrument.\"",
+            "citation": "Nautilus, Inc. v. Biosig Instruments, Inc.",
+            "target": "No",
+            "index": 71
+        },
+        {
+            "input": "For hostile-work-environment claims, an employee must show that: \"(1) she belongs to a protected class; (2) she was subjected to harassment; (3) the harassment was based on sex; (4) the harassment affected a term, condition, or privilege of employment; and (5) the employer knew or should have known of the harassment and failed to take remedial action.\"",
+            "citation": "United States v. Doherty",
+            "target": "No",
+            "index": 72
+        },
+        {
+            "input": "With respect to the requirements of organizational standing, \"the second and third conditions are unquestionably satisfied here\" because \"protecting the environment is a core purpose of [Southwest Advocates] and the relief it seeks does not require the participation of individual members.\"",
+            "citation": "United States v. Doherty",
+            "target": "No",
+            "index": 73
+        },
+        {
+            "input": "In other words, the DJA \"creates a means by which rights and obligations may be adjudicated in cases involving an actual controversy that has not reached the stage at which either party may seek a coercive remedy.\"",
+            "citation": "In re Special Grand Jury 89\u201302",
+            "target": "No",
+            "index": 74
+        },
+        {
+            "input": "Third, Ms. Dengel has satisfactorily alleged that her injuries would \"likely be redressed by a favorable decision.\"",
+            "citation": "Nationwide Mut. Ins. Co. v. Cosenza",
+            "target": "No",
+            "index": 75
+        },
+        {
+            "input": "The Supreme Court and this court have repeatedly \"held that environmental plaintiffs adequately allege injury in fact when they aver that they use the affected area and are persons for whom the aesthetic and recreational values of the area will be lessened by the challenged activity.\"",
+            "citation": "United States v. Pearce",
+            "target": "No",
+            "index": 76
+        },
+        {
+            "input": "As the EEOC as amicus helpfully points out, stating one's belief that discrimination has occurred \"virtually always\" constitutes opposition, except in \"eccentric cases.\"",
+            "citation": "In re Special Grand Jury 89\u201302",
+            "target": "No",
+            "index": 77
+        },
+        {
+            "input": "This Court has sometimes dismissed suits brought under Section 1983 \"because the federal claims were insubstantial and were pretextual state law claims.\"",
+            "citation": "Raines v. Byrd",
+            "target": "No",
+            "index": 78
+        },
+        {
+            "input": "\u2018Under this chapter' refers to duties the CRA imposes on various actors, whether those duties take the form of determinations, findings, actions, or omissions.",
+            "citation": "Feist v. La., Dep't of Justice, Off. of the Att'y Gen.",
+            "target": "No",
+            "index": 79
+        },
+        {
+            "input": "When applying the practical-likelihood standard in insurance coverage disputes, we must account for the fact that \"an insurer's duty to defend is . . . distinct from [its] duty to indemnify,\"",
+            "citation": "MedImmune, Inc. v. Genentech, Inc.",
+            "target": "No",
+            "index": 80
+        },
+        {
+            "input": "At the same time, \"it is well settled that the failure to state a proper cause of action calls for a judgment on the merits and not for a dismissal for want of jurisdiction.\"",
+            "citation": "Phillips v. AWH Corp.",
+            "target": "No",
+            "index": 81
+        },
+        {
+            "input": "Lemelson is not helped by his reference to our statement that it is \"not a material omission to fail to point out information of which the market is already aware.\"",
+            "citation": "SEC v. Ficken",
+            "target": "No",
+            "index": 82
+        },
+        {
+            "input": "The Supreme Court has recently stated that \"one of multiple cases consolidated under [Rule 42(a)(2)] retains its independent character, at least to the extent it is appealable and finally resolved, regardless of any ongoing proceedings in the other cases.\"",
+            "citation": "Hartman v. Moore",
+            "target": "No",
+            "index": 83
+        },
+        {
+            "input": "Whether policy language is ambiguous \"is not a question to be resolved in a vacuum.\"",
+            "citation": "Amidax Trading Grp. v. S.W.I.F.T. 10 SCRL",
+            "target": "No",
+            "index": 84
+        },
+        {
+            "input": "We review claim construction based on intrinsic evidence de novo and review any findings of fact regarding ex- trinsic evidence for clear error.",
+            "citation": "Utah Physicians for a Healthy Env't v. Diesel Power Gear, LLC",
+            "target": "No",
+            "index": 85
+        },
+        {
+            "input": "Even so, Laney \"cannot use [a] strong[er] retaliation claim to bootstrap his weak one.\"",
+            "citation": "SpeedTrack, Inc. v. Amazon.com, Inc.",
+            "target": "No",
+            "index": 86
+        },
+        {
+            "input": "A reasonable jury could have concluded that the Viking Statements \"expresse[d] certainty about . . . thing[s],\" and thus were actionable statements of fact, for a number of reasons.",
+            "citation": "Suero-Algar\u00edn v. CMT Hosp. Hima San Pablo Caguas",
+            "target": "No",
+            "index": 87
+        },
+        {
+            "input": "District courts must hold an evidentiary hearing on motions under \u00a7 2255 \"unless the record conclusively shows that the petitioner is entitled to no relief.\"",
+            "citation": "Huff v. United States",
+            "target": "No",
+            "index": 88
+        },
+        {
+            "input": "It does not matter that \"the environmental and health injuries claimed by [Ms. Dengel] are not directly related to the constitutional attack on the [CRA].\"",
+            "citation": "Euchner-USA, Inc. v. Hartford Cas. Ins. Co.",
+            "target": "No",
+            "index": 89
+        },
+        {
+            "input": "If she has direct evidence of discrimination, the court does not wade into the McDonnell Douglas test,4 but instead the burden shifts to Performance to \"prove by a preponderance of the evidence that the same decision would have been made regardless of the discriminatory animus.\"",
+            "citation": "United States v. Harris",
+            "target": "No",
+            "index": 90
+        },
+        {
+            "input": "Language is ambiguous \"if it is reasonably susceptible of different constructions and capable of being understood in more than one sense.\"",
+            "citation": "SpeedTrack, Inc. v. Amazon.com, Inc.",
+            "target": "No",
+            "index": 91
+        },
+        {
+            "input": "The difference between an abstract question and a \u2018controversy' contemplated by the [DJA] is necessarily one of degree, and it would be difficult, if it would be possible, to fashion a precise test for determining in every case whether there is such a controversy.",
+            "citation": "Friends of the Earth, Inc. v. Laidlaw Env't Servs. (TOC), Inc.",
+            "target": "No",
+            "index": 92
+        },
+        {
+            "input": "[E]xclusions are always strictly construed against the insurer and in favor of the insured.",
+            "citation": "Prusky v. Reliastar Life Ins. Co.",
+            "target": "No",
+            "index": 93
+        },
+        {
+            "input": "A \"patent is invalid for indefiniteness if its claims, read in light of the specification delineating the patent, and the prosecution history, fail to inform, with reasonable cer- tainty, those skilled in the art about the scope of the inven- tion.\"",
+            "citation": "Hutchison v. Sunbeam Coal Corp.,",
+            "target": "No",
+            "index": 94
+        },
+        {
+            "input": "Rather, courts should focus on the practical likelihood that the [relevant] contingencies will occur.\"",
+            "citation": "Prusky v. Reliastar Life Ins. Co.",
+            "target": "No",
+            "index": 95
+        },
+        {
+            "input": "In nearly all situations, \"a case arises under federal law when federal law creates the cause of action asserted.\"",
+            "citation": "Phillips v. AWH Corp.",
+            "target": "No",
+            "index": 96
+        },
+        {
+            "input": "One element of the case-or-controversy requirement is that [plaintiffs], based on their complaint, must establish that they have standing to sue.",
+            "citation": "Am. Auto. Ins. Co. v. Murray",
+            "target": "No",
+            "index": 97
+        },
+        {
+            "input": "Only when a claim asserted under federal law is \"so insubstantial, implausible, foreclosed by prior decisions of [the Supreme Court], or otherwise completely devoid of merit as not to involve a federal controversy\" should the complaint be dismissed for lack of jurisdiction",
+            "citation": "United States v. Harris",
+            "target": "No",
+            "index": 98
+        },
+        {
+            "input": "A court also should consider the patent's prosecution history, and may rely on dictionary definitions, \"so long as the dictionary definition does not contradict any definition found in or ascertained by a reading of the patent documents.\"",
+            "citation": "Friends of the Earth, Inc. v. Laidlaw Env't Servs. (TOC), Inc.",
+            "target": "No",
+            "index": 99
+        },
+        {
+            "input": "Summary judgment was appropriate if the evidence, viewed in the light most favorable to [Laney], shows no genuine issue of material fact exists and the defendants were entitled to judgment as a matter of law.",
+            "citation": "Amidax Trading Grp. v. S.W.I.F.T. 10 SCRL",
+            "target": "No",
+            "index": 100
+        },
+        {
+            "input": "In reviewing the record, we \"construe facts in the light most favorable to the jury verdict, draw any inferences in favor of the non-movant, and abstain from evaluating the credibility of the witnesses or the weight of the evidence.\"",
+            "citation": "United States v. Pearce",
+            "target": "No",
+            "index": 101
+        },
+        {
+            "input": "As discussed earlier, Wallace was effectively demoted when she was prevented from working at elevation, and \"a demotion\" is considered a tangible employment action.",
+            "citation": "Jones v. Robinson Prop. Grp., L.P.",
+            "target": "No",
+            "index": 102
+        },
+        {
+            "input": "To prove materiality, the SEC must show that there exists a \"substantial likelihood\" that the fact \"would have been viewed by the reasonable investor as having significantly altered the 'total mix' of information made available.\"",
+            "citation": "Lauderdale v. Tex. Dep't of Criminal Justice",
+            "target": "No",
+            "index": 103
+        },
+        {
+            "input": "When a defendant presents an affidavit concerning a factual narrative of the events that is neither contradicted by the record nor inherently incredible and the government offers nothing more than contrary representations to contradict it, the defendant is entitled to an evidentiary hearing.",
+            "citation": "Hutchison v. Sunbeam Coal Corp.,",
+            "target": "No",
+            "index": 104
+        },
+        {
+            "input": "If the employee establishes a prima facie retaliation claim, \"the burden shifts to the employer to state a legitimate, non-retaliatory reason for its decision.\"",
+            "citation": "Hall v. Hall",
+            "target": "No",
+            "index": 105
+        },
+        {
+            "input": "In so doing, \"we draw all facts \u2013 which we assume to be true unless contradicted by more specific allegations or documentary evidence \u2013 from the complaint and from the exhibits attached thereto,\" and \"we construe all reasonable inferences . . . in [the non-movant's] favor.\"",
+            "citation": "Duke Power Co. v. Carolina Env't Study Grp., Inc",
+            "target": "No",
+            "index": 106
+        },
+        {
+            "input": "Abuse of discretion occurs \"when a material factor deserving significant weight is ignored, when an improper factor is relied upon, or when all proper and no improper factors are assessed, but the [district] court makes a serious mistake in weighing them.\"",
+            "citation": "Ortiz v. Jordan",
+            "target": "No",
+            "index": 107
+        },
+        {
+            "input": "For hostile-work-environment claims, an employee must show that: \"(1) she belongs to a protected class; (2) she was subjected to harassment; (3) the harassment was based on sex; (4) the harassment affected a term, condition, or privilege of employment; and (5) the employer knew or should have known of the harassment and failed to take remedial action.\"",
+            "citation": "Saketkoo v. Admins. of Tulane Educ. Fund",
+            "target": "Yes",
+            "index": 108
+        },
+        {
+            "input": "[T]he law is settled that as a general matter the First Amendment prohibits government officials from subjecting an individual to retaliatory actions . . . for speaking out.",
+            "citation": "Feist v. La., Dep't of Justice, Off. of the Att'y Gen.",
+            "target": "No",
+            "index": 109
+        }
+    ]
+}

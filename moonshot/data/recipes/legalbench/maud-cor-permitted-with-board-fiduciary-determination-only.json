@@ -1,0 +1,16 @@
+{
+  "id": "maud-cor-permitted-with-board-fiduciary-determination-only",
+  "name": "maud_cor_permitted_with_board_fiduciary_determination_only",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_cor_permitted_with_board_fiduciary_determination_only"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_cor_permitted_with_board_fiduciary_determination_only"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

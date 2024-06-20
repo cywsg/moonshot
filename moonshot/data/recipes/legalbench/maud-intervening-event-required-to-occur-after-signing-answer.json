@@ -1,0 +1,16 @@
+{
+  "id": "maud-intervening-event-required-to-occur-after-signing-answer",
+  "name": "maud_intervening_event_-_required_to_occur_after_signing_-_answer",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_intervening_event_-_required_to_occur_after_signing_-_answer"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_intervening_event_-_required_to_occur_after_signing_-_answer"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

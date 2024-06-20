@@ -1,0 +1,16 @@
+{
+  "id": "legal-reasoning-causality",
+  "name": "legal_reasoning_causality",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/legal_reasoning_causality"
+  ],
+  "prompt_templates": [
+    "legalbench/legal_reasoning_causality"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

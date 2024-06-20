@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-torts",
+  "name": "learned_hands_torts",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_torts"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_torts"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

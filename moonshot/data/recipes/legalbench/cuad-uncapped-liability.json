@@ -1,0 +1,16 @@
+{
+  "id": "cuad-uncapped-liability",
+  "name": "cuad_uncapped_liability",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_uncapped_liability"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_uncapped_liability"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

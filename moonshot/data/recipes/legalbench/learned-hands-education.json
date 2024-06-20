@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-education",
+  "name": "learned_hands_education",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_education"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_education"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

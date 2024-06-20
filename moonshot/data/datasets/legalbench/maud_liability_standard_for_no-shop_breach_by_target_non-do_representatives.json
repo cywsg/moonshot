@@ -1,0 +1,798 @@
+{
+    "name": "maud_liability_standard_for_no-shop_breach_by_target_non-do_representatives",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "maud_liability_standard_for_no-shop_breach_by_target_non-do_representatives"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "target": "A",
+            "input": "\"knowledge\" when used with respect to (i) the Company, means the actual knowledge <omitted> of those employees of the Company identified in Section 8.3(i) (Page 92)",
+            "index": 0
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" of any Person that is not an individual means the knowledge, after reasonable inquiry, of (a) in the case of the Company, those officers of the Company set forth in \u200bSection 1.01 of the Company Disclosure Schedule and (Page 19)",
+            "index": 1
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of a Person, with respect to any matter in question, means (i) with respect to the Company, the actual knowledge of the individuals set forth on Section 1.1(ddd) of the Company Disclosure Letter; and (ii) with respect to Parent, the actual knowledge of the individuals set forth on Section 1.1(ddd) of the Parent Disclosure Letter, in each case after reasonable inquiry of those employees who would reasonably be expected to have actual knowledge of the matter in question. With respect to matters involving Intellectual Property of the Company, Knowledge does not require the Company, or any of its directors, officers or employees, to have conducted or have obtained any freedom to operate opinions of any patent or any Mark or other Intellectual Property clearance searches, and if not conducted or obtained, no knowledge of any patents, Marks or other Intellectual Property of any third Person that would have been revealed by such opinions or searches will be imputed to the Company or any of its directors, officers or employees. (Page 14)",
+            "index": 2
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means (a) with respect to the Company, the actual knowledge in each case after reasonable inquiry of each individual listed in Section 1.1(b) of the Company Disclosure Letter and (b) with respect to Parent, the actual knowledge in each case after reasonable inquiry of each individual listed in Section 1.1(b) of the Parent Disclosure Letter. (Page 13)",
+            "index": 3
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" will be deemed to be, as the case may be, the actual knowledge of (a) the Persons listed in Section 9.5 of the Parent Disclosure Letter with respect to Parent, US Holdco or Crystal Merger Sub, or (b) the Persons listed in Section 9.5 of the Company Disclosure Letter with respect to the Company. (Page 42)",
+            "index": 4
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge of those persons set forth in Section 8.10(a) of the Company Disclosure Schedule (Page 84)",
+            "index": 5
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means, assuming due inquiry under the facts or circumstances, the actual knowledge of the chief executive officer, president, chief financial officer, chief credit officer or general counsel of Nicolet or the Company, as the context requires. (Page 57)",
+            "index": 6
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge \" means <omitted> the actual knowledge of the individuals listed on Section 1.01(a)(i) of the Company Disclosure Schedule (Page 6)",
+            "index": 7
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" (i) with respect to the Company means the actual knowledge of any of the individuals listed in \u200bSection 9.5(r) of the Company Disclosure Letter and (Page 86)",
+            "index": 8
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge <omitted> of <omitted> the individuals listed in Schedule 1.1 of the Company Disclosure Letter (Page 41)",
+            "index": 9
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of the Company, with respect to any matter in question, means the actual knowledge of the Company\u2019s President; Executive Vice President, Chief Financial Officer and Treasurer; Executive Vice President, Chief Legal Officer and Secretary; and Chief Information Officer. (Page 16)",
+            "index": 10
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge, after reasonable investigation, of, (a) in the case of the Company, the individuals listed in Schedule 1.1 of the Company Disclosure Letter and (Page 41)",
+            "index": 11
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means (i) with respect to the Company, the actual knowledge of any of the Persons set forth in Section 9.05 of the Company Disclosure Letter and (Page 72)",
+            "index": 12
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge of those persons set forth in Section 8.10(b) of the Company Disclosure Schedule, (Page 37)",
+            "index": 13
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of the Company <omitted> means the actual knowledge of the Company\u2019s President; Executive Vice President, Chief Financial Officer and Treasurer; Executive Vice President, Chief Legal Officer and Secretary; and Chief Information Officer. (Page 16)",
+            "index": 14
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means <omitted> the <omitted> knowledge, <omitted> of each of Maria Perrin, Doug Williams, Jacob Sims <omitted> , Jeffrey Sherman, Meredith Bjorck <omitted> , David Alexander and Greg Aunan (Page 7)",
+            "index": 15
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" <omitted> means the <omitted> knowledge of any of the officers of Company listed on Section 9.6 of the Company Disclosure Schedule, (Page 68)",
+            "index": 16
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge <omitted> of <omitted> the individuals listed in Section 1.1(a) of the Company Disclosure Letter (Page 15)",
+            "index": 17
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of any Party means <omitted>  the actual knowledge of Matt Gallagher, Ryan Dalton, David Dell\u2019Osso, Stephanie Reed and Colin Roberts. (Page 109)",
+            "index": 18
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means <omitted> (ii) <omitted> the actual knowledge of the individuals listed on Section 8.16(a) of the Company Disclosure Schedule (Page 76)",
+            "index": 19
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" shall mean the actual knowledge of any of the following <omitted> Jim Balas, Melanie Graper, Aaron Henry and Frank Martell; (Page 92)",
+            "index": 20
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" shall mean the knowledge, after reasonable inquiry, of the individuals listed in Part \"Definitions\" of the Company Disclosure Schedule. (Page 93)",
+            "index": 21
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" or any similar phrase means (a) with respect to the Company, the actual knowledge of the individuals set forth in Section 1.01 of the Company Disclosure Schedule, and (Page 7)",
+            "index": 22
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" <omitted> or any similar expression: <omitted> means the actual knowledge of the individuals named on Section 1.1(a) of the Company Disclosure Schedule, (Page 6)",
+            "index": 23
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" shall mean, with respect to (x) the Company, the actual knowledge of any of those individuals set forth in Section 1.1 of the Company Disclosure Letter and (Page 74)",
+            "index": 24
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge <omitted> of any of the Persons set forth in Section 9.4 of the Company Disclosure Schedule. (Page 74)",
+            "index": 25
+        },
+        {
+            "target": "A",
+            "input": "\"to VEREIT\u2019s knowledge\" or \"to the knowledge of VEREIT\" means the actual knowledge of any of the individuals listed in Section 9.1(b) of the VEREIT Disclosure Letter. (Page 48)",
+            "index": 26
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge of <omitted>  the individuals listed in Schedule 1.1 of the Company Disclosure Letter (Page 125)",
+            "index": 27
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" shall mean the actual knowledge of each of the following officers and employees of the Company or Parent <omitted>: (i) for the Company: William C. Johnson, Martin D. Agard, Joel H. Horn, Richard N. Caron, Jennifer Gudenkauf and Philip Dei Dolori; and (ii) for Parent: Filippo Berti and Bradford D. Willis. (Page 43)",
+            "index": 28
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means (i) with respect to the Company, the actual knowledge, after reasonable inquiry, of each individual listed in Section 1.1(a) of the Company Disclosure Letter, (Page 16)",
+            "index": 29
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge of any of the Persons set forth in Section 9.05 of the Company Disclosure Letter (Page 72)",
+            "index": 30
+        },
+        {
+            "target": "A",
+            "input": "As used in this Agreement, the \" knowledge\" of Cadence means the actual knowledge of any of the officers of Cadence listed on Section 9.6 of the Cadence Disclosure Schedule, (Page 85)",
+            "index": 31
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" shall mean the knowledge, after reasonable inquiry, of the individuals listed in Part \"Definitions\" of the Company Disclosure Schedule. (Page 85)",
+            "index": 32
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge of the Company\" means the actual knowledge <omitted> of those officers of the Company set forth on Part 1.01(a) of the Company Disclosure Schedule (Page 15)",
+            "index": 33
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means, (a) with respect to the Company, the actual (but not constructive or imputed) knowledge of the individuals listed in Section 1.01 of the Company Disclosure Letter, after making reasonable inquiry, as of the date hereof (Page 32)",
+            "index": 34
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> (ii) <omitted> the actual knowledge  <omitted>  of any one or more of the persons identified on Section 10.2(iii)(a) of the Company Disclosure Letter; (Page 81)",
+            "index": 35
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of TCF means the actual knowledge of any of the officers of TCF listed on Section 9.6 of the TCF Disclosure Schedule (Page 82)",
+            "index": 36
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" when used with respect to (i) the Company, means the actual knowledge of any fact, circumstance or condition of those employees of the Company identified in Section 8.3(i) of the Company Disclosure Letter and (ii) Parent, means the actual knowledge of any fact, circumstance or condition of those employees of Parent identified in Section 8.3(ii) of the Parent Disclosure Letter; (Page 92)",
+            "index": 37
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" will be deemed to be, as the case may be, the actual knowledge of (a) the individuals set forth on Section 1.1(a) of the Parent Disclosure Letter with respect to Parent, Merger Sub I or Merger Sub II or (b) the individuals set forth on Section 1.1(a) of the Company Disclosure Letter with respect to the Company, in each case after reasonable inquiry of those employees of such Party and its Subsidiaries who would reasonably be expected to have actual knowledge of the matter in question. (Page 103)",
+            "index": 38
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of Parent or the Company, as applicable means the actual knowledge, after reasonable internal inquiry and reasonable inquiry with external patent counsel, of the chief executive officer, the members of the executive leadership team or, solely with respect of the Company, the vice president of quality assurance and vice president of human resources. (Page 68)",
+            "index": 39
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of a Person <omitted> means (i) with respect to the Company, the actual knowledge of the individuals set forth on Section 1.1(ddd) of the Company Disclosure Letter (Page 14)",
+            "index": 40
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" shall mean the knowledge <omitted> of the individuals listed in Part \"Definitions\" of the Company Disclosure Schedule. (Page 85)",
+            "index": 41
+        },
+        {
+            "target": "B",
+            "input": "provided that \"knowledge of the Company\" or \"Company\u2019s knowledge\" shall also include the actual knowledge of the individuals set forth on Section 9.03(c) of the Company Disclosure Letter. (Page 88)",
+            "index": 42
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means the actual knowledge of, (a) in the case of the Company, the individuals listed in Schedule 1.1 of the Company Disclosure Letter and (Page 100)",
+            "index": 43
+        },
+        {
+            "target": "A",
+            "input": "As used in this Agreement, the \"knowledge\" of Company means the actual knowledge of any of the officers of Company listed on Section 9.6 of the Company Disclosure Schedule, (Page 68)",
+            "index": 44
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" or any similar phrase means (a) with respect to the Company, the collective actual knowledge of the individuals set forth in Section 10.15 of the Company Disclosure Letter and (Page 71)",
+            "index": 45
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" shall mean, (i) in the case of the Company, the actual knowledge, after reasonably inquiry, of the individuals listed on Section 8.13 of the Company Disclosure Schedule and (Page 84)",
+            "index": 46
+        },
+        {
+            "target": "A",
+            "input": "\"Executive Officers\" means, <omitted> (b) with respect to AB and/or the Bank, Len E. Williams, Mark K. Olson, Judd P. Kirkham, Ryan H. Jones and Judd J. Austin. <omitted> \"Knowledge\" or any similar knowledge qualification in this Agreement has the following meanings: (a) AB will be deemed to have \"Knowledge\" of a particular fact or matter if any Executive Officer of AB or the Bank has actual knowledge of such fact or matter or if any such Person would reasonably be expected to discover or otherwise become aware of such fact or matter in the course of making a reasonable inquiry into such areas of AB\u2019s and the Bank\u2019s business that are under such individual\u2019s general area of responsibility; (Page 9)",
+            "index": 47
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge of, (a) in the case of the Company, the individuals listed in Schedule 1.1 of the Company Disclosure Letter and (Page 125)",
+            "index": 48
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of the Company, with respect to any matter in question, means the actual knowledge of the Company\u2019s Chief Executive Officer; Chief Financial Officer; Chief Revenue Officer; Chief Marketing Officer; Chief People Officer; Chief Technology Officer and Chief Legal Officer (Page 14)",
+            "index": 49
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means:  (a) with respect to the Company and its Subsidiaries, the actual knowledge after reasonable inquiry of each of the individuals listed in Section 1.01 of the Company Disclosure Letter; (Page 15)",
+            "index": 50
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge of the Company\" means the actual knowledge of the individuals, in each case after reasonable inquiry, identified in Section 5.1(a)(iv) of the Company Disclosure Letter, (Page 17)",
+            "index": 51
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" <omitted> means <omitted> the collective actual knowledge of the individuals set forth in Section 10.15 of the Company Disclosure Letter (Page 71)",
+            "index": 52
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means with (a) with respect to the Company, the knowledge of the individuals identified on Part 1.1 of the Company Disclosure Schedule, after reasonable inquiry, (Page 124)",
+            "index": 53
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" or any similar phrase means (a) with respect to the Company, the actual knowledge of the individuals set forth in Section 1.01 of the Company Disclosure Schedule, and (Page 15)",
+            "index": 54
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means with respect to (a) NIC, that any of Harry H. Herington, Stephen M. Kovzan, Jayne Friedland Holland, or William A. Van Asselt is actually aware of the particular fact or matter, and (Page 61)",
+            "index": 55
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of Flagstar means the <omitted> knowledge of any of the officers of Flagstar listed on Section 9.6 of the Flagstar Disclosure Schedule (Page 74)",
+            "index": 56
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" shall mean the knowledge <omitted> of the individuals listed in Part \"Definitions\" of the Company Disclosure Schedule. (Page 107)",
+            "index": 57
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of Boston Private means the actual knowledge of any of the officers of Boston Private listed on Section 9.6 of the Boston Private Disclosure Schedule, (Page 83)",
+            "index": 58
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means (i) with respect to the Company, the knowledge of those individuals set forth in Section 1.01 of the Company Disclosure Schedule after reasonable inquiry and (Page 13)",
+            "index": 59
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge, after reasonable inquiry under the circumstances, of the Persons set forth in Section 3.01(a) of the First Choice Disclosure Schedule (Page 100)",
+            "index": 60
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" or \"knowledge\" as used with respect to a Person (including references to such Person being aware of a particular matter) means the actual knowledge of, in the case of Bryn Mawr, those individuals set forth in Section 10.1 of Bryn Mawr\u2019s Disclosure Memorandum (Page 72)",
+            "index": 61
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means:  (a) with respect to the Company and its Subsidiaries, the actual knowledge after reasonable inquiry of each of the individuals listed in Section 1.01 of the Company Disclosure Letter (Page 15)",
+            "index": 62
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means <omitted> the knowledge of those individuals set forth in Section 1.01 of the Company Disclosure Schedule (Page 13)",
+            "index": 63
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means the actual knowledge of: <omitted> the individuals listed in Schedule 1.1 of the Golden Disclosure Letter; (Page 52)",
+            "index": 64
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge of the Company\" means the actual knowledge as of the date hereof of any fact, circumstance or condition of those officers of the Company set forth on Part 1.01(a) of the Company Disclosure Schedule after reasonable inquiry of those employees who report directly to such officers. (Page 15)",
+            "index": 65
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means the actual knowledge of <omitted> the individuals listed in Schedule 1.1 of the Company Disclosure Letter (Page 100)",
+            "index": 66
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means, with respect to (a) the Company as it relates to any fact or other matter, the actual knowledge of the natural Persons set forth in Section 1.01B of the Company Disclosure Letter of such fact or matter as of the date hereof, in each case, after reasonable inquiry, and (Page 13)",
+            "index": 67
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means (i) with respect to the Company, the actual knowledge of those individuals set forth in Section 1.01 of the Company Disclosure Schedule and (Page 13)",
+            "index": 68
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of a Person means <omitted> the actual knowledge <omitted> of the individuals set forth on Section 1.1(D) of the Company Disclosure Schedule (Page 10)",
+            "index": 69
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of the Company means the actual knowledge of any of the officers of the Company listed on Section 9.6 of the Company Disclosure Schedule, (Page 74)",
+            "index": 70
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of the Company or any similar knowledge qualification in this Agreement means the actual knowledge of the individuals listed on Section 8.3(l) of the Company Disclosure Letter in each case after reasonable inquiry. (Page 74)",
+            "index": 71
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means the actual knowledge of <omitted> (ii) for the Company, the Persons listed on Exhibit C (the \"Company Knowledge Persons\") (Page 41)",
+            "index": 72
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of CIT means the actual knowledge of any of the officers of CIT listed on Section 9.6 of the CIT Disclosure Schedule (Page 72)",
+            "index": 73
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means, in each case after reasonable inquiry, (a) with respect to the Company, the actual knowledge of the individuals listed in Section 1.1(A) of the Company Disclosure Letter (Page 44)",
+            "index": 74
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means <omitted> the actual (but not constructive or imputed) knowledge of the individuals listed in Section 1.01 of the Company Disclosure Letter (Page 32)",
+            "index": 75
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means (i) with respect to the Company, the actual knowledge of those persons set forth in Section 8.10(a) of the Company Disclosure Schedule, and (ii) with respect to Parent, the actual knowledge of those persons set forth in Section 8.10(a) of the Parent Disclosure Schedule, in the case of each of (i) and (ii) after reasonable inquiry. (Page 84)",
+            "index": 76
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means, with respect to (a) the Company, the actual knowledge of those individuals set forth in Section 1.0(a) of the Company Disclosure Letter and (Page 70)",
+            "index": 77
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means, (a) with respect to the Company, the actual knowledge, after reasonable inquiry, of each of Maria Perrin, Doug Williams, Jacob Sims (in each case of the foregoing individuals, solely with respect to the representations and warranties contained in Article IV that are relevant to their respective roles at the Company), Jeffrey Sherman, Meredith Bjorck (for purposes of Section 4.09(a)(xiv), the reasonable inquiry of Meredith Bjorck shall be deemed to include reasonable inquiry of Bill Lucia), David Alexander and Greg Aunan, and (Page 7)",
+            "index": 78
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" <omitted> means <omitted> the collective knowledge of the individuals set forth in Section 1.1(a) of the Company Disclosure Schedule (Page 15)",
+            "index": 79
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\", whether or not capitalized, or any similar expression: (i) with respect to the Company, means the actual knowledge of the individuals named on Section 1.1(a) of the Company Disclosure Schedule, in each case, after reasonable inquiry of those employees directly reporting to such Person; (Page 6)",
+            "index": 80
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Paired Entities\" <omitted> means the <omitted> knowledge <omitted> of those individuals identified in Section 10.2(b) of the Paired Entities Disclosure Schedule (Page 91)",
+            "index": 81
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge of the natural Persons set forth in Section 1.01B of the Company Disclosure Letter (Page 13)",
+            "index": 82
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Paired Entities\" o r any or any similar phrase means the actual (and not the constructive or imputed) knowledge, after reasonable inquiry, of those individuals identified in Section 10.2(b) of the Paired Entities Disclosure Schedule (Page 91)",
+            "index": 83
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means, with respect to First Choice and First Choice Bank, the actual knowledge, after reasonable inquiry under the circumstances, of the Persons set forth in Section 3.01(a) of the First Choice Disclosure Schedule, and with respect to Enterprise or EB&T, the actual knowledge, after reasonable inquiry under the circumstances, of the Persons set forth in Section 4.01(a) of the Enterprise Disclosure Schedule. (Page 100)",
+            "index": 84
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of a Person means (a) with respect to the Company and the Company Subsidiaries, the actual knowledge, after reasonable inquiry of those individuals with responsibility for the matter in question, of the individuals set forth on Section 1.1(D) of the Company Disclosure Schedule (Page 10)",
+            "index": 85
+        },
+        {
+            "target": "B",
+            "input": "provided, however, that \"knowledge\" of the Company means the actual knowledge of the individuals listed in Section 1.01(a) of the Company Disclosure Letter. (Page 6)",
+            "index": 86
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means the actual knowledge of (i) for Parent, the Persons listed on Exhibit B (the \"Parent Knowledge Persons\") and (ii) for the Company, the Persons listed on Exhibit C (the \"Company Knowledge Persons\"), in each case, following reasonable inquiry of their direct reports; provided that none of the Parent Knowledge Persons or Company Knowledge Persons shall have any personal liability or obligations hereunder regarding such knowledge. (Page 41)",
+            "index": 87
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" or \"knowledge\" as used with respect to a Person <omitted> means the <omitted> knowledge of <omitted> those individuals set forth in Section 10.1 of Bryn Mawr\u2019s Disclosure Memorandum (Page 72)",
+            "index": 88
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means <omitted> the actual knowledge of the individuals listed in Section 1.01(a) of the Company Disclosure Letter, (Page 13)",
+            "index": 89
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" <omitted> means the actual knowledge of any of the officers of Boston Private listed on Section 9.6 of the Boston Private Disclosure Schedule (Page 83)",
+            "index": 90
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge of, (a) in the case of the Company, the individuals listed in Schedule 1.1 of the Company Disclosure Letter and (b) in the case of Parent, the individuals listed in Schedule 1.1 of the Parent Disclosure Letter, in each case after reasonable inquiry of those employees of such Party and its Subsidiaries who would reasonably be expected to have actual knowledge of the matter in question. (Page 83)",
+            "index": 91
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge of the Company\" means the actual knowledge of the individuals <omitted> identified in Section 5.1(a)(iv) of the Company Disclosure Letter, (Page 17)",
+            "index": 92
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" <omitted> means <omitted> the actual knowledge of the individuals set forth in Section 1.01 of the Company Disclosure Schedule, (Page 15)",
+            "index": 93
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\", with respect to the Company, means the actual knowledge of the Company\u2019s President, Chief Executive Officer, Chief Financial Officer, Chief Operating Officer, Chief Strategy Officer or General Counsel; (Page 84)",
+            "index": 94
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means <omitted> (ii) with respect to the Company and its Subsidiaries, the actual knowledge of the individuals listed on Section 8.15(a) of the Company Disclosure Letter. (Page 105)",
+            "index": 95
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means, with respect to any Acquired Company, the actual knowledge of the individuals listed in Section 1.01(a) of the Company Disclosure Letter, (Page 13)",
+            "index": 96
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" (i) with respect to the Company means the actual knowledge of any of the individuals listed in Section 10.5(p) of the Company Disclosure Letter and (ii) with respect to Parent or Merger Sub means the actual knowledge of any of the individuals listed in Section 10.5(p) of the Parent Disclosure Letter, in each case, after reasonable inquiry of such individual\u2019s direct reports; (Page 83)",
+            "index": 97
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge of (a) for Parent, the individuals listed in Section 9.14(a) of the Parent Disclosure Schedule under the heading \"Knowledge\" (the \"Parent Knowledge Persons\") and (b) for the Company, the individuals listed in Section 9.14(a) of the Company Disclosure Schedule under the heading \"Knowledge\" (the \"Company Knowledge Persons\"), in each case, after due inquiry; (Page 102)",
+            "index": 98
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge, after reasonable inquiry, of each individual listed in Section 1.1(a) of the Company Disclosure Letter, (Page 16)",
+            "index": 99
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge of, (a) in the case of the Company, the individuals listed in Schedule 1.1 of the Company Disclosure Letter (Page 52)",
+            "index": 100
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" shall mean the actual knowledge of any of the following officers and employees of the Company or Parent, as applicable: (i) for the Company: Jim Balas, Melanie Graper, Aaron Henry and Frank Martell; and (Page 92)",
+            "index": 101
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means (a) with respect to Parent, the actual knowledge, assuming due inquiry, of any of the Persons set forth in Section 9.4 of the Parent Disclosure Schedule and (b) with respect to the Company, the actual knowledge, assuming due inquiry, of any of the Persons set forth in Section 9.4 of the Company Disclosure Schedule. (Page 74)",
+            "index": 102
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means (i) with respect to the Parent Parties, the actual knowledge (without independent inquiry or investigation) of any one or more of the persons identified on Section 10.2(iii) of the Parent Disclosure Letter and (ii) with respect to the Company, the actual knowledge (without independent inquiry or investigation) of any one or more of the persons identified on Section 10.2(iii)(a) of the Company Disclosure Letter; provided that Knowledge of the Company with respect to any Joint Ventures of the Company shall be the actual knowledge (without independent inquiry or investigation) of any one or more of the persons identified on Section 10.2(iii)(a) or Section 10.2(iii)(b) of the Company Disclosure Letter; provided further, that Knowledge of the Company for purposes of Section 5.2(c) of this Agreement shall be limited to the actual knowledge (without independent inquiry or investigation) of any one or more of the Company\u2019s Chief Executive Officer, interim Chief Financial Officer and General Counsel. (Page 81)",
+            "index": 103
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means, with respect to Peoples, the Knowledge of any officer of Peoples with the title of Chief Executive Officer, President, Executive Vice President of Operations, or Chief Financial Officer, and, with respect to Premier Financial, the Knowledge of any officer of Premier Financial, Citizens Bank or Premier Bank with the title of Chairman, Chief Executive Officer, President, Chief Financial Officer, Chief Operating Officer, Chief Credit Officer, Chief Lending Officer, President of Citizens Bank, Compliance officer for Citizens Bank, the President of Premier Bank, or the Compliance Officer for Premier Bank. An officer of Peoples or Premier Financial shall be deemed to have \"Knowledge\" of a particular fact or matter if such officer is actually aware of such fact or matter or a prudent individual would be reasonably expected to discover or otherwise become aware of such fact or matter in the course of conducting a reasonably comprehensive investigation concerning the existence of such fact or matter. (Page 7)",
+            "index": 104
+        },
+        {
+            "target": "A",
+            "input": "Knowledge\" means the actual knowledge <omitted> of the persons set forth in Section 1.02 of the Company Disclosure Schedule (Page 10)",
+            "index": 105
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means the actual knowledge <omitted> of <omitted> (ii) for the Company, Scott McPherson, Christopher Miller, Jennifer Hulett, Brian Brandon and Greg Antholzner. (Page 96)",
+            "index": 106
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> (b) with respect to the Company, the actual knowledge of the individuals listed on Schedule A-I(b) Knowledge of the Company Disclosure Schedules. (Page 75)",
+            "index": 107
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means the actual knowledge of <omitted> the individuals listed in Schedule 1.1 of the Company Disclosure Letter (Page 83)",
+            "index": 108
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" <omitted> means <omitted> the actual knowledge of the individuals set forth in Section 1.01 of the Company Disclosure Schedule, (Page 7)",
+            "index": 109
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means, with respect to the Company and with respect to any matter in question, the actual knowledge of the Persons set forth on Schedule A of the Company Disclosure Letter, after reasonable inquiry, and, with respect to Parent, the actual knowledge of any executive officer of Parent, after reasonable inquiry. (Page 36)",
+            "index": 110
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" means the knowledge, after reasonable inquiry, of each of Mike Finley, Peter Hovenier, Derek Peterson, Dawn Callahan, Michael Zeto and Bruce Crair. With respect to Intellectual Property and Intellectual Property Rights, \"reasonable inquiry\" does not require the Company or any of the individuals named in the previous sentence to conduct, have conducted, obtain, or have obtained any freedom-to-operate opinions or similar opinions of counsel or any clearance searches, in each case, with respect to Patents, and no knowledge of any third-party Intellectual Property Rights that would have been revealed by such inquiries, opinions, or searches will be imputed to the Company or any such individual. (Page 5)",
+            "index": 111
+        },
+        {
+            "target": "B",
+            "input": "\"To the knowledge of the Company\" and similar phrases mean (i) the actual knowledge of the officers and employees listed on Section 1.1(a) of the Company Disclosure Letter (Pages 15-16)",
+            "index": 112
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" of any Party means (i) with respect to Parent, the actual knowledge of Mark Berg, Rich Dealy, Mark Kleinman and Margaret Montemayor, and (ii) with respect to the Company, the actual knowledge of Matt Gallagher, Ryan Dalton, David Dell\u2019Osso, Stephanie Reed and Colin Roberts. (Page 109)",
+            "index": 113
+        },
+        {
+            "target": "A",
+            "input": "\" knowledge\" <omitted> means the <omitted> knowledge of any of the officers of Cadence listed on Section 9.6 of the Cadence Disclosure Schedule, (Page 85)",
+            "index": 114
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means the actual knowledge of: (a)in the case of Golden, the individuals listed in Schedule 1.1 of the Golden Disclosure Letter; and (Page 52)",
+            "index": 115
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means <omitted> the actual knowledge of the Persons set forth on Schedule A of the Company Disclosure Letter (Page 36)",
+            "index": 116
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge \" means (i) with respect to the Company, the actual knowledge of the individuals listed on Section 1.01(a)(i) of the Company Disclosure Schedule and (Page 6)",
+            "index": 117
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" of the Company, with respect to any matter in question, means the actual knowledge of the Company\u2019s Chief Executive Officer; Chief Financial Officer; Chief Revenue Officer; Chief Marketing Officer; Chief People Officer; Chief Technology Officer and Chief Legal Officer, in each case after reasonable inquiry of those employees who would reasonably be expected to have actual knowledge of the matter in question. (Page 14)",
+            "index": 118
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" will be deemed to be <omitted> the actual knowledge of <omitted> (b) the individuals set forth on Section 1.1(a) of the Company Disclosure Letter (Page 103)",
+            "index": 119
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means <omitted> the actual knowledge of the individuals listed in Section 1.1(A) of the Company Disclosure Letter (Page 44)",
+            "index": 120
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means with <omitted>  that any of Harry H. Herington, Stephen M. Kovzan, Jayne Friedland Holland, or William A. Van Asselt is actually aware of the particular fact or matter (Page 61)",
+            "index": 121
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" will be deemed to be, as the case may be, the actual knowledge of <omitted> (b) the Persons listed in Section 9.5 of the Company Disclosure Letter with respect to the Company. (Page 42)",
+            "index": 122
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" shall mean the knowledge, after reasonable inquiry, of the individuals listed in Part \"Definitions\" of the Company Disclosure Schedule. (Page 107)",
+            "index": 123
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" means  <omitted> the actual knowledge of those individuals set forth in Section 1.01 of the Company Disclosure Schedule (Page 13)",
+            "index": 124
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge of the chief executive officer, president, chief financial officer, chief credit officer or general counsel of Nicolet or the Company (Page 57)",
+            "index": 125
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge, after reasonable inquiry, of (a) in the case of the Company and the Company Subsidiaries, the individuals listed in Section 1.1(a) of the Company Disclosure Letter and (Page 15)",
+            "index": 126
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" or any similar phrase means (a) with respect to the Company, the collective knowledge of the individuals set forth in Section 1.1(a) of the Company Disclosure Schedule and any individuals that, following the date of this Agreement, replace or share the employment responsibilities of any such individuals, in each case after reasonable inquiry of such individuals\u2019 direct reports who would reasonably be expected to have actual knowledge of the matter in question, and (Page 15)",
+            "index": 127
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge of the individuals set forth in Section 1.1(a) of the Company Disclosure Letter and any other individuals that, following the date of this Agreement, replace or share the employment responsibilities of any such scheduled individuals, in each case after reasonable due inquiry. (Page 76)",
+            "index": 128
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge of <omitted> the individuals listed in Section 9.14(a) of the Company Disclosure Schedule (Page 102)",
+            "index": 129
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means the actual knowledge of <omitted> the individuals listed in Schedule 1.1 of the Company Disclosure Letter (Page 99)",
+            "index": 130
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means <omitted> (ii) with respect to the Company, the actual knowledge of the individuals listed on Section 8.16(a) of the Company Disclosure Schedule (Page 76)",
+            "index": 131
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" <omitted> means the actual knowledge <omitted> of the chief executive officer, the members of the executive leadership team or, solely with respect of the Company, the vice president of quality assurance and vice president of human resources. (Page 68)",
+            "index": 132
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" <omitted> means the actual knowledge of any of the individuals listed in \u200bSection 9.5(r) of the Company Disclosure Letter (Page 86)",
+            "index": 133
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" shall mean <omitted> the actual knowledge of any of those individuals set forth in Section 1.1 of the Company Disclosure Letter (Page 74)",
+            "index": 134
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge of the Company\" means the knowledge <omitted> of each of Mike Finley, Peter Hovenier, Derek Peterson, Dawn Callahan, Michael Zeto and Bruce Crair. (Page 5)",
+            "index": 135
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" <omitted> shall mean those facts that are known by, <omitted> those Persons set forth in DCB Disclosure Schedule 1.1 (Page 11)",
+            "index": 136
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge of the individuals set forth in Section 1.1(a) of the Company Disclosure Letter (Page 76)",
+            "index": 137
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" <omitted> means the actual knowledge of any of the individuals listed in Section 10.5(p) of the Company Disclosure Letter (Page 83)",
+            "index": 138
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" shall mean <omitted> the actual knowledge <omitted> of the individuals listed on Section 8.13 of the Company Disclosure Schedule and (Page 84)",
+            "index": 139
+        },
+        {
+            "target": "A",
+            "input": "\"Executive Officers\" means, (a) with respect to GBCI and/or Glacier Bank Randall M. Chesler, Ronald J. Copher, and Donald J. Chery, and (b) with respect to AB and/or the Bank, Len E. Williams, Mark K. Olson, Judd P. Kirkham, Ryan H. Jones and Judd J. Austin. <omitted> \"Knowledge\" or any similar knowledge qualification in this Agreement has the following meanings: (a) AB will be deemed to have \"Knowledge\" of a particular fact or matter if any Executive Officer of AB or the Bank has actual knowledge of such fact or matter or if any such Person would reasonably be expected to discover or otherwise become aware of such fact or matter in the course of making a reasonable inquiry into such areas of AB\u2019s and the Bank\u2019s business that are under such individual\u2019s general area of responsibility; (Page 9)",
+            "index": 140
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" means the actual knowledge, after reasonable inquiry under the circumstances, of the persons set forth in Section 1.02 of the Company Disclosure Schedule or Section 1.01 of the Parent Disclosure Schedule. (Page 10)",
+            "index": 141
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> the knowledge of the individuals identified on Part 1.1 of the Company Disclosure Schedule, (Page 124)",
+            "index": 142
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" <omitted> means the actual knowledge of the individuals listed on Section 8.3(l) of the Company Disclosure Letter (Page 74)",
+            "index": 143
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" (i) with respect to the Company means the actual knowledge of any of the individuals listed in Section 9.5(dd) of the Company Disclosure Schedule (Page 87)",
+            "index": 144
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" <omitted> means the knowledge <omitted> of <omitted> those officers of the Company set forth in \u200bSection 1.01 of the Company Disclosure Schedule (Page 19)",
+            "index": 145
+        },
+        {
+            "target": "A",
+            "input": "As used in this Agreement, the \"knowledge\" of Flagstar means the actual knowledge of any of the officers of Flagstar listed on Section 9.6 of the Flagstar Disclosure Schedule (Page 74)",
+            "index": 146
+        },
+        {
+            "target": "A",
+            "input": "\"knowledge\" <omitted> means the actual knowledge of any of the officers of the Company listed on Section 9.6 of the Company Disclosure Schedule, (Page 74)",
+            "index": 147
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" as used with respect to a Person (including references to such Person being aware of a particular matter) shall mean those facts that are known by, (i) as to Bridge Bancorp, those Persons set forth in Bridge Bancorp Disclosure Schedule 1.1, and (ii) as to DCB, those Persons set forth in DCB Disclosure Schedule 1.1, and in each case shall include any facts, matters or circumstances set forth in any written notice from any Bank Regulator or any other material written notice received by such Person. (Page 11)",
+            "index": 148
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means the actual knowledge, after reasonable inquiry, of (i) for Parent, George Holm, James Hope, A. Brent King and Liz Mountjoy and (ii) for the Company, Scott McPherson, Christopher Miller, Jennifer Hulett, Brian Brandon and Greg Antholzner. (Page 96)",
+            "index": 149
+        },
+        {
+            "target": "B",
+            "input": "\"knowledge\" means the actual knowledge of, (a) in the case of the Company, the individuals listed in Schedule 1.1 of the Company Disclosure Letter and (Page 99)",
+            "index": 150
+        },
+        {
+            "target": "B",
+            "input": "\"To the knowledge of the Company\" and similar phrases mean (i) the actual knowledge of the officers and employees listed on Section 1.1(a) of the Company Disclosure Letter, after making reasonable inquiry, and (ii) all knowledge which was, or would reasonably have been expected to be, obtained by such Persons after such reasonable inquiry, which, for purposes of Section 5.17 shall include such actual knowledge after making due inquiry of the Company\u2019s outside intellectual property counsel, but in no event shall any such inquiry for purposes of this definition require freedom to operate analysis, trademark clearance searches,   11   validity, noninfringement or any other similar analysis or opinions of counsel to be conducted if such analysis was not conducted prior to the date hereof. (Pages 15-16)",
+            "index": 151
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means, with respect to <omitted> Premier Financial, the Knowledge of any officer of Premier Financial, Citizens Bank or Premier Bank with the title of Chairman, Chief Executive Officer, President, Chief Financial Officer, Chief Operating Officer, Chief Credit Officer, Chief Lending Officer, President of Citizens Bank, Compliance officer for Citizens Bank, the President of Premier Bank, or the Compliance Officer for Premier Bank. (Page 7)",
+            "index": 152
+        },
+        {
+            "target": "A",
+            "input": "\"Knowledge\" shall mean the actual knowledge of each of the following officers and employees of the Company or Parent, as applicable, after reasonable inquiry by each such person: (i) for the Company: William C. Johnson, Martin D. Agard, Joel H. Horn, Richard N. Caron, Jennifer Gudenkauf and Philip Dei Dolori; and (ii) for Parent: Filippo Berti and Bradford D. Willis. (Page 43)",
+            "index": 153
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> the actual knowledge of those individuals set forth in Section 1.0(a) of the Company Disclosure Letter (Page 70)",
+            "index": 154
+        },
+        {
+            "target": "A",
+            "input": "\"to the Company\u2019s knowledge\" or \"to the knowledge of the Company\" means the actual knowledge of any of the persons listed in Section 9.1(b) of the Company Disclosure Letter. (Page 100)",
+            "index": 155
+        },
+        {
+            "target": "B",
+            "input": "\"Knowledge\" means <omitted> (b) with respect to the Company, the actual knowledge of the individuals listed on Schedule A-I(b) (Page 75)",
+            "index": 156
+        }
+    ]
+}

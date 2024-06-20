@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-divorce",
+  "name": "learned_hands_divorce",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_divorce"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_divorce"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

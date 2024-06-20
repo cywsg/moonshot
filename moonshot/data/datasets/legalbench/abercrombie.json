@@ -1,0 +1,513 @@
+{
+    "name": "abercrombie",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "abercrombie"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "target": "generic",
+            "input": "The mark \"Salt\" for packages of sodium chloride.",
+            "index": 0
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Aspirin\" for inflammation medicine.",
+            "index": 1
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Telephone\" for a portable device you can use to call people.",
+            "index": 2
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Food\" for a restaurant.",
+            "index": 3
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Kerosene\" for packages of flammable liquids used to start fires.",
+            "index": 4
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Mask\" for cloth that you wear on your face to filter air.",
+            "index": 5
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Gun\" for a firearm.",
+            "index": 6
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"H2O\" for bottled water.",
+            "index": 7
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Watch\" for an Apple smartwatch.",
+            "index": 8
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Monitor\" for a digital display.",
+            "index": 9
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Car\" for a line of automobiles.",
+            "index": 10
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Popcorn\" for microwavable snacks.",
+            "index": 11
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Pen\" for writing implements which use ink.",
+            "index": 12
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Diamond\" for precious stones.",
+            "index": 13
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Cutlery\" for eating utencils.",
+            "index": 14
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Fruit\" for apples.",
+            "index": 15
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Pictures\" for a photography service.",
+            "index": 16
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Cables\" for electronic wires.",
+            "index": 17
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Tape\" for adhesive materials.",
+            "index": 18
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Sharp\" for a television.",
+            "index": 19
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Trim\" for nail clippers.",
+            "index": 20
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Fresh\" for car deodorizer.",
+            "index": 21
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Cold and Creamy\" for ice cream desserts.",
+            "index": 22
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"International Business Machines\" for a computer manufacturer.",
+            "index": 23
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Sharp\" for televisions.",
+            "index": 24
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Holiday Inn\" for hotel services.",
+            "index": 25
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Soft\" for pillows.",
+            "index": 26
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Smooth\" for keyboards.",
+            "index": 27
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Bright\" for desk lamps.",
+            "index": 28
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Compact\" for wallets.",
+            "index": 29
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Speedy\" for a bus service.",
+            "index": 30
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Best Washing\" for a laundromat.",
+            "index": 31
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Kold and Kreamy\" for milkshakes.",
+            "index": 32
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"American Airlines\" for an air based transporation service.",
+            "index": 33
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"QuickClean\" for towels.",
+            "index": 34
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Party Time!\" for an event planning service.",
+            "index": 35
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Unique Haircuts\" for a hair salon.",
+            "index": 36
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Coastal Winery\" for varietal wines.",
+            "index": 37
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Chicken of the Sea\" for canned fish.",
+            "index": 38
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Coppertone\" for suntan oil.",
+            "index": 39
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Jaguar\" for cars.",
+            "index": 40
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Airbus\" for an airplane manufacturer.",
+            "index": 41
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Old Crow\" for whiskey.",
+            "index": 42
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Microsoft\" for small computers.",
+            "index": 43
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Netflix\" for an online streaming service.",
+            "index": 44
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Greyhound\" for a high speed bus service.",
+            "index": 45
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Citibank\" for urban financial services.",
+            "index": 46
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"KitchenAid\" for baking appliances.",
+            "index": 47
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Quick Green\" for grass seed.",
+            "index": 48
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Public Eye\" for a weekly tabloid publication.",
+            "index": 49
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"CarMax\" for a used car dealership.",
+            "index": 50
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Equine Technologies\" for horse hoof pads.",
+            "index": 51
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Penguin Appliances\" for air conditioning manufacturer.",
+            "index": 52
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"7-Eleven\" for a convenience store that opens at 7am and closes at 11pm.",
+            "index": 53
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Seventeen\" for magazines targeted at teenagers.",
+            "index": 54
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Roach Motel\" for insect traps.",
+            "index": 55
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Orange Crush\" for fruit flavored soda.",
+            "index": 56
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Apple\" for a computer manufacturer.",
+            "index": 57
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Dove\" for chocolate.",
+            "index": 58
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Lotus\" for software.",
+            "index": 59
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Sun\" for computers.",
+            "index": 60
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Camel\" for cigarettes.",
+            "index": 61
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Coach\" for luxury accessories.",
+            "index": 62
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Shell\" for gas stations.",
+            "index": 63
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Cheetah\" for a web browser.",
+            "index": 64
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Oxygen\" for a line of pillows.",
+            "index": 65
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Daisy\" for a sports car.",
+            "index": 66
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Whirlpool\" for an oven.",
+            "index": 67
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Penguin\" for a bus service.",
+            "index": 68
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Amazon\" for an online shopping service.",
+            "index": 69
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Sahara\" for an ice cream seller.",
+            "index": 70
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Shark\" for a custom t-shirt maker.",
+            "index": 71
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"GreenBull\" for formal wear.",
+            "index": 72
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Cheetah\" for a brand of wallets.",
+            "index": 73
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"TidePool\" for treehouse manufacturing company.",
+            "index": 74
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Fever\" for washing detergent.",
+            "index": 75
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Madak\" for a printing company.",
+            "index": 76
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Yuteal\" for cleaning wipes.",
+            "index": 77
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Reloto\" for soda.",
+            "index": 78
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Wohold\" for gasoline.",
+            "index": 79
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Balto\" for a television streaming service.",
+            "index": 80
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Whatpor\" for an online shopping service.",
+            "index": 81
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Moodle\" for an internet search engine.",
+            "index": 82
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Yoddles\" for a chocolate candy.",
+            "index": 83
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Heullga\" for a line of waterbottles.",
+            "index": 84
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Kalp\" for a consulting services company.",
+            "index": 85
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Imprion\" for a line of sports drinks.",
+            "index": 86
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Oamp\" for baseball bats.",
+            "index": 87
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Nekmit\" for a line of wedding rings.",
+            "index": 88
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Membles\" for a literature oriented magazine.",
+            "index": 89
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Sast\" for salad dressing.",
+            "index": 90
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Antilds\" for plant seeds.",
+            "index": 91
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Lanbe\" for custom wallets.",
+            "index": 92
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Vit\" for a video conferencing service.",
+            "index": 93
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Ceath\" for waterguns.",
+            "index": 94
+        },
+        {
+            "target": "generic",
+            "input": "The mark \"Ivory\" for a product made of elephant tusks.",
+            "index": 95
+        },
+        {
+            "target": "descriptive",
+            "input": "The mark \"Tasty\" for bread.",
+            "index": 96
+        },
+        {
+            "target": "suggestive",
+            "input": "The mark \"Caress\" for body soap.",
+            "index": 97
+        },
+        {
+            "target": "arbitrary",
+            "input": "The mark \"Virgin\" for wireless communications.",
+            "index": 98
+        },
+        {
+            "target": "fanciful",
+            "input": "The mark \"Aswelly\" for a taxi service.",
+            "index": 99
+        }
+    ]
+}

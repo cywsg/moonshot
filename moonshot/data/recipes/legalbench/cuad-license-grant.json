@@ -1,0 +1,16 @@
+{
+  "id": "cuad-license-grant",
+  "name": "cuad_license_grant",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_license_grant"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_license_grant"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

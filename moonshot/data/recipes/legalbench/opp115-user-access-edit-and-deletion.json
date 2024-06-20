@@ -1,0 +1,16 @@
+{
+  "id": "opp115-user-access-edit-and-deletion",
+  "name": "opp115_user_access,_edit_and_deletion",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_user_access,_edit_and_deletion"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_user_access,_edit_and_deletion"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

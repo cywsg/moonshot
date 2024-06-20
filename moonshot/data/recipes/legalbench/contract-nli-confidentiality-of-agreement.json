@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-confidentiality-of-agreement",
+  "name": "contract_nli_confidentiality_of_agreement",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_confidentiality_of_agreement"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_confidentiality_of_agreement"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

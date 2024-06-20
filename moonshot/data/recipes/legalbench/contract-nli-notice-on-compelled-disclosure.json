@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-notice-on-compelled-disclosure",
+  "name": "contract_nli_notice_on_compelled_disclosure",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_notice_on_compelled_disclosure"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_notice_on_compelled_disclosure"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

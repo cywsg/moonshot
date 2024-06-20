@@ -1,0 +1,5 @@
+{
+    "name": "sara_numeric",
+    "description": "",
+    "template": "Answer the following questions.\n\nStatute: {{statute}}\nDescription: {{description}}\nQuestion: {{question}}. State the amount first.\nAnswer: "
+}

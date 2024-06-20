@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-crime",
+  "name": "learned_hands_crime",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_crime"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_crime"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

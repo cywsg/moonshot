@@ -1,0 +1,16 @@
+{
+  "id": "cuad-irrevocable-or-perpetual-license",
+  "name": "cuad_irrevocable_or_perpetual_license",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_irrevocable_or_perpetual_license"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_irrevocable_or_perpetual_license"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

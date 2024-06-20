@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-no-licensing",
+  "name": "contract_nli_no_licensing",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_no_licensing"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_no_licensing"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

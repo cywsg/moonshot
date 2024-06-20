@@ -1,0 +1,16 @@
+{
+  "id": "maud-accuracy-of-target-general-rw-bringdown-timing-answer",
+  "name": "maud_accuracy_of_target_general_rw_bringdown_timing_answer",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_accuracy_of_target_general_rw_bringdown_timing_answer"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_accuracy_of_target_general_rw_bringdown_timing_answer"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

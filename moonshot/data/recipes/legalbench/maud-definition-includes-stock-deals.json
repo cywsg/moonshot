@@ -1,0 +1,16 @@
+{
+  "id": "maud-definition-includes-stock-deals",
+  "name": "maud_definition_includes_stock_deals",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_definition_includes_stock_deals"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_definition_includes_stock_deals"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

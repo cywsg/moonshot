@@ -1,0 +1,16 @@
+{
+  "id": "cuad-revenue-profit-sharing",
+  "name": "cuad_revenue-profit_sharing",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_revenue-profit_sharing"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_revenue-profit_sharing"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

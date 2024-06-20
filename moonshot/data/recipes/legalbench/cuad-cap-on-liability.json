@@ -1,0 +1,16 @@
+{
+  "id": "cuad-cap-on-liability",
+  "name": "cuad_cap_on_liability",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_cap_on_liability"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_cap_on_liability"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

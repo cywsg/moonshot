@@ -1,0 +1,2363 @@
+{
+    "name": "opp115_user_access,_edit_and_deletion",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "opp115_user_access,_edit_and_deletion"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "target": "Yes",
+            "input": "A registered user of MediaNews Web sites may review and change his or her PIN and/or e-mail preferences by clicking on the Manage Account link after signing in.",
+            "index": 0
+        },
+        {
+            "target": "Yes",
+            "input": "may review and change his or her PIN and/or e-mail preferences by clicking on the Manage Account link after signing in.",
+            "index": 1
+        },
+        {
+            "target": "Yes",
+            "input": "We provide you with various ways to access or update your personal information, including contact and account information.",
+            "index": 2
+        },
+        {
+            "target": "Yes",
+            "input": "log into your account. Once you do, you will be able to enter and update",
+            "index": 3
+        },
+        {
+            "target": "Yes",
+            "input": "We will provide you the personal information requested if it is reasonably available, unless it infringes on the privacy of other individuals, and subject to reasonable limitations provided by law and internal procedures.",
+            "index": 4
+        },
+        {
+            "target": "Yes",
+            "input": "Contact us through one of the ways listed in the \"Contact Us\" section at the bottom of this Policy. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will provide you the personal information requested if it is reasonably available, unless it infringes on the privacy of other individuals, and subject to reasonable limitations provided by law and internal procedures. Otherwise we will describe the types of information we typically collect. We will provide access and make the changes you request, or will provide an explanation of what actions we will be able to take with regard to the request.",
+            "index": 5
+        },
+        {
+            "target": "Yes",
+            "input": "we will refer you to the service provider or business partner",
+            "index": 6
+        },
+        {
+            "target": "Yes",
+            "input": "You may update or delete your personal information or modify your account preferences for the Curse Features by accessing the \"My Account\" area of the Curse Features or sending us an email to support@curse.com requesting us to update or delete your personal information.",
+            "index": 7
+        },
+        {
+            "target": "Yes",
+            "input": "At that time you have the opportunity to opt-in to e-mail newsletters and alerts and have e-mail offers sent to you on behalf of MediaNews advertisers, however, you can update your preferences at a later time.",
+            "index": 8
+        },
+        {
+            "target": "Yes",
+            "input": "A registered user of MediaNews Web sites may review and change his or her PIN and/or e-mail preferences by clicking on the Manage Account link after signing in. A registered user may also review and request an update of the PIN and/or e-mail preferences which he or she provided to MediaNews at any time by e-mailing us at privacycoordinator@medianewsgroup.com or write to us at: Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202. Please include the name of the applicable site.",
+            "index": 9
+        },
+        {
+            "target": "Yes",
+            "input": "Access personally identifiable information that MediaNews has collected from your child,",
+            "index": 10
+        },
+        {
+            "target": "Yes",
+            "input": "Request to have this information deleted, or Request that we no longer collect or maintain such information about your child.",
+            "index": 11
+        },
+        {
+            "target": "Yes",
+            "input": "(a) initiate a review of your son's or daughter's account information,",
+            "index": 12
+        },
+        {
+            "target": "Yes",
+            "input": "Sally Ride Science allows you, as a parent or guardian, to review, modify, or delete",
+            "index": 13
+        },
+        {
+            "target": "Yes",
+            "input": "To (a) initiate a review of your son's or daughter's account information, (b) correct factual errors in such information, (c) request to have information deleted, or (d) request that we no longer collect or maintain such information about your child,",
+            "index": 14
+        },
+        {
+            "target": "Yes",
+            "input": "to correct, update, delete or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an opt out message in an email, or by emailing us at website@vikings.nfl.com, admin@vikingscontests.com, admin@vikingsnewsletter.com.",
+            "index": 15
+        },
+        {
+            "target": "Yes",
+            "input": "delete or remove the personal data you have provided to us.",
+            "index": 16
+        },
+        {
+            "target": "Yes",
+            "input": "Under COPPA, you have the right to review and have any of your child's information deleted from our records.",
+            "index": 17
+        },
+        {
+            "target": "Yes",
+            "input": "California Civil Code Section 1798.83 permits customers of PRH who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@penguinrandomhouse.com.",
+            "index": 18
+        },
+        {
+            "target": "Yes",
+            "input": "We give you the opportunity to modify information you have provided to us at anytime by logging into the system and navigating to your account and selecting those portions of your account you would like to update",
+            "index": 19
+        },
+        {
+            "target": "Yes",
+            "input": "We give you the opportunity to modify information you have provided to us at anytime by logging into the system and navigating to your account and selecting those portions of your account you would like to update.",
+            "index": 20
+        },
+        {
+            "target": "Yes",
+            "input": "A) Information already collected as part of a particular purchase in our transactions database which may be shared with third parties involved in the processing of financial transactions, as discussed above; or",
+            "index": 21
+        },
+        {
+            "target": "Yes",
+            "input": "B) Information that we may have already forwarded to credit card companies or any other third parties, all as provided above in this privacy policy.",
+            "index": 22
+        },
+        {
+            "target": "Yes",
+            "input": "We give you the opportunity to modify information you have provided to us at anytime",
+            "index": 23
+        },
+        {
+            "target": "Yes",
+            "input": "If no such mechanism or contact information is available on the Service, contact o",
+            "index": 24
+        },
+        {
+            "target": "Yes",
+            "input": "If you've registered on any part of the Service, please use the mechanism or contact information on the Service that allows you to change or update your member preferences or information, if available, to keep all such data accurate and up-to-date. If no such mechanism or contact information is available on the Service, contact our Privacy Policy Coordinator as described below with your changes.",
+            "index": 25
+        },
+        {
+            "target": "Yes",
+            "input": "o request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.",
+            "index": 26
+        },
+        {
+            "target": "Yes",
+            "input": "Also as discussed above in Section 2(B), if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.",
+            "index": 27
+        },
+        {
+            "target": "Yes",
+            "input": "you may access your personal information in your registration profile for review and may change any information, as necessary, except for your name.",
+            "index": 28
+        },
+        {
+            "target": "Yes",
+            "input": "you may access your personal information in your registration profile for review",
+            "index": 29
+        },
+        {
+            "target": "Yes",
+            "input": "This is a summary of your account with us. By clicking this button, you can view and/or edit your personal information at any time by clicking the \"Edit/Update\" button. You may also change your Communication Preferences.",
+            "index": 30
+        },
+        {
+            "target": "Yes",
+            "input": "Note that you can also change or update your information by clicking on \"Change\" button off the EasyPay home page.",
+            "index": 31
+        },
+        {
+            "target": "Yes",
+            "input": "may change any information, as necessary, except for your name",
+            "index": 32
+        },
+        {
+            "target": "Yes",
+            "input": "You may make changes to this information at any time by selecting the edit button in the \"My Profile\" folder",
+            "index": 33
+        },
+        {
+            "target": "Yes",
+            "input": "you can also change or update your information by clicking on \"Change\" button off the EasyPay home page.",
+            "index": 34
+        },
+        {
+            "target": "Yes",
+            "input": "If your account information is incomplete, inaccurate or not current, please use the Contact Us option on our Site, or call or write to us at the telephone numbers or appropriate address",
+            "index": 35
+        },
+        {
+            "target": "Yes",
+            "input": "please use the Contact Us option on our Site, or call or write to us at the telephone numbers or appropriate address for changes listed on your account statements, records, online or other account materials. You can also speak to a customer representative at a banking center, your Financial Advisor or account representative.",
+            "index": 36
+        },
+        {
+            "target": "Yes",
+            "input": "Certain information, such as address or email address, can be updated or corrected simply by calling Customer Service at 1.888.777.7920.",
+            "index": 37
+        },
+        {
+            "target": "Yes",
+            "input": "Certain information, such as address or email address, can be updated or correcte",
+            "index": 38
+        },
+        {
+            "target": "Yes",
+            "input": "Manage Your NYTimes.com Account in the My Account Area. You may review and update",
+            "index": 39
+        },
+        {
+            "target": "Yes",
+            "input": "However, we only save the most recent version of comments and posts, so your previous edits, once overwritten, are no longer available.",
+            "index": 40
+        },
+        {
+            "target": "Yes",
+            "input": "You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to reddit users. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process,",
+            "index": 41
+        },
+        {
+            "target": "Yes",
+            "input": "However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts.",
+            "index": 42
+        },
+        {
+            "target": "Yes",
+            "input": "You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to reddit users. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts.",
+            "index": 43
+        },
+        {
+            "target": "Yes",
+            "input": "If you believe that someone has submitted, without your permission, to reddit a link to a photograph, video, or digital image of you in a state of nudity or engaged in any act of sexual conduct, please contact us ( contact@reddit.com), and we will expedite its removal as quickly as possible.",
+            "index": 44
+        },
+        {
+            "target": "Yes",
+            "input": "If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device. If you have backed up your devices apps, reddit app information may continue to exist where you have backed it up.",
+            "index": 45
+        },
+        {
+            "target": "Yes",
+            "input": "If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device.",
+            "index": 46
+        },
+        {
+            "target": "Yes",
+            "input": "request updates or changes to your information or your preferences",
+            "index": 47
+        },
+        {
+            "target": "Yes",
+            "input": ", if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.",
+            "index": 48
+        },
+        {
+            "target": "Yes",
+            "input": "if you wish to request updates or changes to your information",
+            "index": 49
+        },
+        {
+            "target": "Yes",
+            "input": "ou may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the \"How to Contact Us\" section below",
+            "index": 50
+        },
+        {
+            "target": "Yes",
+            "input": "We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements,",
+            "index": 51
+        },
+        {
+            "target": "Yes",
+            "input": "We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the \"How to Contact Us\" section below.",
+            "index": 52
+        },
+        {
+            "target": "Yes",
+            "input": "Your rights to request that we delete your personal information are set forth in the\"Accessing, Correcting, and Deleting Your Personal Information\" section above.",
+            "index": 53
+        },
+        {
+            "target": "Yes",
+            "input": "users of the site will be free to edit, reproduce, use, disclose, publish and/or distribute",
+            "index": 54
+        },
+        {
+            "target": "Yes",
+            "input": "voluntarily submitted personal information to us and wish to review, update, correct or delete it",
+            "index": 55
+        },
+        {
+            "target": "Yes",
+            "input": "Flash cookies may remain on your computer even after you have rejected, disabled, opted out or deleted regular cookies.",
+            "index": 56
+        },
+        {
+            "target": "Yes",
+            "input": "If you would like to correct, update, or change your personal information with us please contact us the same way.",
+            "index": 57
+        },
+        {
+            "target": "Yes",
+            "input": "elect to change your UserRegistration at any time by logging in and editing your User Registration (each of our Covered Sites will contain log-in information).",
+            "index": 58
+        },
+        {
+            "target": "Yes",
+            "input": "cancel any User Registration that you may have selected or that we may have assigned.",
+            "index": 59
+        },
+        {
+            "target": "Yes",
+            "input": "You may also log-in to cancel any User Registration that you may have selected or that we may have assigned. If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for thepurpose of assuring you are not automatically registered again, against your wishes. You may request deletion of your Personally Identifiable Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.",
+            "index": 60
+        },
+        {
+            "target": "Yes",
+            "input": "If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for thepurpose of assuring you are not automatically registered again, against your wishes.",
+            "index": 61
+        },
+        {
+            "target": "Yes",
+            "input": "You may request deletion of your Personally Identifiable Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.",
+            "index": 62
+        },
+        {
+            "target": "Yes",
+            "input": "Note that our deletion does not ensure complete or comprehensive removal of your content from the internet and comments that may have been posted by others about you or your posting will remain accessible online.",
+            "index": 63
+        },
+        {
+            "target": "Yes",
+            "input": "We will correct such information whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible.",
+            "index": 64
+        },
+        {
+            "target": "Yes",
+            "input": "e will correct such information whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible.",
+            "index": 65
+        },
+        {
+            "target": "Yes",
+            "input": "e will correct such information whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible",
+            "index": 66
+        },
+        {
+            "target": "Yes",
+            "input": "You can access, add or update certain information in the \" My Account\" section of the Sites, including order tracking and account information.",
+            "index": 67
+        },
+        {
+            "target": "Yes",
+            "input": "You can access, add or update certain information in the \" My Account\" section of the Sites, including order tracking and account information. When you update information, your old information is replaced by your new information.",
+            "index": 68
+        },
+        {
+            "target": "Yes",
+            "input": "You can ask us to change or update other personal information about you by clicking here to reach our Privacy Officer.",
+            "index": 69
+        },
+        {
+            "target": "Yes",
+            "input": "You can ask us to change or update other personal information about you by clicking here to reach our Privacy Officer. Any request to update personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request.",
+            "index": 70
+        },
+        {
+            "target": "Yes",
+            "input": "You can unsubscribe or change your subscription to any of our Personal Notification Services at any time.",
+            "index": 71
+        },
+        {
+            "target": "Yes",
+            "input": "To change your mind, simply contact our Privacy Officer or sign up again when you visit the Sites or our stores.",
+            "index": 72
+        },
+        {
+            "target": "Yes",
+            "input": "if you would prefer that we delete or suppress information we have about you,",
+            "index": 73
+        },
+        {
+            "target": "Yes",
+            "input": "However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information.",
+            "index": 74
+        },
+        {
+            "target": "Yes",
+            "input": "Generally, you may review, update or delete certain Information collected by the Site by clicking \"Account\" on the homepage to sign in to your Site account with your User ID to change, update or deactivate your Personal Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID.",
+            "index": 75
+        },
+        {
+            "target": "Yes",
+            "input": "You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking \"Profile\" or your display name at the top of the Site, selecting \"Edit Profile\" or \"Manage Account\" and selecting the \"Privacy\" tab.",
+            "index": 76
+        },
+        {
+            "target": "Yes",
+            "input": "If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries",
+            "index": 77
+        },
+        {
+            "target": "Yes",
+            "input": "If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.",
+            "index": 78
+        },
+        {
+            "target": "Yes",
+            "input": "cannot be deleted, but may be modified with sufficient verification of the correct information",
+            "index": 79
+        },
+        {
+            "target": "Yes",
+            "input": "you will not be able to change that user name",
+            "index": 80
+        },
+        {
+            "target": "Yes",
+            "input": "If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information.",
+            "index": 81
+        },
+        {
+            "target": "Yes",
+            "input": "Parents of children or Ineligible Teenagers who wish to terminate their child's or Ineligible Teenager's membership must use their child's or Ineligible Teenager's User ID to gain direct access to the account, and follow the procedures in the \"Deactivation/Termination of Your Registration or Use\" Section of the Terms of Use Agreement to terminate their child's or Ineligible Teenager's member;",
+            "index": 82
+        },
+        {
+            "target": "Yes",
+            "input": "You can request that your account be deleted at any time by contacting us",
+            "index": 83
+        },
+        {
+            "target": "Yes",
+            "input": "You can request that your account be deleted at any time by contacting us. When your account is deleted, your user profile and all public activities (comments, conversation topics) will be removed.",
+            "index": 84
+        },
+        {
+            "target": "Yes",
+            "input": "When your account is deleted, your user profile and all public activities (comments, conversation topics) will be removed.",
+            "index": 85
+        },
+        {
+            "target": "Yes",
+            "input": "You may access or modify your washingtonpost.com account on the User Profile page.",
+            "index": 86
+        },
+        {
+            "target": "Yes",
+            "input": "An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the relevant lynda.com client (the data controller).",
+            "index": 87
+        },
+        {
+            "target": "Yes",
+            "input": "The individual may contact us at support@lynda.com to request that we remove this information from our database.",
+            "index": 88
+        },
+        {
+            "target": "Yes",
+            "input": "You may ask to have the information on yours or your childs account deleted or removed and request that we no longer have contact with your child",
+            "index": 89
+        },
+        {
+            "target": "Yes",
+            "input": "client makes a request to us to remove the data,",
+            "index": 90
+        },
+        {
+            "target": "Yes",
+            "input": "You may ask to have the information on yours or your childs account deleted or removed and request that we no longer have contact with your child; however, because we keep track of past transactions for as long as is reasonably necessary, you cannot delete information associated with past transactions on this Website",
+            "index": 91
+        },
+        {
+            "target": "Yes",
+            "input": "How You Can Review and Correct Your Personal Information? You can request to review your personal information contained in our records at any time. To do this, please send a letter to the address below requesting to see your information for the previous two years. If you believe that our information is incomplete or inaccurate, you can request that we correct it.",
+            "index": 92
+        },
+        {
+            "target": "Yes",
+            "input": "If you believe that our information is incomplete or inaccurate, you can request that we correct it.",
+            "index": 93
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish to update, delete inaccuracies, or modify your profile information, you may do so at any time by logging into your account.",
+            "index": 94
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish to update, delete inaccuracies, or modify your profile information, you may do so at any time",
+            "index": 95
+        },
+        {
+            "target": "Yes",
+            "input": "you may also request a record of any disclosure of your medical information",
+            "index": 96
+        },
+        {
+            "target": "Yes",
+            "input": "You may change your choices for subscriptions, newsletters and alerts",
+            "index": 97
+        },
+        {
+            "target": "Yes",
+            "input": "You may request access to the personal information we hold about you and that we amend or delete it",
+            "index": 98
+        },
+        {
+            "target": "Yes",
+            "input": "Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted",
+            "index": 99
+        },
+        {
+            "target": "Yes",
+            "input": "To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services.",
+            "index": 100
+        },
+        {
+            "target": "Yes",
+            "input": "Upon a visitor's request via postal mail, e-mail, or facsimile, SRL will provide to the visitor a summary of any personally identifiable information retained by SRL regarding the visitor, which information has been voluntarily provided to SRL through an account registration, customer order, or electronic news or information subscription. A visitor may modify, correct, change or update their personally identifiable information by contacting SRL via postal mail, e-mail, facsimile, or telephone as provided in Paragraph 3 of this Privacy Statement.",
+            "index": 101
+        },
+        {
+            "target": "Yes",
+            "input": "SRL will provide to the visitor a summary of any personally identifiable information retained by SRL regarding the visitor, which information has been voluntarily provided to SRL through an account registration, customer order, or electronic news or information subscription",
+            "index": 102
+        },
+        {
+            "target": "Yes",
+            "input": "or would like your personally identifiable information removed from Valve's records or otherwise deactivated,",
+            "index": 103
+        },
+        {
+            "target": "Yes",
+            "input": "You may contact us at terms@prometheusgm.com if at any time you would like to see the Personally Identifiable Information we hold about you, or to ask us to correct or update this information, or to ask us to delete it.",
+            "index": 104
+        },
+        {
+            "target": "Yes",
+            "input": "If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us using the mechanisms provided below. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update and/or suppress. We will try to comply with your request as soon as reasonably practicable.",
+            "index": 105
+        },
+        {
+            "target": "Yes",
+            "input": "You can delete your Yahoo account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted.",
+            "index": 106
+        },
+        {
+            "target": "Yes",
+            "input": "information that might possibly remain in our archived records after your account has been deleted.",
+            "index": 107
+        },
+        {
+            "target": "Yes",
+            "input": "If you have registered for an account through our Services, you may review and revise certain of your account information by clicking here to log in, and then navigating the left-hand menu options. You may modify your subscriptions to our various promotional email communications and newsletters by accessing the \"Email Subscriptions\" section within your Website account.",
+            "index": 108
+        },
+        {
+            "target": "Yes",
+            "input": "If you want to review or revise the personal information you provided during registration or in connection with a purchase or other activity while using our Services, or change the promotional email communications or newsletters you receive from us, you may either (1) click here to log in, and then click on the applicable left-hand menu option, or (2) call MLB.com Customer Service at 866-800-1275.",
+            "index": 109
+        },
+        {
+            "target": "Yes",
+            "input": "If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call MLB.com Customer Service at 866-800-1275.",
+            "index": 110
+        },
+        {
+            "target": "Yes",
+            "input": "can be updated or modified at any time by calling (800) 858-0229 or emailing studyabroad@ifsa-butler.org.",
+            "index": 111
+        },
+        {
+            "target": "Yes",
+            "input": "You will have the ability to access the information that we have collected about you.",
+            "index": 112
+        },
+        {
+            "target": "Yes",
+            "input": "You will have an opportunity to correct, update or modify this information",
+            "index": 113
+        },
+        {
+            "target": "Yes",
+            "input": "You will have an opportunity to correct, update or modify this information.",
+            "index": 114
+        },
+        {
+            "target": "Yes",
+            "input": "some of our sites and services give you the ability to view and",
+            "index": 115
+        },
+        {
+            "target": "Yes",
+            "input": "You will also not be able to access, update or delete that information",
+            "index": 116
+        },
+        {
+            "target": "Yes",
+            "input": "To manage and correct any factual inaccuracies in the information we have on file about you, please follow the directions in the e-mail or other relevant electronic communication you receive from us.",
+            "index": 117
+        },
+        {
+            "target": "Yes",
+            "input": "Your Options To manage and correct any factual inaccuracies in the information we have on file about you, please follow the directions in the e-mail or other relevant electronic communication you receive from us.",
+            "index": 118
+        },
+        {
+            "target": "Yes",
+            "input": "To manage and correct any factual inaccuracies in the information we have on file about you",
+            "index": 119
+        },
+        {
+            "target": "Yes",
+            "input": "you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information.",
+            "index": 120
+        },
+        {
+            "target": "Yes",
+            "input": "please e-mail us at online@notmc.com so that we can delete the child's information from our records.",
+            "index": 121
+        },
+        {
+            "target": "Yes",
+            "input": "If you have purchased from us or created an account, our site provides you the opportunity to review, correct, or update your account information.",
+            "index": 122
+        },
+        {
+            "target": "Yes",
+            "input": "GameStop will make sure that the information is not publicly available on our Websites, but the information may not be completely or comprehensively removed from GameStop systems.",
+            "index": 123
+        },
+        {
+            "target": "Yes",
+            "input": "How To Obtain A Copy Of This Notice. You have the right to a paper copy of this notice. You may request a paper copy at any time, even if you have previously agreed to receive this notice electronically. To do so, please call the Kaleida Health Privacy Officer at 716-859-8559. You may also obtain a copy of this notice from our website at www.Kaleidahealth.org, or by requesting a copy at your next visi",
+            "index": 124
+        },
+        {
+            "target": "Yes",
+            "input": "Kaleida Health wants you to know that you have the following rights to access and control your health information.",
+            "index": 125
+        },
+        {
+            "target": "Yes",
+            "input": "You have the right to inspect and obtain a copy of any of your health information",
+            "index": 126
+        },
+        {
+            "target": "Yes",
+            "input": "You have the right to inspect and obtain a copy of any of your health information that may be used to make decisions about you and your treatment for as long as we maintain this information in our records. This includes medical and billing records. To inspect or obtain a copy of your health information, please submit your request in writing to the Kaleida Health hospital or clinic at which you received your care. If you request a copy of the information, Kaleida Health may charge a fee for the costs of copying, mailing or other supplies we use to fulfill your request. The standard fee is $0.75 per page and must generally be paid before or at the time we give the copies to you.",
+            "index": 127
+        },
+        {
+            "target": "Yes",
+            "input": "Kaleida Health will respond to your request for inspection of records within 10 days.",
+            "index": 128
+        },
+        {
+            "target": "Yes",
+            "input": "If you believe that the health information we have about you is incorrect or incomplete, you may ask Kaleida Health to amend the information.",
+            "index": 129
+        },
+        {
+            "target": "Yes",
+            "input": "You have a right to request an \"accounting of disclosures\" which identifies certain other persons or organizations to whom we have disclosed your health information in accordance with applicable law and the protections afforded in this Notice of Privacy Practices.",
+            "index": 130
+        },
+        {
+            "target": "Yes",
+            "input": "An accounting of disclosures also does not include information about the following disclosures:",
+            "index": 131
+        },
+        {
+            "target": "Yes",
+            "input": "Your request must state a time period within the past six years for the disclosures you want us to include.",
+            "index": 132
+        },
+        {
+            "target": "Yes",
+            "input": "Ordinarily Kaleida Health will respond to your request for an accounting within 60 days.",
+            "index": 133
+        },
+        {
+            "target": "Yes",
+            "input": "ou have the right to request that we further restrict the way Kaleida Health uses and discloses your health information to treat your condition, collect payment for that treatment, or run our business operations",
+            "index": 134
+        },
+        {
+            "target": "Yes",
+            "input": "you can access your registration information and any billing or shipping information and edit this information",
+            "index": 135
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to decline requests for removal of information based on maintaining the historical and archival nature of our website(s).",
+            "index": 136
+        },
+        {
+            "target": "Yes",
+            "input": "Most of our services include information on how to remove your information and cancel the service.",
+            "index": 137
+        },
+        {
+            "target": "Yes",
+            "input": "You may alternatively send us an email at webmaster@newspost.com identifying the services and information you would like removed. Please provide explicit reasons why we should remove the content. We reserve the right to decline requests for removal of information based on maintaining the historical and archival nature of our website(s).",
+            "index": 138
+        },
+        {
+            "target": "Yes",
+            "input": "Most of our services include information on how to remove your information and cancel the service. You may alternatively send us an email at webmaster@newspost.com identifying the services and information you would like removed. Please provide explicit reasons why we should remove the content. We reserve the right to decline requests for removal of information based on maintaining the historical and archival nature of our website(s).",
+            "index": 139
+        },
+        {
+            "target": "Yes",
+            "input": "We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.",
+            "index": 140
+        },
+        {
+            "target": "Yes",
+            "input": "We encourage you to review, update, and correct the personal information that we maintain about you,",
+            "index": 141
+        },
+        {
+            "target": "Yes",
+            "input": "de-identify it so that it is anonymous and not attributed to your identity.",
+            "index": 142
+        },
+        {
+            "target": "Yes",
+            "input": "Additionally, if parents want us to delete any collected personally identifiable information about their children under the age of 13, they can also contact us at the website address listed above.",
+            "index": 143
+        },
+        {
+            "target": "Yes",
+            "input": "If your personally identifiable information changes, you may correct and/or update it by sending us an email. You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site.",
+            "index": 144
+        },
+        {
+            "target": "Yes",
+            "input": "you may correct and/or update it by sending us an email.",
+            "index": 145
+        },
+        {
+            "target": "Yes",
+            "input": "You can change your personal information and your communication preferences when you follow this link.",
+            "index": 146
+        },
+        {
+            "target": "Yes",
+            "input": "Barnes & Noble provides you with the ability to access, correct, change or request deletion of the personal information in your community profile(s) at any time by following the instructions below. We will respond to all access requests within 30 days. However, you cannot currently change your profile name although you may re-register and choose a new name. To review or modify your profile information, please click here.",
+            "index": 147
+        },
+        {
+            "target": "Yes",
+            "input": "You may access, correct or change the personal information in your community profile(s) on Lark Crafts at any time. To review or modify your profile information, log in to larkcrafts.com.",
+            "index": 148
+        },
+        {
+            "target": "Yes",
+            "input": "You may also access, correct or change the personal information in your community profile(s) on SparkNotes.com at any time, except to change your username. To review or modify your profile information, log in to SparkNotes.com.",
+            "index": 149
+        },
+        {
+            "target": "Yes",
+            "input": "Once we verify that you are the parent or legal guardian, at your request, we will promptly provide to you information regarding what, if any, personal information we have collected about your child and how it has been used or shared. We will, at your request, remove personal information about your child from its database and instruct our affiliates and third party partners to do the same.",
+            "index": 150
+        },
+        {
+            "target": "Yes",
+            "input": "Please be advised that our removal of your post(s) does not ensure complete or comprehensive removal of the content or information you have posted on Barnes & Noble Websites or Apps.",
+            "index": 151
+        },
+        {
+            "target": "Yes",
+            "input": "If you are a Minor under the age of 18, you may request and obtain removal of certain content or information posted on Barnes & Noble Websites and Apps by sending an email to privacy@barnesandnoble.com with ?Privacy Rights for Minors? in the subject line.",
+            "index": 152
+        },
+        {
+            "target": "Yes",
+            "input": "You also have the right to request a copy of the personal information that we hold about you and to have any inaccuracies rectified.",
+            "index": 153
+        },
+        {
+            "target": "Yes",
+            "input": "right to request a copy of the personal information that we hold about",
+            "index": 154
+        },
+        {
+            "target": "Yes",
+            "input": "You also have the right to request a copy of the personal information that we hold about you",
+            "index": 155
+        },
+        {
+            "target": "Yes",
+            "input": "Take information associated with your Google Account out of many of our services",
+            "index": 156
+        },
+        {
+            "target": "Yes",
+            "input": "we strive to give you ways to update it quickly",
+            "index": 157
+        },
+        {
+            "target": "Yes",
+            "input": "give you ways to update it quickly or to delete it",
+            "index": 158
+        },
+        {
+            "target": "Yes",
+            "input": "We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).",
+            "index": 159
+        },
+        {
+            "target": "Yes",
+            "input": "access and correction, we will do so for free, except where it would require a disproportionate effort.",
+            "index": 160
+        },
+        {
+            "target": "Yes",
+            "input": "If you have an account with The Atlantic, you may review and change your information by logging into your account and editing your account profile.",
+            "index": 161
+        },
+        {
+            "target": "Yes",
+            "input": "You may also use the contact information provided to request access or changes to your personally identifiable information",
+            "index": 162
+        },
+        {
+            "target": "Yes",
+            "input": "he list of which will change as our Web site evolves.",
+            "index": 163
+        },
+        {
+            "target": "Yes",
+            "input": "limited purpose of viewing and, in certain cases, updating that information",
+            "index": 164
+        },
+        {
+            "target": "Yes",
+            "input": "you can also remove your Personal Information from the \"Profile\" section of the Site.",
+            "index": 165
+        },
+        {
+            "target": "Yes",
+            "input": "You can update or correct your Personal Information by logging in and clicking on your user name at the top of the Site to access the \"Profile\" section.",
+            "index": 166
+        },
+        {
+            "target": "Yes",
+            "input": "If you no longer wish Everyday Health to use or share your Personal Information in accordance with this Policy or you no longer desire to use or access this Site, you can also remove your Personal Information from the \"Profile\" section of the Site.",
+            "index": 167
+        },
+        {
+            "target": "Yes",
+            "input": "Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.",
+            "index": 168
+        },
+        {
+            "target": "Yes",
+            "input": "You can modify information you have given us. To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.",
+            "index": 169
+        },
+        {
+            "target": "Yes",
+            "input": "You can modify information you have given us. To correct or delete information or update account settings,",
+            "index": 170
+        },
+        {
+            "target": "Yes",
+            "input": "If you choose to share contact information with us, you will have the opportunity to update that information.",
+            "index": 171
+        },
+        {
+            "target": "Yes",
+            "input": "f you choose to share contact information with us, you will have the opportunity to update that informatio",
+            "index": 172
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish to make changes to any personal information you have provided us, or if you have any questions about what we do with your personal information, please contact us by sending an e-mail to privacy@washingtonian.com.",
+            "index": 173
+        },
+        {
+            "target": "Yes",
+            "input": "you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated",
+            "index": 174
+        },
+        {
+            "target": "Yes",
+            "input": "You can also disable or delete the stored data used by technology similar to cookies, such as Local Shared Objects or Flash cookies, by managing your browser's \"add-on settings\" or visiting the website of its manufacturer.",
+            "index": 175
+        },
+        {
+            "target": "Yes",
+            "input": "We will let you know what data, if any, we are collecting at the time.",
+            "index": 176
+        },
+        {
+            "target": "Yes",
+            "input": "Either you will be able to make your changes right there, or we will give you instructions.",
+            "index": 177
+        },
+        {
+            "target": "Yes",
+            "input": "correct, delete/remove or change information in your Personal Profile, or any other tidbits we have about you",
+            "index": 178
+        },
+        {
+            "target": "Yes",
+            "input": "If you want to change your email address for email products, do so here",
+            "index": 179
+        },
+        {
+            "target": "Yes",
+            "input": "Our PlayStation website message boards are a place where users can go to freely share their thoughts and ideas about the PlayStation brand. A Sony Entertainment Network account is required to contribute to these message boards. We prohibit message board participants from disclosing their own personally identifying information other than their own Online IDs.",
+            "index": 180
+        },
+        {
+            "target": "Yes",
+            "input": "Through our job page at http://us.playstation.com/corporate/about/careers, SCEA allows job seekers to inquire about jobs and submit personally identifying information in connection with applying for employment. If a job seeker creates a job profile, he or she will be asked to provide an email address and create a password. He or she can use that email address and password to access his or her account, review the information in his or her profile, edit or delete his or her profile at any time.",
+            "index": 181
+        },
+        {
+            "target": "Yes",
+            "input": "He or she can use that email address and password to access his or her account, review the information in his or her profile,",
+            "index": 182
+        },
+        {
+            "target": "Yes",
+            "input": "You have the right to terminate your account or update any Personal Information collected by our Sites by contacting us at feedback@highgearmedia.com . If you terminate your account, your Personal Information will be removed from our system, subject to our right to retain any data necessary to investigate any violation of terms of use or alleged harmful or illegal activity.",
+            "index": 183
+        },
+        {
+            "target": "Yes",
+            "input": "If you terminate your account, your Personal Information will be removed from our system, subject to our right to retain any data necessary to investigate any violation of terms of use or alleged harmful or illegal activity.",
+            "index": 184
+        },
+        {
+            "target": "Yes",
+            "input": "specified procedures to update your personal information or opt out of the service may be found in the emails you receive.",
+            "index": 185
+        },
+        {
+            "target": "Yes",
+            "input": "California Civil Code Section 1798.83, also known as the Shine The Light law, permits our users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.",
+            "index": 186
+        },
+        {
+            "target": "Yes",
+            "input": "You have the right to terminate your account or update any Personal Information collected by our Sites by contacting us at feedback@highgearmedia.com . If you terminate your account, your Personal Information will be removed from our system",
+            "index": 187
+        },
+        {
+            "target": "Yes",
+            "input": "you can access your personal information by contacting ABITA.COM as described at the bottom of this statement, or through alternative means of access described by the service.",
+            "index": 188
+        },
+        {
+            "target": "Yes",
+            "input": "We will remove you and your personally identifiable information from our records",
+            "index": 189
+        },
+        {
+            "target": "Yes",
+            "input": "In addition to the functionality provided to you via the online services (such as using \"account settings\" for registered users), where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it.",
+            "index": 190
+        },
+        {
+            "target": "Yes",
+            "input": "we provide online visitors with access to their personal information and the ability to review, update and correct it.",
+            "index": 191
+        },
+        {
+            "target": "Yes",
+            "input": "Some access requests may be subject to a small fee. To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information.",
+            "index": 192
+        },
+        {
+            "target": "Yes",
+            "input": "If you'd like to delete, modify or update the data that you provided via the online services please use the settings on the online services",
+            "index": 193
+        },
+        {
+            "target": "Yes",
+            "input": "we provide online visitors with access to their personal information and the ability to review",
+            "index": 194
+        },
+        {
+            "target": "Yes",
+            "input": "If you would like to have your personally identifiable information changed",
+            "index": 195
+        },
+        {
+            "target": "Yes",
+            "input": "you may be able to log on and update or change",
+            "index": 196
+        },
+        {
+            "target": "Yes",
+            "input": "you may be able to log on and update or change your contact or account information",
+            "index": 197
+        },
+        {
+            "target": "Yes",
+            "input": "You may have access to, review, correct, update, change or delete your account profile information at any time. Simply log into your account, go to your profile, and make the necessary changes.",
+            "index": 198
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish to delete or close your account or account profile information altogether, please click here for more information on how to contact us. We will retain logs, demographic, indirect, and statistical information about you and keep an archival copy of this information in an anonymized form.",
+            "index": 199
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish to delete or close your account or account profile information altogether",
+            "index": 200
+        },
+        {
+            "target": "Yes",
+            "input": "You can access all your personally identifiable information that we collect online and maintain by logging into your account and adjusting your account settings and profile information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.",
+            "index": 201
+        },
+        {
+            "target": "Yes",
+            "input": "Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs,",
+            "index": 202
+        },
+        {
+            "target": "Yes",
+            "input": "Members can change their personal information or update their account information at any time by linking to http://aaasmember.org and selecting Member Services. Other registrants or users may also update their personal information at any time by sending e-mail to membership{at}aaas.org.",
+            "index": 203
+        },
+        {
+            "target": "Yes",
+            "input": "Images on our website (or a third party site where we share images, such as Flickr)",
+            "index": 204
+        },
+        {
+            "target": "Yes",
+            "input": "Anyone who intends to use these materials commercially should contact the individuals depicted or their representatives.",
+            "index": 205
+        },
+        {
+            "target": "Yes",
+            "input": "maintained, edited and deleted at the user's discretion at any time",
+            "index": 206
+        },
+        {
+            "target": "Yes",
+            "input": "Access to personally identifiable information that is collected from our Site may be accessible for a limited period of time from the point of collection",
+            "index": 207
+        },
+        {
+            "target": "Yes",
+            "input": "obtain access to their personal information through eConnect, a secure web interface that requires you to enter your student identification number and a password. The following information is available to registered students",
+            "index": 208
+        },
+        {
+            "target": "Yes",
+            "input": "correct their Student Information Profile and email address online through eConnect.",
+            "index": 209
+        },
+        {
+            "target": "Yes",
+            "input": "If any of the remaining personal information in your student record contains an error, please visit the Registrar's Office and request that the error be corrected",
+            "index": 210
+        },
+        {
+            "target": "Yes",
+            "input": "If you do not wish to receive them, you have the option to deactivate your account.",
+            "index": 211
+        },
+        {
+            "target": "Yes",
+            "input": "f you do not wish to receive them, you have the option to deactivate your account.",
+            "index": 212
+        },
+        {
+            "target": "Yes",
+            "input": "If you are a member of an Online Service, you may use that services account and privacy settings to personalize the collection, use and/or display of your data via that service.",
+            "index": 213
+        },
+        {
+            "target": "Yes",
+            "input": "To delete your Rockstar Games account, sign into your Social Club account, go to https://socialclub.rockstargames.com/profile equestdeleteaccount.html, and follow the instructions on the page.",
+            "index": 214
+        },
+        {
+            "target": "Yes",
+            "input": "To delete your Rockstar Games account, sign into your Social Club account, go to https://socialclub.rockstargames.com/profile equestdeleteaccount.html, and follow the instructions on the page. If y",
+            "index": 215
+        },
+        {
+            "target": "Yes",
+            "input": "or request that we no longer use your personal information to provide you services",
+            "index": 216
+        },
+        {
+            "target": "Yes",
+            "input": "In all cases for all Online Services, we will respond to your request for access to update,",
+            "index": 217
+        },
+        {
+            "target": "Yes",
+            "input": "In our site, we give you opportunities to provide your name, address, email and other relevant information that we use to give you a more personalized shopping experience and to make ordering and reordering easier for you.",
+            "index": 218
+        },
+        {
+            "target": "Yes",
+            "input": "you may do so by contacting our Information Privacy Manager at the address below.",
+            "index": 219
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish to correct any personally identifiable information you have provided to us in this manner, you may do so by contacting our Information Privacy Manager at the address below.",
+            "index": 220
+        },
+        {
+            "target": "Yes",
+            "input": "If you are a registered user of our Site, you can make changes to your account information by logging in to the Site and using the tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account.",
+            "index": 221
+        },
+        {
+            "target": "Yes",
+            "input": "If you wish, we will delete your account information; to do so, please log into Dictionary.com using the account you wish to close,then close your acount at http://app.dictionary.com/users/cancelaccount.",
+            "index": 222
+        },
+        {
+            "target": "Yes",
+            "input": "If you would like to modify any personal information you previously submitted our sites or apps, visit your account information section for each site or app to which you made the submission",
+            "index": 223
+        },
+        {
+            "target": "Yes",
+            "input": "If at any time you would like us to deactivate your member profile, please write to us at our corporate address or visit your account information section for each site and app. Please note that (1) we may retain your personal information in back-up storage after deactivation",
+            "index": 224
+        },
+        {
+            "target": "Yes",
+            "input": "you authorize your employees to access those portions of the Site that require a registration, one digital subscription will entitle each of your authorized employees to access those portions of the Site without the need for each employee to register individually, provided that such employees access such portions of the Site from a computer or other device with your institutional IP addresses for such devices that you have provided to us at the time of your registration",
+            "index": 225
+        },
+        {
+            "target": "Yes",
+            "input": "You can correct or update your personally identifiable information through the My Profile Page.",
+            "index": 226
+        },
+        {
+            "target": "Yes",
+            "input": "Any parent or guardian of a child under 13 years of age who may have provided personally-identifiable information to us may request a description of the personally-identifiable information that has been collected from or about that child",
+            "index": 227
+        },
+        {
+            "target": "Yes",
+            "input": "either limit or restrict any further maintenance or use of such information from that child and/or direct us to delete it.",
+            "index": 228
+        },
+        {
+            "target": "Yes",
+            "input": "You may access, update or delete your personally-identifiable information, and/or modify your account preferences for the Services, by accessing the \"My Account\" area of the Services or by contacting us at privacy@taylorswift.com.",
+            "index": 229
+        },
+        {
+            "target": "Yes",
+            "input": "Please note that when you delete your account, we may retain your account information for a reasonable period of time for the purpose of internal account management and fraud prevention.",
+            "index": 230
+        },
+        {
+            "target": "Yes",
+            "input": "If you no longer wish to receive our announcements by e-mail, you may unsubscribe from receiving them at any time by choosing the \"Unsubscribe\" link at the bottom of our e-mails, or by writing to us at privacy@taylorswift.com. If you e-mail us to change your contact preferences, we will implement your requested changes within a reasonable period of time. Please note that your requested changes will not be effective until we implement such changes.",
+            "index": 231
+        },
+        {
+            "target": "No",
+            "input": "Kaleida Health wants you to know that you have the following rights to access and control your health information. These rights are important because they will help you make sure that the health information we have about you is accurate. They may also help you control the way Kaleida Health uses your information and share it with others, or the way we communicate with you about your medical matters.",
+            "index": 232
+        },
+        {
+            "target": "No",
+            "input": "Any payment transactions will be encrypted using Secure Sockets Layer (SSL) technology.",
+            "index": 233
+        },
+        {
+            "target": "No",
+            "input": "clients (e.g., an entity that subscribes to the Services for use by the entitys personnel",
+            "index": 234
+        },
+        {
+            "target": "No",
+            "input": "order to cooperate with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, as well as private parties, including, for example, in response to subpoenas, search warrants, court orders, or other legal process.",
+            "index": 235
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Policy covers: What information do we gather about you- What do we do with the information we collect about you- With whom do we share the information that we gather- What is our email policy- How do I change or update my personal information- How do I opt-out from receiving emails- Is my information protected- Compliance With Legal Process Children's Guidelines Your California Privacy Rights Changes to This Privacy Policy",
+            "index": 236
+        },
+        {
+            "target": "No",
+            "input": "protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input",
+            "index": 237
+        },
+        {
+            "target": "No",
+            "input": "lease notify us as soon as possible if your user name or password is compromised. Call 1 (888) 335-9632 or +1 (805) 477-3900 for assistance, or email businessaffairs@lynda.com.",
+            "index": 238
+        },
+        {
+            "target": "No",
+            "input": "privacypolicy@take2games.com, or write to us at Take-Two Interactive, Attn: Internet Privacy Policy Administrator, 622 Broadway, New York, New York 10012.",
+            "index": 239
+        },
+        {
+            "target": "No",
+            "input": "(examples include, without limitation, e-commerce partners, services to help old friends locate you online, etc.).",
+            "index": 240
+        },
+        {
+            "target": "No",
+            "input": "we may receive personally identifiable information and other information about you and your computer, mobile or other device that you have made available to those services,",
+            "index": 241
+        },
+        {
+            "target": "No",
+            "input": "Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites",
+            "index": 242
+        },
+        {
+            "target": "No",
+            "input": "If you access our sites and services from a mobile or other device, we may collect",
+            "index": 243
+        },
+        {
+            "target": "No",
+            "input": "Verisign, the leading provider of digital trust services, provides secure payment processing for your online transactions with DCCCD's eConnect.",
+            "index": 244
+        },
+        {
+            "target": "No",
+            "input": "The Services are hosted in the United States and are governed by United States law. If you are using the Services from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using the Services, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.",
+            "index": 245
+        },
+        {
+            "target": "No",
+            "input": "For example, when the e-mail address 'U13user@dictionary.com' is hashed, the result or \"hash value\" might be 'a8der13ap69'. Every time that hash function is applied to that e-mail address the result will be the same. It is called one-way hashing because the function allows you to convert the data only one way. So while it is possible to convert an e-mail address into a hash value, it is not possible to convert that value back into the e-mail address.",
+            "index": 246
+        },
+        {
+            "target": "No",
+            "input": "businesses that are legally part of the same group of companies that Instagram is part of, or that become part of that group (\"Affiliates\").",
+            "index": 247
+        },
+        {
+            "target": "No",
+            "input": "We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the posted Privacy Policy when you visit any of our sites to be sure you are aware of and understand our current policy.",
+            "index": 248
+        },
+        {
+            "target": "No",
+            "input": "This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.",
+            "index": 249
+        },
+        {
+            "target": "No",
+            "input": "You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.",
+            "index": 250
+        },
+        {
+            "target": "No",
+            "input": "IX. CHILDRENS PRIVACY Most of our publications and websites are intended for adults. Some websites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. TEN is strongly committed to protecting the safety and privacy of children who visit our websites. We do not knowingly collect personal information online from children under 13. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their childrens use of the Internet",
+            "index": 251
+        },
+        {
+            "target": "No",
+            "input": "WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!",
+            "index": 252
+        },
+        {
+            "target": "No",
+            "input": "You can also contact your sales representatives or contact support@lynda.com.",
+            "index": 253
+        },
+        {
+            "target": "No",
+            "input": "In some instances, we may operate a Barnes & Noble Website on behalf of a third party. If you provide information in connection with a Barnes & Noble Website operated by Barnes & Noble on behalf of a third party, that information may be shared between Barnes & Noble and the third party.",
+            "index": 254
+        },
+        {
+            "target": "No",
+            "input": "to trusted partners who work on behalf of or with Yahoo under confidentiality agreements",
+            "index": 255
+        },
+        {
+            "target": "No",
+            "input": "We require persons or organizations that represent or assist us in servicing your policy and claims to keep your information confidential. We require our employees to protect your personal information and keep it confidential.",
+            "index": 256
+        },
+        {
+            "target": "No",
+            "input": "\"Phishing\" is a scam where fraudsters pretend that they represent well-known companies to steal your personal information. If you receive an email claiming to be from Hat World that asks you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.",
+            "index": 257
+        },
+        {
+            "target": "No",
+            "input": "Our advertising partner will make the data that we provide anonymous so that no one else will receive your PII.",
+            "index": 258
+        },
+        {
+            "target": "No",
+            "input": "See \"Termination of Wireless Services by Users\" under the \"Wireless Marketing Services and Associated Promotional Opportunities\" Section for more information",
+            "index": 259
+        },
+        {
+            "target": "No",
+            "input": "and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow similar standards of security and confidentiality.",
+            "index": 260
+        },
+        {
+            "target": "No",
+            "input": "Please review this privacy policy periodically as we may update it from time to time.",
+            "index": 261
+        },
+        {
+            "target": "No",
+            "input": "Most of our publications and websites are intended for adults. Some websites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. TEN is strongly committed to protecting the safety and privacy of children who visit our websites. We do not knowingly collect personal information online from children under 13. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their childrens use of the Internet.",
+            "index": 262
+        },
+        {
+            "target": "No",
+            "input": "Your User Registration will also be recognized at some of our Affiliate sites and sites which we partner with so that you may easily access features on those sites using your User Registration (\"Shared Registration Sites\"); however the information we provide and your actions on those Shared Registration Sites will be governed by the separate privacy policies of those Shared Registration Sites. A list of those Shared Registration Sites is set forth below, and may be updated from time to time. Current SharedRegistration Sites are: The National Magazine Company Limited.",
+            "index": 263
+        },
+        {
+            "target": "No",
+            "input": "by following the instructions provided on the Website or in the newsletter",
+            "index": 264
+        },
+        {
+            "target": "No",
+            "input": "Our services are not intended for use by children, and we do not knowingly collect personal information from children under 13. If we learn that personal information of someone less than 13-years-of-age has been collected through our services, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your minor child has obtained an account without your consent, then you may alert us via email and request that we delete that child's personal information.",
+            "index": 265
+        },
+        {
+            "target": "No",
+            "input": "Geekdo takes your privacy seriously. Please read the following to learn more about our privacy policy.",
+            "index": 266
+        },
+        {
+            "target": "No",
+            "input": "by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc.",
+            "index": 267
+        },
+        {
+            "target": "No",
+            "input": "Note that you must opt-out separately from each computer or device and browser that you use to access our Services and if you clear your cookies, you will need to repeat the opt-out process.",
+            "index": 268
+        },
+        {
+            "target": "No",
+            "input": "We are lynda.com, Inc., located at 6410 Via Real, Carpinteria, CA 93013, USA. We are committed to protecting and respecting your privacy. This Privacy Policy describes the types of information we may collect from you or that you may provide to us when you visit the lynda.com websites located at www.lynda.com, m.lynda.com and www.video2brain.com (the Websites) or the lynda.com mobile application (App) (collectively, the Services) , and our practices for collecting, using, maintaining, protecting and disclosing such information. This Privacy Policy applies to information we collect: (i) through our Services, (ii) in text and electronic messages between you and our Services, and (iii) via mobile applications you download from our Websites, which provide dedicated non-browser-based interactions between you and our Services. This Privacy Policy does not apply to any information collected by us offline or via third-party sites that may be accessed through hyperlinks on our Services",
+            "index": 269
+        },
+        {
+            "target": "No",
+            "input": "We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application. - See more at: http://newsbusters.org/privacy-policy#sthash.3sEtPLFK.dpuf",
+            "index": 270
+        },
+        {
+            "target": "No",
+            "input": "Please note that because we cannot guarantee the status of specific items, you use materials found in our holdings at your own risk.",
+            "index": 271
+        },
+        {
+            "target": "No",
+            "input": "We may provide links to third party sites, such as credit bureaus, service providers or merchants. If you follow links to sites not affiliated or controlled by Bank of America, you should review their privacy and security policies and other terms and conditions, as they may be different from those of our Sites. Bank of America does not guarantee and is not responsible for the privacy or security of these sites, including the accuracy, completeness, or reliability of their information.",
+            "index": 272
+        },
+        {
+            "target": "No",
+            "input": "We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services",
+            "index": 273
+        },
+        {
+            "target": "No",
+            "input": "Enable you to participate in features such as surveys, polls, sweepstakes, and message boards;",
+            "index": 274
+        },
+        {
+            "target": "No",
+            "input": "Most of our locations are independently owned and operated franchises, and we do not own or operate these locations. Comments, questions or complaints submitted to us about a specific location will be forwarded to the franchised location, along with any contact information you provide with your comment. If you have comments regarding a specific location, we recommend you contact that location directly so that they may personally and immediately assist you. We do not guarantee the privacy practices of any specific franchised location.",
+            "index": 275
+        },
+        {
+            "target": "No",
+            "input": "Kaleida Health may use and disclose your health information without your written authorization if we obtain approval through a special process to ensure that research without your written authorization poses minimal risk to your privacy.",
+            "index": 276
+        },
+        {
+            "target": "No",
+            "input": "Merchants may be required to undergo periodic third-party data security assessments and periodic network scans to ensure that appropriate security measures are in place.",
+            "index": 277
+        },
+        {
+            "target": "No",
+            "input": "Parents are able to consent to the use of their childs Personally Identifiable Information without having to consent to the Websites disclosure of the childs Personally Identifiable Information to third parties, as we do not share Personally Identifiable Information of children under the age of 13 with any third parties (other than those service partners who help us provide the lynda.com service to you).",
+            "index": 278
+        },
+        {
+            "target": "No",
+            "input": "OUR COMMITMENT TO PROTECTING YOUR PRIVACY Community Coffee Company respects your right to privacy and is committed to protecting it.",
+            "index": 279
+        },
+        {
+            "target": "No",
+            "input": "If you dont agree to the terms contained in this User Agreement and Privacy Policy, you must immediately exit the Service.",
+            "index": 280
+        },
+        {
+            "target": "No",
+            "input": "requires employees and service providers who work for or with SRL to sign confidentiality and security contracts restricting their use of any data related to user information",
+            "index": 281
+        },
+        {
+            "target": "No",
+            "input": "You can log in to our site using third party sign-in services such as Facebook Connect or an Open ID provider",
+            "index": 282
+        },
+        {
+            "target": "No",
+            "input": "his Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to TEN and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms and Conditions of Use, and contact us if you have any questions.",
+            "index": 283
+        },
+        {
+            "target": "No",
+            "input": "certain information about your computer or other device that you use to access the Sites",
+            "index": 284
+        },
+        {
+            "target": "No",
+            "input": "Company is not responsible for the practices employed by websites linked to or from the Website nor the information or content contained therein. It follows that the Company accepts no responsibility for events experienced by you if you visit a third party site by clicking through from the Website. Please remember that when you use a link to go from the Website to another website, this Privacy Policy is no longer in effect. User browsing and interaction on any other website, including those that have a link on our Website, is subject to that other website's own rules and policies. Please read over those rules and policies before proceeding.",
+            "index": 285
+        },
+        {
+            "target": "No",
+            "input": "ggregate information: Aggregate information is user information not linked to PIN.",
+            "index": 286
+        },
+        {
+            "target": "No",
+            "input": "Kaleida Health Privacy Officer, 726 Exchange Street Suite 200, Buffalo, New York 14210.",
+            "index": 287
+        },
+        {
+            "target": "No",
+            "input": "Barnes & Noble uses your personal information across our enterprise",
+            "index": 288
+        },
+        {
+            "target": "No",
+            "input": "dentify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others.",
+            "index": 289
+        },
+        {
+            "target": "No",
+            "input": "Children's Privacy Our Websites, services and applications are designed for and directed at people 13 years of age or older. We do not knowingly collect information from children under 13. If GameStop learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at: Gamestop.com Customer Service 625 Westport Parkway Grapevine, TX 76051",
+            "index": 290
+        },
+        {
+            "target": "No",
+            "input": "PRH respects the privacy of children and we are committed to complying with the Children's Online Privacy Protection Act (COPPA). This Children's Privacy Policy describes our practices with respect to the collection of personal information from children under the age of 13. This Site does not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by COPPA.",
+            "index": 291
+        },
+        {
+            "target": "No",
+            "input": "If and when a standard for responding is established, we may revisit its policy on responding to these signals.",
+            "index": 292
+        },
+        {
+            "target": "No",
+            "input": "International This English-language Privacy Policy is NOTMC's official statement of our privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into any other language, this English-language document will take precedence over such translation.",
+            "index": 293
+        },
+        {
+            "target": "No",
+            "input": "Information about you may also be shared with other companies. For instance, companies engaged in \"targeted\" or \"behavioral\" advertising present ads that might be of interest to you based on information about your online activities.",
+            "index": 294
+        },
+        {
+            "target": "No",
+            "input": "material changes to this privacy policy or in how we will use your personal information,",
+            "index": 295
+        },
+        {
+            "target": "No",
+            "input": "Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third partys specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services on an aggregated basis.",
+            "index": 296
+        },
+        {
+            "target": "No",
+            "input": "do not connect your social media service account with your Services",
+            "index": 297
+        },
+        {
+            "target": "No",
+            "input": "Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, Sections 4(d)and 5(d) explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws.",
+            "index": 298
+        },
+        {
+            "target": "No",
+            "input": "If you have questions about the use of your information by the National Archives Trust Fund, please write to National Archives Trust Fund (NAT), 8601 Adelphi Road, College Park, MD 20740.",
+            "index": 299
+        },
+        {
+            "target": "No",
+            "input": "please contact Info@WorldNow.com; we will be happy to forward your message to the third party.",
+            "index": 300
+        },
+        {
+            "target": "No",
+            "input": "This Site may contain links to other World Wide Web sites or advertisements for or placed by third parties. SRL is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements.",
+            "index": 301
+        },
+        {
+            "target": "No",
+            "input": "Liquor.com is not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the site, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must get the permission of their parent(s)or legal guardian(s) before viewing the website.",
+            "index": 302
+        },
+        {
+            "target": "No",
+            "input": "We may share your personal information with Microsoft and its affiliates and subsidiaries under certain circumstances, including, for example, in connection with using a Microsoft account Microsoft may use your personal information to provide products and services to you related to your Device, Digital Content and Barnes & Noble and Microsoft services and products. These products and services may include, without limitation: (i) to enable purchases of Digital Content by you and provide Digital Content to you, (ii) to allow you to access, view and consume your Digital Content and provide related services to you, (iii) to publish certain Digital Content created by users and customers (as may be more fully set forth in any applicable terms or policies related thereto), (iv) to create and manage cross company user accounts and applications related to your Devices and Digital Content, including in connection with the integration between the Microsoft user and ID systems and Microsoft commerce platform and our products and services, (v) to offer joint product or service offerings, (vi) to provide customer support, (vii) to provide information to you regarding Microsoft product and service offerings, and (viii) as otherwise reasonably determined by us.",
+            "index": 303
+        },
+        {
+            "target": "No",
+            "input": "We license our API to partners who use it to develop other geocaching-related services, including websites and mobile applications",
+            "index": 304
+        },
+        {
+            "target": "No",
+            "input": "While SRL will undertake efforts to see that any third party to which SRL shares, rents, sells, or otherwise discloses personal data is under a contractual obligation to use the personal data solely for the purposes for which the data was disclosed, such third parties are independent third parties over which SRL exercises no control, and SRL is not responsible for their conduct, actions, omissions, or information handling or dissemination practices and SRL will not be liable therefor.",
+            "index": 305
+        },
+        {
+            "target": "No",
+            "input": "All data collected by Google Analytics on our behalf is owned and used by us.",
+            "index": 306
+        },
+        {
+            "target": "No",
+            "input": "FSD uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.",
+            "index": 307
+        },
+        {
+            "target": "No",
+            "input": "If users have questions or concerns regarding this statement, they should first contact Allstate at customerprivacy@allstate.com. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through the TRUSTeWatchdog Dispute Resolution Process. TRUSTe will serve as a liaison with the Web site to resolve users concerns.",
+            "index": 308
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside.",
+            "index": 309
+        },
+        {
+            "target": "No",
+            "input": "The online services may contain links to third-party websites for your convenience and / or information (for example, to sites which are provided by our third-party vendors). If you access other websites using the links provided, you may leave NBCUniversal's online services. When you access these other sites, even ones that may contain the NBCUniversal logo, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their Privacy Policy and Terms of Use, which may differ from ours and we do not endorse or control the policies or practices of that website.",
+            "index": 310
+        },
+        {
+            "target": "No",
+            "input": "Directory information is released only upon written request unless permitted by law.",
+            "index": 311
+        },
+        {
+            "target": "No",
+            "input": "When you download or use apps created by Amazon or our subsidiaries",
+            "index": 312
+        },
+        {
+            "target": "No",
+            "input": "please write to the Kaleida Health Privacy Officer, 726 Exchange Street Suite 200, Buffalo, NY 14210",
+            "index": 313
+        },
+        {
+            "target": "No",
+            "input": "In such instance, the child will be asked to provide his or her email address and the email address of his or her parent/guardian.",
+            "index": 314
+        },
+        {
+            "target": "No",
+            "input": "No information will be sold to any other companies or organizations.",
+            "index": 315
+        },
+        {
+            "target": "No",
+            "input": "Our system may not respond to Do Not Track requests or headers from some or all browsers.",
+            "index": 316
+        },
+        {
+            "target": "No",
+            "input": "You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for said service. <br> <br> <strPBS.org <br> <br> 2100 Crystal Drive <br> <br> Arlington, VA 22202 <br> <br> Email us by completing our feedback form <br> <br> www.pbs.org <br>",
+            "index": 317
+        },
+        {
+            "target": "No",
+            "input": "Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website",
+            "index": 318
+        },
+        {
+            "target": "No",
+            "input": "We work closely with our affiliated businesses. In some cases, we will include offerings from these businesses on IMDb. In other cases, we may include joint offerings from IMDb and these businesses on IMDb. You can tell when another business is involved in the offering,",
+            "index": 319
+        },
+        {
+            "target": "No",
+            "input": "This information is collected only when you voluntarily provide it as part of the subscription process (\"Subscriber Information\").",
+            "index": 320
+        },
+        {
+            "target": "No",
+            "input": "Some of the media embedded from a third party site is from NARA's archival collections and is available through the Online Catalog or on archives.gov. Media from select current public programs is available on archives.gov. Embedded videos are captioned or a transcript will be provided on request.",
+            "index": 321
+        },
+        {
+            "target": "No",
+            "input": "USA.gov links to many websites created and maintained by other public and/or private organizations as outlined in our Linking Policy. If you click a link to an outside website, such as Facebook or YouTube, you will leave the USA.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website.",
+            "index": 322
+        },
+        {
+            "target": "No",
+            "input": "Standard rate Promotions will be subject to either the \"single opt-in\" or the \"double-opt-in\" (Site/SMS) method",
+            "index": 323
+        },
+        {
+            "target": "No",
+            "input": "to third parties with whom TEN has a commercial relationship",
+            "index": 324
+        },
+        {
+            "target": "No",
+            "input": "ou may request this information in writing by contacting us at: administrator @mrc.org or Privacy Request, The Media Research Center, 325 South Patrick Street, Alexandria, Virginia 22314.",
+            "index": 325
+        },
+        {
+            "target": "No",
+            "input": "we ask you to supply some personal information about yourself.",
+            "index": 326
+        },
+        {
+            "target": "No",
+            "input": "Even without accepting cookies, you can access most of the features of the Coffee Review website. However, there may be some limitations on your use of some site functionality.",
+            "index": 327
+        },
+        {
+            "target": "No",
+            "input": "place physical, electronic and managerial procedures to protect the information we collect online.",
+            "index": 328
+        },
+        {
+            "target": "No",
+            "input": "We collect your personal information in an effort to provide you with a superior customer experience and, as necessary, to administer our business. It allows us to provide you with easy access to our products and services, with a particular focus on the items and programs that may be of most interest to you.",
+            "index": 329
+        },
+        {
+            "target": "No",
+            "input": "We do not collect any personal information from a visitor to our sites unless that visitor explicitly and intentionally provides it.",
+            "index": 330
+        },
+        {
+            "target": "No",
+            "input": "Information Storage: Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Be advised that Company may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to the Company's Privacy Policy followed by your submission of information represents your agreement to any such transfer.",
+            "index": 331
+        },
+        {
+            "target": "No",
+            "input": "Cache Cookies: Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.",
+            "index": 332
+        },
+        {
+            "target": "No",
+            "input": "Please take a look at the revised date at the top of this page to see when this Privacy Policy was last revised.",
+            "index": 333
+        },
+        {
+            "target": "No",
+            "input": "No security system is impenetrable. Accordingly, we cannot guarantee the security of any database that stores personally identifiable information in connection with the Services, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.",
+            "index": 334
+        },
+        {
+            "target": "No",
+            "input": "We use the information that we collect for the following purposes: For the purposes for which you provided it; To send you information about your relationship or transactions with us; To send you alerts or other communications via SMS messages or other media or networks;",
+            "index": 335
+        },
+        {
+            "target": "No",
+            "input": "Cookies are generally easy to disable and/or delete but how you do so varies from browser to browser. The help function within your browser should tell you how to do it. The best way may be to close your browser and then search for cookie folder or cookie manager or simply cookie. Please also visit www.allaboutcookies.org for more information about cookies and how to disable them.",
+            "index": 336
+        },
+        {
+            "target": "No",
+            "input": "We may receive and store certain types of internet usage information",
+            "index": 337
+        },
+        {
+            "target": "No",
+            "input": "to us to any third party, except as stated herein.",
+            "index": 338
+        },
+        {
+            "target": "No",
+            "input": "Some of our contests and sweepstakes will ask you at the time of entry whether you would like to",
+            "index": 339
+        },
+        {
+            "target": "No",
+            "input": "which agrees not to sell or use personal information for other purposes;",
+            "index": 340
+        },
+        {
+            "target": "No",
+            "input": "Links To Other Websites This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you're visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.",
+            "index": 341
+        },
+        {
+            "target": "No",
+            "input": "We also may use a small piece of code (sometimes referred to as 1x1 clear pixel, Web beacon or clear GIF) placed in the pages of the Websites to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site.",
+            "index": 342
+        },
+        {
+            "target": "No",
+            "input": "Please be aware that whenever you voluntarily post information on the JibJab Site(s) that that information can be accessed by the public",
+            "index": 343
+        },
+        {
+            "target": "No",
+            "input": "Internet Protocol (IP) Address: An IP address is your computer's location on the Internet. MediaNews Web sites log IP addresses",
+            "index": 344
+        },
+        {
+            "target": "No",
+            "input": "we receive from you and from third party sources to third partie",
+            "index": 345
+        },
+        {
+            "target": "No",
+            "input": "ou may choose services that require you to provide us",
+            "index": 346
+        },
+        {
+            "target": "No",
+            "input": "Hearst uses cookies to understand site usage and to improve the content and offerings on our Covered Sites and in other media.",
+            "index": 347
+        },
+        {
+            "target": "No",
+            "input": "A visitor may modify, correct, change or update their personally identifiable information by contacting SRL via postal mail, e-mail, facsimile, or telephone as provided in Paragraph 3 of this Privacy Statement.",
+            "index": 348
+        },
+        {
+            "target": "No",
+            "input": "Children's Online Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act); we do not collect any information from anyone under 13 years of age. Our website, products, and services are all directed to people who are at least 13 years old or older.",
+            "index": 349
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Statement and the certification seal located to your right confirms that SCEA is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy to the maximum extent possible, we have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB.",
+            "index": 350
+        },
+        {
+            "target": "No",
+            "input": "mail, telephone, facsimile, e-mail, mobile alerts and SMS text messaging,",
+            "index": 351
+        },
+        {
+            "target": "No",
+            "input": "Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.",
+            "index": 352
+        },
+        {
+            "target": "No",
+            "input": "do not wish to receive any additional marketing material, you can indicate your preference on our store partners order form.",
+            "index": 353
+        },
+        {
+            "target": "No",
+            "input": "This Site uses cookies. \"Cookies\" are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information.",
+            "index": 354
+        },
+        {
+            "target": "No",
+            "input": "Please note that the email must come from the account you wish to block.",
+            "index": 355
+        },
+        {
+            "target": "No",
+            "input": "we receive information about you when you choose to connect with social networking services",
+            "index": 356
+        },
+        {
+            "target": "No",
+            "input": "voluntarily supplied by visitors through the submission of inquiry forms or applications for programs offered through IFSA-Butler",
+            "index": 357
+        },
+        {
+            "target": "No",
+            "input": "Information requested as part of the online registration process may include a user's telephone number or a wireless email address,",
+            "index": 358
+        },
+        {
+            "target": "No",
+            "input": "In addition, we may from time to time provide direct links to news or promotional sites featuring articles about TGI Fridays, which would be subject to those sites' policies.",
+            "index": 359
+        },
+        {
+            "target": "No",
+            "input": "We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.",
+            "index": 360
+        },
+        {
+            "target": "No",
+            "input": "The use of Tracking Technologies by third parties is subject to their own privacy policies, not this Privacy Policy, and we have no responsibility or liability in connection therewith.",
+            "index": 361
+        },
+        {
+            "target": "No",
+            "input": "The CoveredSites are not intended for use by children, especially those under age 13. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. There are also commercially available tools to help you limits your children's exposure to material online. Minors' Right to Request Deletion of User-Posted Comments: If you are a California resident and registered user on Seventeen.com and posted comments on that site when you were under 18 years old,",
+            "index": 362
+        },
+        {
+            "target": "No",
+            "input": "What about links to other web sites- The Sites may contain links to third-party web sites. All such sites are independent from the Sites and from Hat World. Hat World has no control over and expressly disclaims any liability for such sites or their contents. Our links do not constitute an express or implied adoption or endorsement of anything contained in the other sites. Any transactions that take place between you and the third party are directly with the third party and Hat World will not be held responsible for any loss or damage that you may incur as a consequence thereto. Please read the privacy policies and terms and conditions posted on these other sites before using the sites or disclosing any personal information to the sites. If you decide to access any of these sites, you do so entirely at your own risk.",
+            "index": 363
+        },
+        {
+            "target": "No",
+            "input": "To cancel any of your free email subscriptions, do so at your Account Settings page or click the unsubscribe link within the emails.",
+            "index": 364
+        },
+        {
+            "target": "No",
+            "input": "In addition, FSD is not responsible for the privacy or data security practices of other organizations, such as Facebook, Tumblr, Twitter, Apple, Google, Microsoft or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including in connection with any information you disclose to other organizations through or in connection with the FSD Services.",
+            "index": 365
+        },
+        {
+            "target": "No",
+            "input": "your personal or professional interests and use of or opinions",
+            "index": 366
+        },
+        {
+            "target": "No",
+            "input": "Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent.",
+            "index": 367
+        },
+        {
+            "target": "No",
+            "input": "in connection with our marketing efforts, including sending you offers and promotions that you can take advantage of through our Online Services or at relevant physical venues",
+            "index": 368
+        },
+        {
+            "target": "No",
+            "input": "you always have the option to not provide the information or use the MediaNews Web sites that require it.",
+            "index": 369
+        },
+        {
+            "target": "No",
+            "input": "Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browsers toolbar.",
+            "index": 370
+        },
+        {
+            "target": "No",
+            "input": "Although Stripe and PayPal send us a receipt with your name and email",
+            "index": 371
+        },
+        {
+            "target": "No",
+            "input": "you may email us at privacycoordinator@medianewsgroup.com or write to us at: Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202.",
+            "index": 372
+        },
+        {
+            "target": "No",
+            "input": "TangerOutlets is committed to keeping your personal information confidential. Any and all personal identifiable information collected from our customers is used by Tanger Outlets only, and is not sold, shared or distributed to any third party.",
+            "index": 373
+        },
+        {
+            "target": "No",
+            "input": "Please note that you are not entitled to review the content of another user's account.",
+            "index": 374
+        },
+        {
+            "target": "No",
+            "input": "only if it is specifically and knowingly provided by you.",
+            "index": 375
+        },
+        {
+            "target": "No",
+            "input": "Please be advised that your current employer or an entity affiliated with your current employer might be a customer of the Science Careers.org sites. We are not responsible for any actions or results that may occur as a result of any customer's access to and/or use of your resume.",
+            "index": 376
+        },
+        {
+            "target": "No",
+            "input": "fully compliant with PCI-DSS (Payment Card Industry Data Security Standard) and does not maintain credit card information on any of our servers",
+            "index": 377
+        },
+        {
+            "target": "No",
+            "input": "We may disclose personal information if we believe that an emergency involving danger of death or serious injury to any person requires disclosure of communications or justifies immediate disclosure of records.",
+            "index": 378
+        },
+        {
+            "target": "No",
+            "input": "Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites and email programs, and offers and advertising you may receive offline;",
+            "index": 379
+        },
+        {
+            "target": "No",
+            "input": "If you want us to stop sending you promotional materials to your email, you may follow the unsubscribe instructions in the email or manage your preferences at https://preferences.hearstmags.com/Hearst/Login.aspx. If you want us to stop sending you promotional materials to your postal mailing address, you may notify us in writing by sending a notice to Mail PreferenceService, P.O. Box 6000, Harlan, Iowa 51593 or contacting us at customercare@hearstmags.com. Certain Covered Sites may include a customer service link at the bottom of such site. If so, you may also manage your email preferences through that link.",
+            "index": 380
+        },
+        {
+            "target": "No",
+            "input": "Please use this contact information only for legal and privacy policy matters. For all other inquiries, refer to the Contact Us section of our home page.",
+            "index": 381
+        },
+        {
+            "target": "No",
+            "input": "Acura Honda Powersports HRCA Clubhouse Honda Power Equipment Honda Marine Honda Engines Honda Owners/Acura Owners eStore Acurafinancialservices.com Hondafinancialservices.com Hondafinancialservices.com/ir Civic Tour American Honda Finance Corporation Financial Privacy Policy greendealer.honda.com",
+            "index": 382
+        },
+        {
+            "target": "No",
+            "input": "you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.",
+            "index": 383
+        },
+        {
+            "target": "No",
+            "input": "The Motley Fool, LLC (\"The Motley Fool\" or \"we\" or \"us\") is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy practices and explains what we do with the personal information that we collect from you on www.fool.com. Please read the following to understand our practices regarding personal information and how they affect you as you use our features and services. This statement discloses our current privacy practices;",
+            "index": 384
+        },
+        {
+            "target": "No",
+            "input": "You may be asked to provide personally identifiable information during the sign in process, and then in connection with the use of Valves products, services and online sites.",
+            "index": 385
+        },
+        {
+            "target": "No",
+            "input": "Any comments or materials sent to Caribou Coffee through this Site, including all feedback, questions, comments, suggestions, questionnaires and the like, shall become the sole property of Caribou Coffee.",
+            "index": 386
+        },
+        {
+            "target": "No",
+            "input": "Please include the name and the address to which you would like us to respond, along with the name of the applicable site.",
+            "index": 387
+        },
+        {
+            "target": "No",
+            "input": "We are lynda.com, Inc., located at 6410 Via Real, Carpinteria, CA 93013, USA.",
+            "index": 388
+        },
+        {
+            "target": "No",
+            "input": "The privacy policies of such third party companies apply to their use and disclosure of your information that we collect and disclose to such third party companies.",
+            "index": 389
+        },
+        {
+            "target": "No",
+            "input": "We receive and store certain types of information whenever you interact with us",
+            "index": 390
+        },
+        {
+            "target": "No",
+            "input": "We may also use web beacons and web storage technologies",
+            "index": 391
+        },
+        {
+            "target": "No",
+            "input": "Children's Privacy The IFSA-Butler website is not intended for visitors under the age of 13 and IFSA-Butler does not solicit or intentionally collect information from children under the age of 13.",
+            "index": 392
+        },
+        {
+            "target": "No",
+            "input": "California residents may request further information about our approach to this law by writing to us. When writing to us, you must put the statement \"Your California Privacy Rights\" in the body or subject line of your request, and include (i) the name of the site about which you are contacting us, (ii) any unique site identifier associated with you (like member number or forum handle), (iii) your name, and (iv) your contact information. Please submit requests using our Privacy Contact form and allow 30 days for a response. We will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.",
+            "index": 393
+        },
+        {
+            "target": "No",
+            "input": "third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations)",
+            "index": 394
+        },
+        {
+            "target": "No",
+            "input": "these vendors, not the Company, may collect, use, or maintain the information in connection with the Online Services,",
+            "index": 395
+        },
+        {
+            "target": "No",
+            "input": "Postal addresses. If you supply Tulsaworld.com with your postal address",
+            "index": 396
+        },
+        {
+            "target": "No",
+            "input": "Kaleida Health can do all of these things if you have signed a general written consent form. Once you sign this general written consent form, it will be in effect indefinitely unless you revoke your general written consent. You may revoke your general written consent at any time, except to the extent that we have already relied upon it.",
+            "index": 397
+        },
+        {
+            "target": "No",
+            "input": "While we do our best to protect your personal information, The Motley Fool cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. What does all of this mean- Just as in the investing world, you must protect yourself. You are responsible for maintaining the secrecy of any password and/or account information. Please be careful and responsible whenever you are online, especially when using a computer that other people can use also.",
+            "index": 398
+        },
+        {
+            "target": "No",
+            "input": "web beacons, web bugs, clear gifs, and similar technologies (collectively, together with Local Device Storage, the \"Tracking Technologies\").",
+            "index": 399
+        },
+        {
+            "target": "No",
+            "input": "You can always choose not to submit your personal information on the Washingtonian.com website",
+            "index": 400
+        },
+        {
+            "target": "No",
+            "input": "Prior to posting in these areas, we encourage you to read the specific site's or service's terms of use, as we are not responsible for the personal information you choose to make public in any of these areas and strongly recommend against sharing any personal health or other sensitive information that could directly or indirectly be traced to any individual, including yourself.",
+            "index": 401
+        },
+        {
+            "target": "No",
+            "input": "Your access to, and use of any of the Pittsburgh Post-Gazette websites, microsites and apps, including, but not limited to: www.post-gazette.com; communityvoices.sites.post-gazette.com; blogs.sites.post-gazette.com; earlyreturns.sites.post-gazette.com; sportstown.sites.post-gazette.com; shale.sites.post-gazette.com; pittsburghmom.com; steelernation.sites.post-gazette.com; pge.post-gazette.com; press.post-gazette.com; as well as the Post-Gazette's tablet and smartphone applications (individually and collectively, the \"Site\") is subject to the Pittsburgh Post-Gazette's Terms of Use (www.post-gazette.com/termsofuse.asp). The Post-Gazette has created this Privacy Policy to explain what information we gather from you when you visit our Site, how we may use this information, and the security approaches we use to protect your information. This Privacy Policy is incorporated and made part of the Post-Gazette's Terms of Use.",
+            "index": 402
+        },
+        {
+            "target": "No",
+            "input": "It is important to remember, however, that no system can guarantee 100 security at all times. Accordingly, we cannot guarantee the security of information stored on or transmitted to or from our services. We cannot assume responsibility or liability for unauthorized access to our servers and systems. When disclosing any personal or protected health information, you should remain mindful of the fact that it is potentially accessible to the public and,consequently, can be collected and used by others without your consent. Accordingly, you should consider carefully if you want to submit sensitive information that you would not want disclosed to the public and should recognize that your use of the Internet and our sites and services is solely at your risk. You are ultimately responsible for maintaining the secrecy for all your personal information, including your protected health information. Except as provided in aBusiness Associate Agreement between us and a healthcare provider, we have no responsibility or liability to anyone for the security of your personal or protected health information transmitted via the Internet.",
+            "index": 403
+        },
+        {
+            "target": "No",
+            "input": "Last updated: March 3, 2014. To see what has changed, click here.",
+            "index": 404
+        },
+        {
+            "target": "No",
+            "input": "Our privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand.",
+            "index": 405
+        },
+        {
+            "target": "No",
+            "input": "deployed extensive security measures to protect against the loss, misuse, or alteration of the information under our control.",
+            "index": 406
+        },
+        {
+            "target": "No",
+            "input": "External websites and companies with links to and from Valve's online sites",
+            "index": 407
+        },
+        {
+            "target": "No",
+            "input": "AOL Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AOL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AOLs certification, please visit http://www.export.gov/safeharbor/.",
+            "index": 408
+        },
+        {
+            "target": "No",
+            "input": "If you have questions about this Privacy Policy, please send an email to the applicable FSD Service email contact for \"Privacy Policy matters\" listed here or call (310) 369-1350.",
+            "index": 409
+        },
+        {
+            "target": "No",
+            "input": "See Sections IV and V of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically by our websites.",
+            "index": 410
+        },
+        {
+            "target": "No",
+            "input": "call MLB.com Customer Service at 866-800-1275. If you want to close your Website account and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should call MLB.com Customer Service at 866-800-1275.",
+            "index": 411
+        },
+        {
+            "target": "No",
+            "input": "You may not be able to opt out of receiving certain messages although our services may provide a means to modify the frequency of receiving them.",
+            "index": 412
+        },
+        {
+            "target": "No",
+            "input": "Be aware, information that you voluntarily disclose in any of these areas of our sites or services is unencrypted, public information and, therefore, there can be no expectation of privacy or confidentiality, except if the terms and conditions of the site or service specifically limit use of the content (for example, we may let you know how such survey and rating responses will be used and if anonymity is an option).",
+            "index": 413
+        },
+        {
+            "target": "No",
+            "input": "Help recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services",
+            "index": 414
+        },
+        {
+            "target": "No",
+            "input": "the mobile device or the network using your device's GPS functionality,",
+            "index": 415
+        },
+        {
+            "target": "No",
+            "input": "For example, in order to permit your connection to the FSD Services, our servers receive and record information about your computer, device and browser, including potentially your IP address, browser type, and other software or hardware information.",
+            "index": 416
+        },
+        {
+            "target": "No",
+            "input": "material changes to how we use Personal Information collected from children under 13",
+            "index": 417
+        },
+        {
+            "target": "No",
+            "input": "Most browsers are initially set to accept cookies, but you can change your settings",
+            "index": 418
+        },
+        {
+            "target": "No",
+            "input": "Because no data transmission is completely secure, and no system of physical or electronic security is impenetrable, we cannot guarantee the security of the information you send to us or the security of our servers, networks or databases, and by using the Service you agree to assume all risk in connection with the information sent to us or collected by us when you access, visit and/or use the Service, including without limitation your personally identifiable information or other Registration Information, and we are not responsible for any loss of such information or the consequences thereof.",
+            "index": 419
+        },
+        {
+            "target": "No",
+            "input": "Once your personal information is received, we protect it against unauthorized use.",
+            "index": 420
+        },
+        {
+            "target": "No",
+            "input": "Any information provided is directly collected by the third party even though the pages have the look at feel of the team site.",
+            "index": 421
+        },
+        {
+            "target": "No",
+            "input": "Clear Gifs can \"work with\" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited 'www.companyX.com', which uses an advertising company's clear gif, the Web would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer.",
+            "index": 422
+        },
+        {
+            "target": "No",
+            "input": "Copyright, Restrictions, and Permissions Notice Generally, materials produced by Federal agencies are in the public domain and may be reproduced without permission. However, not all materials appearing on this website are in the public domain.",
+            "index": 423
+        },
+        {
+            "target": "No",
+            "input": "The opt-out will take effect upon your next visit using the same device to Bank of America Sites.",
+            "index": 424
+        },
+        {
+            "target": "No",
+            "input": "Please note that we may combine this information with other information that we collect about you and use it as described herein.",
+            "index": 425
+        },
+        {
+            "target": "No",
+            "input": "we do not have control over cookies placed by advertisers.",
+            "index": 426
+        },
+        {
+            "target": "No",
+            "input": "Your California Privacy Rights California Civil Code Section 1798.83 permits customers of PRH who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an email to privacy@penguinrandomhouse.com.",
+            "index": 427
+        },
+        {
+            "target": "No",
+            "input": "We may gather and store certain anonymous information about your visit, including the name of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site, the date and time you access our site, the website that referred you to us, and the pages you visit (click-through).",
+            "index": 428
+        },
+        {
+            "target": "No",
+            "input": "To make our ads relevant to you, Adzerk receives information about the page the ad will appear on. This information includes the subreddits used to generate that page (which may include your subscriptions), as well as your IP address from which your general location (your country or city area) can be inferred.",
+            "index": 429
+        },
+        {
+            "target": "No",
+            "input": "We are not responsible for the retention, use or privacy of profile information in the instance of other members who have accessed your profile and may have retained information from your profile in their own files or databases",
+            "index": 430
+        },
+        {
+            "target": "No",
+            "input": "If you have any questions or suggestions regarding our privacy policy, please contact the legal [at] gawker [dot] com, or by mail to Legal Department, 210 Elizabeth Street, Fourth Floor, New York, NY 10012.",
+            "index": 431
+        },
+        {
+            "target": "No",
+            "input": "9. WHERE YOUR INFORMATION WILL BE USED NBCUniversal is based in the United States and may from time to time transfer your personal information to other countries and make it accessible to any of our affiliates and third-party service providers internationally. Where the transfer of information is to a country which does not provide an adequate level of information protection, NBCUniversal has taken steps to ensure that your personal information receives an appropriate level of protection.",
+            "index": 432
+        },
+        {
+            "target": "No",
+            "input": "to Science websites with its clients, partners, and other third parties",
+            "index": 433
+        },
+        {
+            "target": "No",
+            "input": "We may disclose or share individual, non-personally identifiable information and aggregate information in any manner other than that described herein that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Sites.",
+            "index": 434
+        },
+        {
+            "target": "No",
+            "input": "If you do not want Local Device Storage, your computer, mobile or other device may include an option that allows you to not accept it",
+            "index": 435
+        },
+        {
+            "target": "No",
+            "input": "Although Barnes & Noble's treatment of the information is governed by this policy, the third party's treatment of your information will be subject to the third party's privacy policy",
+            "index": 436
+        },
+        {
+            "target": "No",
+            "input": "protect and defend MediaNews rights and property; (3) protect against misuse or unauthorized use of any MediaNews Web site; or to (4) protect the personal safety or property of our users or the public.",
+            "index": 437
+        },
+        {
+            "target": "No",
+            "input": "support@curse.com requesting us to update or delete your personal information",
+            "index": 438
+        },
+        {
+            "target": "No",
+            "input": "will be shared as needed to facilitate that purpose. We generally do not share your information with companies who are not affiliated with us, but if we do, we will provide you with an opportunity to opt-out",
+            "index": 439
+        },
+        {
+            "target": "No",
+            "input": "Due to the way the Internet operates, we cannot control this collection of information. You should contact these advertisers or content providers if you have any questions about their use of the information they collect.",
+            "index": 440
+        },
+        {
+            "target": "No",
+            "input": "You will be notified of any material changes to this Privacy Policy which are less protective of customer information prior to such changes becoming effective.",
+            "index": 441
+        },
+        {
+            "target": "No",
+            "input": "We incorporate standard industry practices suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy.",
+            "index": 442
+        },
+        {
+            "target": "No",
+            "input": "You share information with us in various ways in our stores and online.",
+            "index": 443
+        },
+        {
+            "target": "No",
+            "input": "Payment Information needed to process payments such as your credit or debit card number, expiration date, and card verification number.",
+            "index": 444
+        },
+        {
+            "target": "No",
+            "input": "Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.",
+            "index": 445
+        },
+        {
+            "target": "No",
+            "input": "We use personally identifiable information you supply through the Service",
+            "index": 446
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Policy explains what information we collect, how we use it, how other companies may use it, and tracking technologies used to collect information.",
+            "index": 447
+        },
+        {
+            "target": "No",
+            "input": "Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used",
+            "index": 448
+        },
+        {
+            "target": "No",
+            "input": "Another entity, in the course of a sale to or merger of all or a part of our business with another entity",
+            "index": 449
+        },
+        {
+            "target": "No",
+            "input": "he Sally Ride Science websites provide innovative and interactive online science, math and technology related activities for young girls and boys, while safeguarding their privacy.",
+            "index": 450
+        },
+        {
+            "target": "No",
+            "input": "prospective and actual business partners, advertisers and other third parties for any business purpose.",
+            "index": 451
+        },
+        {
+            "target": "No",
+            "input": "he information personal to your computer and your computer use that is automatically collected through the use of electronic tools is referred to as Computer Identifying Information (CIN). The CIN gathered by MediaNews generally includes cookies, specific Web site page requests, the domain name (e.g., www.medianewsgroup.com) and Internet Provider (e.g., Comcast, American Online, NetZero) from which you access the Internet, the Internet Protocol address of your computer, the browser software (e.g. Internet Explorer or Netscape) and operating system (e.g., Windows XP, 2000, OS/2 or MacOS) you are using, your geographic location, the time and date you accessed the site, and the Internet address you visited prior to visiting the site.",
+            "index": 452
+        },
+        {
+            "target": "No",
+            "input": "We require these companies to delete the Personally IdentifiableInformation we provide them.",
+            "index": 453
+        },
+        {
+            "target": "No",
+            "input": "We may also collect additional information about you when you visit certain features of the Services",
+            "index": 454
+        },
+        {
+            "target": "No",
+            "input": "ABITA.COM does not knowingly collect any personal information from children.",
+            "index": 455
+        },
+        {
+            "target": "No",
+            "input": "The nature and frequency of these messages will vary depending upon the information we have about you. In addition, at the time of registration for certain services, such as Science Careers Job Alerts, or free partial access to any of the Science websites, you have the option to elect to receive additional communications, information, newsletters, and promotions relating to topics that may be of special interest to you.",
+            "index": 456
+        },
+        {
+            "target": "No",
+            "input": "The FSD Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. FSD is not responsible for the privacy practices of unaffiliated companies and once you leave the FSD Services via a link, enable an unaffiliated service, or click an advertisement, you should check the applicable privacy policy of the unaffiliated service.",
+            "index": 457
+        },
+        {
+            "target": "No",
+            "input": "The ads appearing on this web site are delivered to you by our web advertising partners, including DoubleClick and Google. Washingtonian.com expects its business partners, advertisers, and third-party affiliates to respect the privacy of our users. However, third parties' web sites - including those of our partners, advertisers, affiliates, and other content providers'- have their own privacy practices and policies. When you click on a banner advertisement or link from Washingtonian.com to an external Web site, you should review that site's Privacy Policy before submitting any personal information on the site.",
+            "index": 458
+        },
+        {
+            "target": "No",
+            "input": "Cookies \"Cookies\" are small text files containing pieces of data that are placed in your computer's Web browser to store your preferences. Cookies are not themselves personally identifiable, but may be linked to Personal Information that you provide to us through your interaction with our Online Services. A Cookie will typically contain the name of the domain (Internet location) from which the Cookie has come, the \"lifetime\" of the Cookie (its expiration period), and a value (such as a randomly generated unique number).",
+            "index": 459
+        },
+        {
+            "target": "No",
+            "input": "The Company works with various third-party advertising agents that use cookies, web beacons, and similar technologies to collect information.",
+            "index": 460
+        },
+        {
+            "target": "No",
+            "input": "To help your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your personal information.",
+            "index": 461
+        },
+        {
+            "target": "Yes",
+            "input": "We are not responsible for the personally identifiable information you choose to submit in the course of your public activities and we have no responsibility to publish, take down, remove or edit any of your public activities or submissions.",
+            "index": 462
+        },
+        {
+            "target": "Yes",
+            "input": "Upon your request, we will make reasonable efforts to delete your personal information from our database, however, it may be impossible to delete your entry without retaining some residual information for a period of time due to backups and records of deletion.",
+            "index": 463
+        },
+        {
+            "target": "Yes",
+            "input": "Upon request, you may review all information that we maintain in your record,",
+            "index": 464
+        },
+        {
+            "target": "Yes",
+            "input": "You may also request that inaccuracies be corrected in any information that we maintain in your record.",
+            "index": 465
+        },
+        {
+            "target": "No",
+            "input": "k to collect the information about you as described above, or you don't want to a social network to share it with us and other third parties",
+            "index": 466
+        },
+        {
+            "target": "No",
+            "input": "we dont sell or profit from the information you share with us",
+            "index": 467
+        },
+        {
+            "target": "No",
+            "input": "We have provided a Source and Permissions Contact List for some motion pictures, sound and video which may assist you. If you have questions about this process, please contact us",
+            "index": 468
+        },
+        {
+            "target": "No",
+            "input": "If you opt out, though, you may still receive generic advertising.",
+            "index": 469
+        }
+    ]
+}

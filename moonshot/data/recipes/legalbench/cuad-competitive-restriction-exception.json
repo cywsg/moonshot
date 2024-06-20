@@ -1,0 +1,16 @@
+{
+  "id": "cuad-competitive-restriction-exception",
+  "name": "cuad_competitive_restriction_exception",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_competitive_restriction_exception"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_competitive_restriction_exception"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

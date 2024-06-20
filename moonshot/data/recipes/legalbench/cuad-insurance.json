@@ -1,0 +1,16 @@
+{
+  "id": "cuad-insurance",
+  "name": "cuad_insurance",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_insurance"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_insurance"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

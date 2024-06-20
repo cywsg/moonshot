@@ -1,0 +1,16 @@
+{
+  "id": "maud-pandemic-or-other-public-health-event-specific-reference-to-pandemic-related-governmental-responses-or-measures",
+  "name": "maud_pandemic_or_other_public_health_event_specific_reference_to_pandemic-related_governmental_responses_or_measures",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_pandemic_or_other_public_health_event_specific_reference_to_pandemic-related_governmental_responses_or_measures"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_pandemic_or_other_public_health_event_specific_reference_to_pandemic-related_governmental_responses_or_measures"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ssla-plaintiff",
+  "name": "ssla_plaintiff",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/ssla_plaintiff"
+  ],
+  "prompt_templates": [
+    "legalbench/ssla_plaintiff"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

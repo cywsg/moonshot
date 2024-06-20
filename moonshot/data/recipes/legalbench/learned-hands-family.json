@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-family",
+  "name": "learned_hands_family",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_family"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_family"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -58,7 +58,7 @@ nvidia-cusparse-cu12==12.1.0.106 ; platform_system == "Linux" and platform_machi
 nvidia-nccl-cu12==2.19.3 ; platform_system == "Linux" and platform_machine == "x86_64" and python_version >= "3.11" and python_version < "4.0"
 nvidia-nvjitlink-cu12==12.4.99 ; platform_system == "Linux" and platform_machine == "x86_64" and python_version >= "3.11" and python_version < "4.0"
 nvidia-nvtx-cu12==12.1.105 ; platform_system == "Linux" and platform_machine == "x86_64" and python_version >= "3.11" and python_version < "4.0"
-openai==0.28.1 ; python_version >= "3.11" and python_version < "4.0"
+openai @ git+https://github.com/openai/openai-python.git@0470d1baa8ef1f64d0116f3f47683d5bf622cbef ; python_version >= "3.11" and python_version < "4.0"
 packaging==24.0 ; python_version >= "3.11" and python_version < "4.0"
 pandas==2.2.1 ; python_version >= "3.11" and python_version < "4.0"
 pillow==10.2.0 ; python_version >= "3.11" and python_version < "4.0"

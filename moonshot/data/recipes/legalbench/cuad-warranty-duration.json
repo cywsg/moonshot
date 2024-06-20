@@ -1,0 +1,16 @@
+{
+  "id": "cuad-warranty-duration",
+  "name": "cuad_warranty_duration",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_warranty_duration"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_warranty_duration"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cuad-renewal-term",
+  "name": "cuad_renewal_term",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_renewal_term"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_renewal_term"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "abercrombie",
+  "name": "abercrombie",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/abercrombie"
+  ],
+  "prompt_templates": [
+    "legalbench/abercrombie"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

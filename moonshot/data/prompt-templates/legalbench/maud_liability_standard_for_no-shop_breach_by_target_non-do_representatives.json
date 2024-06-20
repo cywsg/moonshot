@@ -1,0 +1,5 @@
+{
+    "name": "maud_liability_standard_for_no-shop_breach_by_target_non-do_representatives",
+    "description": "",
+    "template": "Instruction: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement.\nQuestion: What is the liability standard for no-shop breach by Target Non-D&O Representatives?\nOption A: Reasonable standard\nOption B: Strict liability\n\nMerger Agreement: \"Knowledge\" means <omitted> (b) with respect to the Company, the actual knowledge of the individuals listed on Schedule A-I(b) (Page 75)\nAnswer: B\n\nMerger Agreement: {{ prompt }}\nAnswer: "
+}

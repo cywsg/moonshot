@@ -1,0 +1,16 @@
+{
+  "id": "cuad-post-termination-services",
+  "name": "cuad_post-termination_services",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_post-termination_services"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_post-termination_services"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

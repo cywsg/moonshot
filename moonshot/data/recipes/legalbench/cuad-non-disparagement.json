@@ -1,0 +1,16 @@
+{
+  "id": "cuad-non-disparagement",
+  "name": "cuad_non-disparagement",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_non-disparagement"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_non-disparagement"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "canada-tax-court-outcomes",
+  "name": "canada_tax_court_outcomes",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/canada_tax_court_outcomes"
+  ],
+  "prompt_templates": [
+    "legalbench/canada_tax_court_outcomes"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

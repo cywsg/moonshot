@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-consumer",
+  "name": "learned_hands_consumer",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_consumer"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_consumer"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

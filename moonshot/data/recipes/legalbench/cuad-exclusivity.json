@@ -1,0 +1,16 @@
+{
+  "id": "cuad-exclusivity",
+  "name": "cuad_exclusivity",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_exclusivity"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_exclusivity"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

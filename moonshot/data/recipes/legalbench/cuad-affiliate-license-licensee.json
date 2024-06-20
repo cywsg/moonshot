@@ -1,0 +1,16 @@
+{
+  "id": "cuad-affiliate-license-licensee",
+  "name": "cuad_affiliate_license-licensee",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_affiliate_license-licensee"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_affiliate_license-licensee"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

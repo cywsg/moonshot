@@ -1,0 +1,16 @@
+{
+  "id": "cuad-termination-for-convenience",
+  "name": "cuad_termination_for_convenience",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_termination_for_convenience"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_termination_for_convenience"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

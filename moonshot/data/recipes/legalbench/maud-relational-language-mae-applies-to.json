@@ -1,0 +1,16 @@
+{
+  "id": "maud-relational-language-mae-applies-to",
+  "name": "maud_relational_language_(mae)_applies_to",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_relational_language_(mae)_applies_to"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_relational_language_(mae)_applies_to"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

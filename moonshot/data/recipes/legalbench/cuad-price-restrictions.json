@@ -1,0 +1,16 @@
+{
+  "id": "cuad-price-restrictions",
+  "name": "cuad_price_restrictions",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_price_restrictions"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_price_restrictions"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

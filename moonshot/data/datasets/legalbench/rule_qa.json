@@ -1,0 +1,313 @@
+{
+    "name": "rule_qa",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "rule_qa"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "input": "What are the requirements for diversity jurisdiction?",
+            "target": "Diversity jurisdiction exists when the amount in controversy exceeds $75,000 and the plaintiffs and defendants are completely diverse (i.e. no plaintiff shares a state of citizenship with any defendant)",
+            "doctrine": "Civil Procedure",
+            "index": 0
+        },
+        {
+            "input": "Where is diversity jurisdiction codified?",
+            "target": "28 USC \u00a7 1332",
+            "doctrine": "Civil Procedure",
+            "index": 1
+        },
+        {
+            "input": "Where is supplemental jurisdiction codified?",
+            "target": "28 U.S.C. \u00a7 1367",
+            "doctrine": "Civil Procedure",
+            "index": 2
+        },
+        {
+            "input": "What test is used to determine a corporation's principal place of business for the purpose of diversity jurisdiction?",
+            "target": "Nerve center test",
+            "doctrine": "Civil Procedure",
+            "index": 3
+        },
+        {
+            "input": "Where in the Federal Rules of Civil Procedure are class action requirements described?",
+            "target": "Rule 23",
+            "doctrine": "Civil Procedure",
+            "index": 4
+        },
+        {
+            "input": "Per the Hertz \"nerve center\" test, where is a corporation's principal place of business?",
+            "target": "The headquarters of the corporation, i.e. where the high level officers direct, control, and coordinate the corporation's activities.",
+            "doctrine": "Civil Procedure",
+            "index": 5
+        },
+        {
+            "input": "What are the four requirements for class certification under the Federal Rules of Civil Procedure?",
+            "target": "Numerosity, commonality, typicality, adequacy.",
+            "doctrine": "Civil Procedure",
+            "index": 6
+        },
+        {
+            "input": "What are the three requirements for specific jurisdiction in federal court?",
+            "target": "There must be sufficient minimum contacts between the defendant and the forum state, the claim must arise out of the nexus of these contacts, and the excercise of jurisdiction must be reasonable in light of these factors.",
+            "doctrine": "Civil Procedure",
+            "index": 7
+        },
+        {
+            "input": "Where is venue proper for federal civil cases?",
+            "target": "Per 1391(b), venue is proper in (a) any district where any defendant resides if all defendants reside in the same state, (b) a district in which a substantial part of the events giving rise to claim occured, or (c) if no district exists which satisfies (a) or (b), then any district in which any defendant is subject to the court's personal jurisdiction.",
+            "doctrine": "Civil Procedure",
+            "index": 8
+        },
+        {
+            "input": "What is forum non conveniens balancing test that federal courts apply?",
+            "target": "Courts typically use a 2-part test when deciding forum non conveniens. The first part is a balancing test of both private and public factors, and the second looks at what adequate alternative courts are available. Private Factors include (1) ease of access to evidence, (2) interest of the two parties in their connections with the respective forums, (3) the plaintiff's chosen court would be burdensome to the defendant, (4) ease of obtaining witnesses, and (5) enforceability of judgment. Public Factors include (1) whether the trial would involve multiple sets of laws, thus potentially confusing a jury, (2) having juries who may have a connection to the case, (3) local interest in having local interests heard at home, and (4) having the trial in a place where state laws govern.",
+            "doctrine": "Civil Procedure",
+            "index": 9
+        },
+        {
+            "input": "Where in the Federal Rules of Civil Procedure are notice requirements described?",
+            "target": "Rule 4.",
+            "doctrine": "Civil Procedure",
+            "index": 10
+        },
+        {
+            "input": "What is the two prong approach for assessing plausibility under Twombley and Iqbal?",
+            "target": "First, the court should weed out those allegations in the complaint that are merely \"conclusory,\" as the court is not required to accept such statements as truth.14 Next, the court must \"draw on its judicial experience and common sense\" to determine the plausibility of the factual allegations.",
+            "doctrine": "Civil Procedure",
+            "index": 11
+        },
+        {
+            "input": "What are the factors of  the Mathews balancing test? ",
+            "target": "A three-part test that determines whether an individual has received due process under the Constitution. The test balances (1) the importance of the interest at stake; (2) the risk of an erroneous deprivation of the interest because of the procedures used, and the probable value of additional procedural safeguards; and (3) the government's interest.",
+            "doctrine": "Constitutional law",
+            "index": 12
+        },
+        {
+            "input": "Per Dole, when is an excercise of Congressional spending power valid? ",
+            "target": "Under a test provided in South Dakota v. Dole, 483 U.S. 203 (1987),  for Congress to place a  condition on receipt of federal funds by a state, the spending has to serve the general welfare, the condition placed on the state must be unambiguous, the condition has to relate to the particular federal program, unconstitutional action cannot be a contingency of receipt of the funds, and the amount in question cannot be so great that it can be considered coercive to the state's acceptance of the condition.",
+            "doctrine": "Constitutional law",
+            "index": 13
+        },
+        {
+            "input": "Under the Federal Rules of Evidence, when is a piece of evidence relevant?",
+            "target": "Evidence is relevant if: (a) it has any tendency to make a fact or more less probable; and (b) the fact is of consequence in determining the action",
+            "doctrine": "Evidence",
+            "index": 14
+        },
+        {
+            "input": "What is the FRE 403 balancing rule?",
+            "target": "The court may exclude relevant evidence if its probative value is substantially outweighed by a danger of one or more of the following: unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence.",
+            "doctrine": "Evidence",
+            "index": 15
+        },
+        {
+            "input": "When is a piece of evidence hearsay?",
+            "target": "Hearsay is an out of court statement introduced to prove the truth of the matter asserted.",
+            "doctrine": "Evidence",
+            "index": 16
+        },
+        {
+            "input": "When does the Confrontation Clause apply?",
+            "target": "It only applies in criminal cases for testimonial evidence offered against the defendant",
+            "doctrine": "Evidence",
+            "index": 17
+        },
+        {
+            "input": "What is the declarant-witness prior statement exception to the hearsay rule in federal court?",
+            "target": "Sworn out-of-court statements made by declarants who testify as witnesses, in court and under oath, in the very proceedings in which their earlier statements are offered as evidence, are not hearsay under FRE.",
+            "doctrine": "Evidence",
+            "index": 18
+        },
+        {
+            "input": "What is the direct admissions exception to the hearsay rule in federal court?",
+            "target": "Evidence of a statement made by the declarant is admissible when offered against the declarant. ",
+            "doctrine": "Evidence",
+            "index": 19
+        },
+        {
+            "input": "What is the rule of completeness regarding evidence in federal court?",
+            "target": "If someone introduces evidence against you that\u2019s admissible, you can introduce the rest of that evidence if needed to provide context for the evidence ",
+            "doctrine": "Evidence",
+            "index": 20
+        },
+        {
+            "input": "What are adoptive admissions under the Federal Rules of Evidence?",
+            "target": "If someone says something and the other party is acts in a way that manifests belief in that statement, that can be considered as an admission. Silence can also manifest belief.",
+            "doctrine": "Evidence",
+            "index": 21
+        },
+        {
+            "input": "In federal court, who decides whether a declarant was authorized to make statements on behalf of another?",
+            "target": "Under FRE, the judge decides whether the declarant was authorized (a preliminary question)",
+            "doctrine": "Evidence",
+            "index": 22
+        },
+        {
+            "input": "In California state court, who decides whether a declarant was authorized to make statements on behalf of another?",
+            "target": "Under CEC, the judge applies a sufficiency standard and then gives to jury to decide whether the person is actually authorized",
+            "doctrine": "Evidence",
+            "index": 23
+        },
+        {
+            "input": "What is a co-conspirator admission under the Federal Rules of Evidence?",
+            "target": "Co-conspirator admissions are those made by a co-conspirator of the person against whom it\u2019s being offered, during and in furtherance of the conspiracy.",
+            "doctrine": "Evidence",
+            "index": 24
+        },
+        {
+            "input": "What is the Bruton rule?",
+            "target": "The admission of certain \u201cpowerfully incriminating extrajudicial statements\u201d by a non-testifying codefendant violates the CC, even if a limiting instruction is used.",
+            "doctrine": "Evidence",
+            "index": 25
+        },
+        {
+            "input": "What are the requirements for a present sense impression in federal court?",
+            "target": "A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it. It requires (1) firsthand knowledge, and (2) needs to be close to contemporaneous.",
+            "doctrine": "Evidence",
+            "index": 26
+        },
+        {
+            "input": "For which types of cases is a dying declaration admissible in federal court?",
+            "target": "In civil or homicide cases",
+            "doctrine": "Evidence",
+            "index": 27
+        },
+        {
+            "input": "For which types of cases is a dying declaration admissible in California state court?",
+            "target": "Any case.",
+            "doctrine": "Evidence",
+            "index": 28
+        },
+        {
+            "input": "What are the requirements for a dying declaration?",
+            "target": "(1) The declarant made the statement while believing their death to be imminent (2) The statement was about the cause or circumstances of the death (3) The declarant has personal knowledge ",
+            "doctrine": "Evidence",
+            "index": 29
+        },
+        {
+            "input": "What is the Chambers rule?",
+            "target": "Due Process can require the admission of some evidence offered by a criminal defendant, even if other evidence rules would violate their use (e.g., hearsay) ",
+            "doctrine": "Evidence",
+            "index": 30
+        },
+        {
+            "input": "What are the three elements of a trade secrets claim?",
+            "target": "First, the contested information must qualify as appropriate subject matter. Second, the plaintiffs must demonstrate they took reasonable precautions to protect the contested information. Third, the the plaintiffs must demonstrate that the defendants inappropriately acquired the information. ",
+            "doctrine": "IP",
+            "index": 31
+        },
+        {
+            "input": "What are the four categories of patentable subject matter?",
+            "target": "\u201cprocess, machine, manufacture, or composition of matter.\u201d ",
+            "doctrine": "IP",
+            "index": 32
+        },
+        {
+            "input": "Under which statute are patentable subject matter requirements codified?",
+            "target": "35 USC 101",
+            "doctrine": "IP",
+            "index": 33
+        },
+        {
+            "input": "Under which statute is the patent non-obviousness requirement codified?",
+            "target": "35 USC 103",
+            "doctrine": "IP",
+            "index": 34
+        },
+        {
+            "input": "Under which statute is the patent enablement requirement codified?",
+            "target": "35 USC 112",
+            "doctrine": "IP",
+            "index": 35
+        },
+        {
+            "input": "What is the Alice/Mayo test for patentable subject matter?",
+            "target": "First, we ask if the patent claims a patent-ineligible law of nature, natural phenomenon, or abstract idea. If it does, we then ask if the patent  supplies a sufficiently \u201cinventive concept\u201d which transforms the ineligible law of nature into a patent-eligible application of the ineligible subject matter. ",
+            "doctrine": "IP",
+            "index": 36
+        },
+        {
+            "input": "What is the teaching/suggestion/motivation test for patents?",
+            "target": "A patent is obvious if \u201csome motivation or suggestion to combine the prior art teachings\u201d can be found in the prior art, the nature of the problem, or the knowledge of a person having ordinary skill in the art",
+            "doctrine": "IP",
+            "index": 37
+        },
+        {
+            "input": "What are the four fair use factors?",
+            "target": "Per \u00a7107, successful application of the fair use defense requires weighing four factors: (1) the purpose and character of the use, (2) the nature of the copyrighted work, (3) the amount and substantiality of the portion used, (4) the effect of the use upon the potential market or for the value of the copyrighted work.",
+            "doctrine": "IP",
+            "index": 38
+        },
+        {
+            "input": "What are the 5 categories for distinctiveness under the Abercrombie spectrum for trademarks?",
+            "target": "Generic, descriptive, suggestive, arbitrary, fanciful",
+            "doctrine": "IP",
+            "index": 39
+        },
+        {
+            "input": "Under the Abercrombie distinctiveness spectrum, what are generic marks?",
+            "target": "Generic marks are those which connote the basic nature of articles or services, rather than the more individualized characteristics of a product. ",
+            "doctrine": "IP",
+            "index": 40
+        },
+        {
+            "input": "Under the Abercrombie distinctiveness spectrum, what are descriptive terms?",
+            "target": "Descriptive term identifies a characteristic or quality of an article or service, such as color, odor, function, dimensions, or ingredients. ",
+            "doctrine": "IP",
+            "index": 41
+        },
+        {
+            "input": "Under the Abercrombie distinctiveness spectrum, what are suggestive terms?",
+            "target": "A suggestive term suggests, rather than describes, some particular characteristic of the goods or services to which it applies. It requires to consumer to exercise the imagination in order to draw a conclusion as to the nature of the goods and services.",
+            "doctrine": "IP",
+            "index": 42
+        },
+        {
+            "input": "Under the Abercrombie distinctiveness spectrum, what are arbitrary terms?",
+            "target": "Arbitrary terms are those that are real words, but arbitrary with respect to the product.",
+            "doctrine": "IP",
+            "index": 43
+        },
+        {
+            "input": "Under the Abercrombie distinctiveness spectrum, what are fanciful terms?",
+            "target": "Fanciful terms are those that are entirely made up.",
+            "doctrine": "IP",
+            "index": 44
+        },
+        {
+            "input": "What are the 6 enumerated factors for a trademark blurring claim?",
+            "target": "(i) The degree of similarity between the mark or trade name and the famous mark. (ii) The degree of inherent or acquired distinctiveness of the famous mark. (iii) The extent to which the owner of the famous mark is engaging in substantially exclusive use of the mark. (iv) The degree of recognition of the famous mark. (v) Whether the user of the mark or trade name intended to create an association with the famous mark. (vi) Any actual association between the mark or trade name and the famous mark.",
+            "doctrine": "IP",
+            "index": 45
+        },
+        {
+            "input": "If two individuals claim the same mark, then the person who gets it is the one who either...",
+            "target": "(1) Use it first in commerce, or (2) registered the mark with the intent to use it in commerce, and then actually uses it",
+            "doctrine": "IP",
+            "index": 46
+        },
+        {
+            "input": "What are the three requirements for copyright protection?",
+            "target": "Work of authorship, fixation, creativity.",
+            "doctrine": "IP",
+            "index": 47
+        },
+        {
+            "input": "Where is the fixation requirement for copyright material codified?",
+            "target": "17 USC 102",
+            "doctrine": "IP",
+            "index": 48
+        },
+        {
+            "input": "What are the two types of fair use defenses for trademarks?",
+            "target": "Descriptive and nominative",
+            "doctrine": "IP",
+            "index": 49
+        }
+    ]
+}

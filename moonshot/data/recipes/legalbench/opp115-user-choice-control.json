@@ -1,0 +1,16 @@
+{
+  "id": "opp115-user-choice-control",
+  "name": "opp115_user_choice_control",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_user_choice_control"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_user_choice_control"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

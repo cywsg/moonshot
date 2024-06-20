@@ -1,0 +1,16 @@
+{
+  "id": "maud-changes-in-gaap-or-other-accounting-principles-subject-to-disproportionate-impact-modifier",
+  "name": "maud_changes_in_gaap_or_other_accounting_principles__subject_to_disproportionate_impact_modifier",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_changes_in_gaap_or_other_accounting_principles__subject_to_disproportionate_impact_modifier"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_changes_in_gaap_or_other_accounting_principles__subject_to_disproportionate_impact_modifier"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

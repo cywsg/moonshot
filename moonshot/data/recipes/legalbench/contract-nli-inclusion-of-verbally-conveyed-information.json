@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-inclusion-of-verbally-conveyed-information",
+  "name": "contract_nli_inclusion_of_verbally_conveyed_information",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_inclusion_of_verbally_conveyed_information"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_inclusion_of_verbally_conveyed_information"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

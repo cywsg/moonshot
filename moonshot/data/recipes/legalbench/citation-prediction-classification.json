@@ -1,0 +1,16 @@
+{
+  "id": "citation-prediction-classification",
+  "name": "citation_prediction_classification",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/citation_prediction_classification"
+  ],
+  "prompt_templates": [
+    "legalbench/citation_prediction_classification"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

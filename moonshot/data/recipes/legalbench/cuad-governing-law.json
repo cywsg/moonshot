@@ -1,0 +1,16 @@
+{
+  "id": "cuad-governing-law",
+  "name": "cuad_governing_law",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_governing_law"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_governing_law"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

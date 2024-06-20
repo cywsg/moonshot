@@ -1,0 +1,16 @@
+{
+  "id": "cuad-no-solicit-of-employees",
+  "name": "cuad_no-solicit_of_employees",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_no-solicit_of_employees"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_no-solicit_of_employees"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

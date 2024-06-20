@@ -1,0 +1,16 @@
+{
+  "id": "maud-accuracy-of-fundamental-target-rws-bringdown-standard",
+  "name": "maud_accuracy_of_fundamental_target_rws_bringdown_standard",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_accuracy_of_fundamental_target_rws_bringdown_standard"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_accuracy_of_fundamental_target_rws_bringdown_standard"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

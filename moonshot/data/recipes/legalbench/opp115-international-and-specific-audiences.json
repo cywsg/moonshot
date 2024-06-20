@@ -1,0 +1,16 @@
+{
+  "id": "opp115-international-and-specific-audiences",
+  "name": "opp115_international_and_specific_audiences",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_international_and_specific_audiences"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_international_and_specific_audiences"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

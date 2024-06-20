@@ -1,0 +1,16 @@
+{
+  "id": "maud-fiduciary-exception-board-determination-standard",
+  "name": "maud_fiduciary_exception__board_determination_standard",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_fiduciary_exception__board_determination_standard"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_fiduciary_exception__board_determination_standard"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

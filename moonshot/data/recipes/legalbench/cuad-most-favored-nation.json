@@ -1,0 +1,16 @@
+{
+  "id": "cuad-most-favored-nation",
+  "name": "cuad_most_favored_nation",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_most_favored_nation"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_most_favored_nation"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

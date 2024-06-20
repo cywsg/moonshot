@@ -1,0 +1,16 @@
+{
+  "id": "cuad-rofr-rofo-rofn",
+  "name": "cuad_rofr-rofo-rofn",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_rofr-rofo-rofn"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_rofr-rofo-rofn"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

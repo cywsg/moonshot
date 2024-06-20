@@ -1,0 +1,16 @@
+{
+  "id": "opp115-data-retention",
+  "name": "opp115_data_retention",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/opp115_data_retention"
+  ],
+  "prompt_templates": [
+    "legalbench/opp115_data_retention"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

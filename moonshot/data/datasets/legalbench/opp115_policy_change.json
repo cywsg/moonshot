@@ -1,0 +1,2208 @@
+{
+    "name": "opp115_policy_change",
+    "description": "",
+    "keywords": [
+        "legalbench",
+        "opp115_policy_change"
+    ],
+    "categories": [
+        ""
+    ],
+    "examples": [
+        {
+            "target": "Yes",
+            "input": "Changes to This Policy This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information,",
+            "index": 0
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a significant or material change in the way we use your personal information, t",
+            "index": 1
+        },
+        {
+            "target": "Yes",
+            "input": "If the changes represent a material departure from our current practice with respect to the use of children's personal information,",
+            "index": 2
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a significant or material change in the way we use your personal information,",
+            "index": 3
+        },
+        {
+            "target": "Yes",
+            "input": "Privacy Policy Changes We reserve the right to amend this Privacy Policy at any time. Any such amendments to this Policy may apply to information we collect in the future as well as any information we obtained from you prior to such amendment. We will post all changes to this Policy on the Sites,",
+            "index": 4
+        },
+        {
+            "target": "Yes",
+            "input": "This privacy policy may be modified from time to time. If we decide to change our privacy policy",
+            "index": 5
+        },
+        {
+            "target": "Yes",
+            "input": "If, at anytime in the future, Tulsaworld.com decides to use information provided by you in a way not described here,",
+            "index": 6
+        },
+        {
+            "target": "Yes",
+            "input": "MediaNews may change this privacy policy from time to time.",
+            "index": 7
+        },
+        {
+            "target": "Yes",
+            "input": "The revised policy will be posted on the MediaNews Web site. Please check this page periodically for changes.",
+            "index": 8
+        },
+        {
+            "target": "Yes",
+            "input": "How Will I Know if this Policy Changes? We will provide additional notice of significant updates.",
+            "index": 9
+        },
+        {
+            "target": "Yes",
+            "input": "We will post the date our Policy was last updated at the top of the Privacy Policy.",
+            "index": 10
+        },
+        {
+            "target": "Yes",
+            "input": "By visiting the Site(s) or using any of the Curse Features, you consent to Curse' collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.",
+            "index": 11
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy may change from time to time and we will post all changes on this page.",
+            "index": 12
+        },
+        {
+            "target": "Yes",
+            "input": "The revised policy will be posted on the MediaNews Web site",
+            "index": 13
+        },
+        {
+            "target": "Yes",
+            "input": "MediaNews may change this privacy policy from time to time. The revised policy will be posted on the MediaNews Web site. Please check this page periodically for changes.",
+            "index": 14
+        },
+        {
+            "target": "Yes",
+            "input": "evised policy will be posted on the MediaNews Web site",
+            "index": 15
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a material change to the way in which we collect, use, and/or share your personal information",
+            "index": 16
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a material change to the way in which we collect, use, and/or share your personal information,",
+            "index": 17
+        },
+        {
+            "target": "Yes",
+            "input": "Changes to this Privacy Statement If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information,",
+            "index": 18
+        },
+        {
+            "target": "Yes",
+            "input": "and change the date at the top of this Privacy Statement,",
+            "index": 19
+        },
+        {
+            "target": "Yes",
+            "input": "by continuing to use the Site following the posting of any changes, you agree to be bound by such modified Privacy Statement.",
+            "index": 20
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice.",
+            "index": 21
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a material change in the way we use your personal information,",
+            "index": 22
+        },
+        {
+            "target": "Yes",
+            "input": "As our Sites continue to develop, we may add new services and features to them. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy",
+            "index": 23
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to modify or amend the terms of our Privacy Policy from time to time",
+            "index": 24
+        },
+        {
+            "target": "Yes",
+            "input": "As our Sites continue to develop, we may add new services and features to them. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy,",
+            "index": 25
+        },
+        {
+            "target": "Yes",
+            "input": "Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised per the date listed below. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.",
+            "index": 26
+        },
+        {
+            "target": "Yes",
+            "input": "Please review this privacy policy periodically as we may update it from time to time.",
+            "index": 27
+        },
+        {
+            "target": "Yes",
+            "input": "The ACC website consists of several web servers. Some servers hosted by ACC may adopt different privacy statements as their specific needs require. If another ACC web server has a privacy statement that is different from this statement",
+            "index": 28
+        },
+        {
+            "target": "Yes",
+            "input": "Policy Updates If we decide to change our privacy policies and procedures,",
+            "index": 29
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our privacy policies and procedures,",
+            "index": 30
+        },
+        {
+            "target": "Yes",
+            "input": "If we modify our privacy policy on how we handle your personal information,",
+            "index": 31
+        },
+        {
+            "target": "Yes",
+            "input": "material changes to this privacy policy or in how we will use your personal information,",
+            "index": 32
+        },
+        {
+            "target": "Yes",
+            "input": "modify our privacy policy on how we handle your personal information",
+            "index": 33
+        },
+        {
+            "target": "Yes",
+            "input": "This U.S. Online Privacy Notice is subject to change. Please review it periodically. If we make changes to the U.S. Online Privacy Notice,",
+            "index": 34
+        },
+        {
+            "target": "Yes",
+            "input": "If we make changes to the U.S. Online Privacy Notice,",
+            "index": 35
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy may be amended from time to time. Any such changes will be posted on this page.",
+            "index": 36
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a significant or material change in the way we use your personal information",
+            "index": 37
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to change this policy to meet the changing needs of reddit, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alter your rights, notice will appear prominently on your front page.",
+            "index": 38
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate",
+            "index": 39
+        },
+        {
+            "target": "Yes",
+            "input": "If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.",
+            "index": 40
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy may be changed by Time Inc. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.",
+            "index": 41
+        },
+        {
+            "target": "Yes",
+            "input": "we will post those changes to this Privacy Policy page,",
+            "index": 42
+        },
+        {
+            "target": "Yes",
+            "input": "ther places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.",
+            "index": 43
+        },
+        {
+            "target": "Yes",
+            "input": "Whenever Kinja changes its privacy policy, we will post those changes to this Privacy Policy page,",
+            "index": 44
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy was most recently updated February 11, 2015.",
+            "index": 45
+        },
+        {
+            "target": "Yes",
+            "input": "Changes to this Privacy Statement The contents of this statement may be altered at any time, at our discretion.",
+            "index": 46
+        },
+        {
+            "target": "Yes",
+            "input": "The contents of this statement may be altered at any time, at our discretion.",
+            "index": 47
+        },
+        {
+            "target": "Yes",
+            "input": "any such change in ownership or control of your personal information. For more information see the \"Changes in Our Privacy Policy\" section below.",
+            "index": 48
+        },
+        {
+            "target": "Yes",
+            "input": "If we make material changes (including material changes in the way we use or share user personal information, such as using information for purposes materially different from those disclosed in this Privacy Policy),",
+            "index": 49
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy is subject to change by JibJab from time to time.",
+            "index": 50
+        },
+        {
+            "target": "Yes",
+            "input": "notified via e-mail of any such change in ownership or control of your personal information",
+            "index": 51
+        },
+        {
+            "target": "Yes",
+            "input": "material changes (including material changes in the way we use or share user personal information, such as using information for purposes materially different from those disclosed in this Privacy Policy),",
+            "index": 52
+        },
+        {
+            "target": "Yes",
+            "input": "Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.",
+            "index": 53
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.",
+            "index": 54
+        },
+        {
+            "target": "Yes",
+            "input": "f we decide to change our Privacy Policy, in whole or in part,",
+            "index": 55
+        },
+        {
+            "target": "Yes",
+            "input": "10. Changes to This privacy policy. This privacy policy is subject to occasional revision, and if we make any material changes in the way we use your PersonallyIdentifiable Information,",
+            "index": 56
+        },
+        {
+            "target": "Yes",
+            "input": "if we make any material changes in the way we use your PersonallyIdentifiable Information,",
+            "index": 57
+        },
+        {
+            "target": "Yes",
+            "input": "UpToDate may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Website",
+            "index": 58
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy is effective as of October 27, 2007 and will remain in effect unless changed. UpToDate may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy on the Website.",
+            "index": 59
+        },
+        {
+            "target": "Yes",
+            "input": "In line with these values, our privacy policy may change from time to time. If it does, we will post an updated policy on the Sites and change the \"last updated\" line above.",
+            "index": 60
+        },
+        {
+            "target": "Yes",
+            "input": "In line with these values, our privacy policy may change from time to time. If it does, we will post an updated policy on the Sites and change the \"last updated\" line above. If we make significant changes to the policy, we will provide appropriate notice to you",
+            "index": 61
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting",
+            "index": 62
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you.",
+            "index": 63
+        },
+        {
+            "target": "Yes",
+            "input": "terminate its offer of any specific wireless marketing service or all wireless marketing services",
+            "index": 64
+        },
+        {
+            "target": "Yes",
+            "input": "use a wireless telephone number, wireless or conventional Internet email address, or other Information submitted for its wireless marketing services for any other purpose but to provide the service requested",
+            "index": 65
+        },
+        {
+            "target": "Yes",
+            "input": "If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information.",
+            "index": 66
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting.",
+            "index": 67
+        },
+        {
+            "target": "Yes",
+            "input": "This privacy policy may be amended from time to time. Any such changes will be posted on this page.",
+            "index": 68
+        },
+        {
+            "target": "Yes",
+            "input": "We will notify you of any significant or material changes in the way we treat your information",
+            "index": 69
+        },
+        {
+            "target": "Yes",
+            "input": "any significant or material changes in the way we treat your information",
+            "index": 70
+        },
+        {
+            "target": "Yes",
+            "input": "This privacy policy may be amended from time to time.",
+            "index": 71
+        },
+        {
+            "target": "Yes",
+            "input": "Your use of the Services or your provision of personal information to use the Services following such changes indicates your acceptance of the revised Privacy Policy.",
+            "index": 72
+        },
+        {
+            "target": "Yes",
+            "input": "We may modify this Privacy Policy from time to time. We will notify you of changes by posting changes here, or by other appropriate means. Any changes to the Privacy Policy will become effective when the updated policy is posted on the Services. Your use of the Services or your provision of personal information to use the Services following such changes indicates your acceptance of the revised Privacy Policy.",
+            "index": 73
+        },
+        {
+            "target": "Yes",
+            "input": "In September 2012, we announced that Instagram had been acquired by Facebook. We knew that by teaming up with Facebook, we could build a better Instagram for you. Since then, we've been collaborating with Facebook's team on ways to do just that. As part of our new collaboration, we've learned that by being able to share insights and information with each other, we can build better experiences for our users.",
+            "index": 74
+        },
+        {
+            "target": "Yes",
+            "input": "We're updating our Privacy Policy to highlight this new collaboration,",
+            "index": 75
+        },
+        {
+            "target": "Yes",
+            "input": "Our new Privacy Policy is effective on January 19, 2013. To learn about how we treat information collected prior to January 19, 2013, please click here.",
+            "index": 76
+        },
+        {
+            "target": "Yes",
+            "input": "Instagram may modify or update this Privacy Policy from time to time, so please review it periodically.",
+            "index": 77
+        },
+        {
+            "target": "Yes",
+            "input": "Your continued use of the Services after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy.",
+            "index": 78
+        },
+        {
+            "target": "Yes",
+            "input": "It is our policy to post any changes we make to our Privacy Policy on this page",
+            "index": 79
+        },
+        {
+            "target": "Yes",
+            "input": "If we make material changes to how we treat our users information",
+            "index": 80
+        },
+        {
+            "target": "Yes",
+            "input": "If we make material changes to how we use Personal Information collected from children under 13",
+            "index": 81
+        },
+        {
+            "target": "Yes",
+            "input": "continued use of the Services after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy",
+            "index": 82
+        },
+        {
+            "target": "Yes",
+            "input": "material changes to how we use Personal Information collected from children under 13",
+            "index": 83
+        },
+        {
+            "target": "Yes",
+            "input": "Last Updated, December 5, 2014 . To see what has changed click here.",
+            "index": 84
+        },
+        {
+            "target": "Yes",
+            "input": "those notices will still govern your use of IMDb, and it is your responsibility to review them for changes.)",
+            "index": 85
+        },
+        {
+            "target": "Yes",
+            "input": "Our business changes constantly. This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.",
+            "index": 86
+        },
+        {
+            "target": "Yes",
+            "input": "This Notice and the Terms and Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use.",
+            "index": 87
+        },
+        {
+            "target": "Yes",
+            "input": "and use of information that we gather now is subject to the Privacy Notice in effect at the time of use.",
+            "index": 88
+        },
+        {
+            "target": "Yes",
+            "input": "We may modify our privacy policy from time to time.",
+            "index": 89
+        },
+        {
+            "target": "Yes",
+            "input": "Please take a look at the revised date at the top of this page to see when this Privacy Policy was last revised.",
+            "index": 90
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a material change to our online Privacy Statement,",
+            "index": 91
+        },
+        {
+            "target": "Yes",
+            "input": "By using any of the services above, you are accepting the practices described in our Privacy Policy.",
+            "index": 92
+        },
+        {
+            "target": "Yes",
+            "input": "We may add or change the list of third party advertisers from time to time without changing the effective date of the Privacy Policy itself.",
+            "index": 93
+        },
+        {
+            "target": "Yes",
+            "input": "We may amend this Privacy Policy from time to time.",
+            "index": 94
+        },
+        {
+            "target": "Yes",
+            "input": "We may add or change the list of third party advertisers from time to time",
+            "index": 95
+        },
+        {
+            "target": "Yes",
+            "input": "Communicate with you about your account or transactions with us and send you information about features on our sites and applications or changes to our policies",
+            "index": 96
+        },
+        {
+            "target": "Yes",
+            "input": "From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide noticeto you if these changes are material and, where required by applicable law, we will obtain your consent.",
+            "index": 97
+        },
+        {
+            "target": "Yes",
+            "input": "posting notice of such changes on our sites and applications,",
+            "index": 98
+        },
+        {
+            "target": "Yes",
+            "input": "changes to the Terms and Conditions, any subscriber agreement, this Privacy Statement,",
+            "index": 99
+        },
+        {
+            "target": "Yes",
+            "input": "SRL may change this Privacy Statement at any time. Notice of any new or revised Privacy Statement, as well as the location of the new or revised statement, will be posted on the Site for at least 60 days after the change.",
+            "index": 100
+        },
+        {
+            "target": "Yes",
+            "input": "changes to the Terms and Conditions, any subscriber agreement, this Privacy Statement",
+            "index": 101
+        },
+        {
+            "target": "Yes",
+            "input": "We may update this Privacy Policy from time to time.",
+            "index": 102
+        },
+        {
+            "target": "Yes",
+            "input": "If under any such update we make any material change to the way in which we treat your User Information,",
+            "index": 103
+        },
+        {
+            "target": "Yes",
+            "input": "make any material change to the way in which we treat your User Information",
+            "index": 104
+        },
+        {
+            "target": "Yes",
+            "input": "material change to the way in which we treat your User Information",
+            "index": 105
+        },
+        {
+            "target": "Yes",
+            "input": "By using the Service you consent to this use and any other use of information identified in this Privacy Policy.",
+            "index": 106
+        },
+        {
+            "target": "Yes",
+            "input": "our continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes",
+            "index": 107
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Website following the posting of changes to this Privacy Policy will constitute acceptance of those changes.",
+            "index": 108
+        },
+        {
+            "target": "Yes",
+            "input": "please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.",
+            "index": 109
+        },
+        {
+            "target": "Yes",
+            "input": "This policy is current as of its last revision date. However, please note that this policy may be amended from time to time to reflect changes and additions to the privacy policy. Please check back for the most current version before relying on any of the provisions in this privacy policy.",
+            "index": 110
+        },
+        {
+            "target": "Yes",
+            "input": "Your use of the Websites constitutes your acceptance of this Privacy Policy.",
+            "index": 111
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to change this Privacy Policy at any time. We do not undertake to provide you with personal notice of any changes. In the event of material changes, we will provide notice by means that are reasonable under the circumstances, such as by posting a notice on the Websites. Your continued use of the Websites following the posting of changes to this Privacy Policy means you accept those changes.",
+            "index": 112
+        },
+        {
+            "target": "Yes",
+            "input": "are the primary means by which FSD provides you with notice and choice regarding its collection and use of your personal information.",
+            "index": 113
+        },
+        {
+            "target": "Yes",
+            "input": "We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account",
+            "index": 114
+        },
+        {
+            "target": "Yes",
+            "input": "We will notify you about significant changes in the way we treat personal information",
+            "index": 115
+        },
+        {
+            "target": "Yes",
+            "input": "about significant changes in the way we treat personal information",
+            "index": 116
+        },
+        {
+            "target": "Yes",
+            "input": "If we make an important change to this Privacy Policy, we will post a notification and link on our Website's homepage and within our Applications, Mobile Games and Social Games so that you may review the updated policy.",
+            "index": 117
+        },
+        {
+            "target": "Yes",
+            "input": "All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices",
+            "index": 118
+        },
+        {
+            "target": "Yes",
+            "input": "Changes to this Policy We reserve the right to modify the contents of this privacy policy as needed. All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices.",
+            "index": 119
+        },
+        {
+            "target": "Yes",
+            "input": "continued access of Liquor.com will constitute your acceptance of any changes or revisions to the Privacy Policy.",
+            "index": 120
+        },
+        {
+            "target": "Yes",
+            "input": "We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the \"LastUpdated\" date.",
+            "index": 121
+        },
+        {
+            "target": "Yes",
+            "input": "If our information practices change in a significant way, we will provide a more prominent notice.",
+            "index": 122
+        },
+        {
+            "target": "Yes",
+            "input": "We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the \"LastUpdated\" date. If our information practices change in a significant way, we will provide a more prominent notice.Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you.",
+            "index": 123
+        },
+        {
+            "target": "Yes",
+            "input": "However, we often acquire new companies to expand our business.",
+            "index": 124
+        },
+        {
+            "target": "Yes",
+            "input": "We may revise this privacy policy from time to time",
+            "index": 125
+        },
+        {
+            "target": "Yes",
+            "input": "We may change our Privacy Policy, so please check this page from time to time, as your continued use of the Online Services after we publish our changes, indicates your acceptance of any changed terms.",
+            "index": 126
+        },
+        {
+            "target": "Yes",
+            "input": "privacy notice and the Terms and Conditions of Use may be updated or changed at any time,",
+            "index": 127
+        },
+        {
+            "target": "Yes",
+            "input": "We May Change These Terms Whether or not you have viewed our terms and conditions of use of our Websites, or this Privacy Policy, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Gamestop.com. As is the case with any business, our business changes over time, and our privacy notice and the Terms and Conditions of Use may be updated or changed at any time, as we deem appropriate. We may email reminders of our notices and conditions. You should frequently check our website to see recent changes to these terms and policies. Unless stated otherwise, our current privacy notice applies to all information that we have about you and your account.",
+            "index": 128
+        },
+        {
+            "target": "Yes",
+            "input": "Terms and Conditions of Use may be updated or changed at any time",
+            "index": 129
+        },
+        {
+            "target": "Yes",
+            "input": "Kaleida Health may change our privacy practices from time to time.",
+            "index": 130
+        },
+        {
+            "target": "Yes",
+            "input": "Kaleida Health may change our privacy practices from time to time. If we do, we will revise this notice so you will have an accurate summary of our practices. The revised notice will apply to all of your health information. Kaleida Health will post any revised notice in our hospital reception area.",
+            "index": 131
+        },
+        {
+            "target": "Yes",
+            "input": "Kaleida Health will post any revised notice in our hospital reception area.",
+            "index": 132
+        },
+        {
+            "target": "Yes",
+            "input": "Food Allergy Research & Education reserves the right to change this Policy at any time.",
+            "index": 133
+        },
+        {
+            "target": "Yes",
+            "input": "We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to AOL's information practices, you will be provided with appropriate online notice.",
+            "index": 134
+        },
+        {
+            "target": "Yes",
+            "input": "Posted: Tuesday, September 18, 2012 12:29 pm Updated: Thursday, May 21, 2015 3:22 pm.",
+            "index": 135
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our privacy policy, we will post these changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.",
+            "index": 136
+        },
+        {
+            "target": "Yes",
+            "input": "Use of the website subsequent to such posting shall constitute your agreement to all such amendments.",
+            "index": 137
+        },
+        {
+            "target": "Yes",
+            "input": "By accessing or using a website operated by The News-Post, you agree to be bound by the site's Terms of Use and Privacy Policy (\"Agreement\"), as The News-Post may amend them at any time. All amendments automatically go into effect on the day after they are posted on the website. Use of the website subsequent to such posting shall constitute your agreement to all such amendments. (See Terms of Use.)",
+            "index": 138
+        },
+        {
+            "target": "Yes",
+            "input": "This Privacy Policy may be changed by Time Inc. The revised Privacy Policy will be posted to this page",
+            "index": 139
+        },
+        {
+            "target": "Yes",
+            "input": "This page reflects the current policy at any given time. It may be updated occasionally. It was most recently updated on May 21, 2015.",
+            "index": 140
+        },
+        {
+            "target": "Yes",
+            "input": "modify or amend the terms of this Privacy Policy from time to time.",
+            "index": 141
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to modify or amend the terms of this Privacy Policy from time to time.",
+            "index": 142
+        },
+        {
+            "target": "Yes",
+            "input": "To review the prior version of Barnes & Noble's Privacy Policy, please click here.",
+            "index": 143
+        },
+        {
+            "target": "Yes",
+            "input": "These current privacy policies and the privacy practices described herein apply to personal information previously collected from you by Barnes & Noble, Inc. and each of its subsidiaries, as well as personal information that they may collect from you in the future.",
+            "index": 144
+        },
+        {
+            "target": "Yes",
+            "input": "You will be notified of any material changes to this Privacy Policy which are less protective of customer information prior to such changes becoming effective.",
+            "index": 145
+        },
+        {
+            "target": "Yes",
+            "input": "You will be notified of any material changes to this Privacy Policy which are less protective of customer information prior to such changes becoming effective. We may notify you of these changes by email reminders, by notice on this site, or by other acceptable means.",
+            "index": 146
+        },
+        {
+            "target": "Yes",
+            "input": "We will post a notice on this Website if and when this policy changes to alert visitors that a new policy is in place.",
+            "index": 147
+        },
+        {
+            "target": "Yes",
+            "input": "THE MRC reserves the right to change this Privacy Policy at any time. Please check this page periodically for changes. We will post a notice on this Website if and when this policy changes to alert visitors that a new policy is in place.",
+            "index": 148
+        },
+        {
+            "target": "Yes",
+            "input": "Material that is, really important changes to the way we use or disclose personally identifiable information will apply on a going-forward basis, unless we have your express consent to change the way we use or disclose the personally identifiable information we collected when the earlier version of this Privacy Policy was in effect.",
+            "index": 149
+        },
+        {
+            "target": "Yes",
+            "input": "Privacy Policy Last modified: June 30, 2015 ( view archived versions)",
+            "index": 150
+        },
+        {
+            "target": "Yes",
+            "input": "We will not reduce your rights under this Privacy Policy",
+            "index": 151
+        },
+        {
+            "target": "Yes",
+            "input": "We will post any privacy policy changes on this page",
+            "index": 152
+        },
+        {
+            "target": "Yes",
+            "input": "If Google is involved in a merger, acquisition or asset sale,",
+            "index": 153
+        },
+        {
+            "target": "Yes",
+            "input": "Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes.",
+            "index": 154
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to modify or amend the terms of our privacy policy",
+            "index": 155
+        },
+        {
+            "target": "Yes",
+            "input": "If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession",
+            "index": 156
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.",
+            "index": 157
+        },
+        {
+            "target": "Yes",
+            "input": "If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.",
+            "index": 158
+        },
+        {
+            "target": "Yes",
+            "input": "Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users? personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.",
+            "index": 159
+        },
+        {
+            "target": "Yes",
+            "input": "If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection",
+            "index": 160
+        },
+        {
+            "target": "Yes",
+            "input": "if we make any material changes in our privacy practices that do not affect user information already stored in our database,",
+            "index": 161
+        },
+        {
+            "target": "Yes",
+            "input": "Last updated: March 3, 2014. To see what has changed, click here.",
+            "index": 162
+        },
+        {
+            "target": "Yes",
+            "input": "our Privacy Notice and the Conditions of Use will change also.",
+            "index": 163
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our Privacy Policy in the future",
+            "index": 164
+        },
+        {
+            "target": "Yes",
+            "input": "we'll post the changes here and indicate at the top of the policy the last date on which it was updated",
+            "index": 165
+        },
+        {
+            "target": "Yes",
+            "input": "By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy.",
+            "index": 166
+        },
+        {
+            "target": "Yes",
+            "input": "Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended.",
+            "index": 167
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended.",
+            "index": 168
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.",
+            "index": 169
+        },
+        {
+            "target": "Yes",
+            "input": "We will notify you of any material changes to this policy as required by law.",
+            "index": 170
+        },
+        {
+            "target": "Yes",
+            "input": "The CBS Interactive Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Interactive Services. By using any of the CBS Interactive Services, you consent to the terms of the updated privacy policy.",
+            "index": 171
+        },
+        {
+            "target": "Yes",
+            "input": "Note: The CBS Interactive Privacy Policy has been updated. Please review the updated privacy policy carefully before using the CBS Interactive Services. By using any of the CBS Interactive Services, you consent to the terms of the updated privacy policy. Click here for more information about the updates.",
+            "index": 172
+        },
+        {
+            "target": "Yes",
+            "input": "Geekdo reserves the right to modify all or some of this Privacy Policy at any time without notice.",
+            "index": 173
+        },
+        {
+            "target": "Yes",
+            "input": "If we modify our Privacy Policy, we may post a notice on our website",
+            "index": 174
+        },
+        {
+            "target": "Yes",
+            "input": "post a notice on our website so our users are aware of what information we collect,",
+            "index": 175
+        },
+        {
+            "target": "Yes",
+            "input": "Washingtonian.com reserves the right to change this policy at any time. Please check this page periodically for changes.",
+            "index": 176
+        },
+        {
+            "target": "Yes",
+            "input": "Effective Date This Privacy Policy is effective as of February 6, 2009.",
+            "index": 177
+        },
+        {
+            "target": "Yes",
+            "input": "If we make any material changes to this Privacy Policy",
+            "index": 178
+        },
+        {
+            "target": "Yes",
+            "input": "Tribune Company reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this policy will mean you accept those changes. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by email or by means of a notice on our website.",
+            "index": 179
+        },
+        {
+            "target": "Yes",
+            "input": "Modifications to Privacy Statement We continue to review our policies and procedures to assure that they are effective in meeting our commitments to our Merchants. Chase Paymentech reserves the right to change this Privacy Statement without notice at any time and from time to time, including as needed to comply with the rules and regulations of the various debit and credit card organizations, or to comply with applicable local, state and federal laws and regulations.",
+            "index": 180
+        },
+        {
+            "target": "Yes",
+            "input": "involved in a merger, acquisition, or sale of all or a portion of its assets",
+            "index": 181
+        },
+        {
+            "target": "Yes",
+            "input": "How will you know whether The Motley Fool's privacy policy has changed-",
+            "index": 182
+        },
+        {
+            "target": "Yes",
+            "input": "We encourage you to periodically review this page for the latest information on our privacy.",
+            "index": 183
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to make changes to this privacy policy at any time. If we make a material change to this privacy policy,",
+            "index": 184
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a material change to this privacy policy,",
+            "index": 185
+        },
+        {
+            "target": "Yes",
+            "input": "By using this site or mobile application, you agree to our Privacy Policy. We may also change the policy from time to time, so please be sure to visit this site often to see if anything has changed. If we post changes and you continue to use the site, you will be deemed to have agreed to the changes.",
+            "index": 186
+        },
+        {
+            "target": "Yes",
+            "input": "We may also change the policy from time to time,",
+            "index": 187
+        },
+        {
+            "target": "Yes",
+            "input": "We may update this Policy from time to time. If we make any material change to the way in which we treat your User Information,",
+            "index": 188
+        },
+        {
+            "target": "Yes",
+            "input": "If we make any material change to the way in which we treat your User Information,",
+            "index": 189
+        },
+        {
+            "target": "Yes",
+            "input": "If we make any material change to the way in which we treat your User Information",
+            "index": 190
+        },
+        {
+            "target": "Yes",
+            "input": "Sci-News.com does not sell, trade or rent your personal information to third parties. If we choose to do so in the future,",
+            "index": 191
+        },
+        {
+            "target": "Yes",
+            "input": "If we make material revisions to the way we collect or use your personal information so that we are using it for purposes or sharing data with third parties that you have not consented to",
+            "index": 192
+        },
+        {
+            "target": "Yes",
+            "input": "Any changes to this Privacy Policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through this site.",
+            "index": 193
+        },
+        {
+            "target": "Yes",
+            "input": "Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy.",
+            "index": 194
+        },
+        {
+            "target": "Yes",
+            "input": "We may change the terms of this privacy statement at any time",
+            "index": 195
+        },
+        {
+            "target": "Yes",
+            "input": "We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the posted Privacy Policy when you visit any of our sites to be sure you are aware of and understand our current policy.",
+            "index": 196
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change the substance of our Privacy Policy",
+            "index": 197
+        },
+        {
+            "target": "Yes",
+            "input": "You will be notified of the sale of all or a substantial portion of our business to a third party by email or through a prominent notice posted on the Sites",
+            "index": 198
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our Privacy Statement for the Science websites,",
+            "index": 199
+        },
+        {
+            "target": "Yes",
+            "input": "ACCEPTANCE OF THESE TERMS Your use of the Science Website shall indicate your understanding and acceptance of the terms of this Privacy Statement. If you do not agree with all of the terms herein, you should not use the Science Website or services.",
+            "index": 200
+        },
+        {
+            "target": "Yes",
+            "input": "If we decide to change our Privacy Statement for the Science websites, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.",
+            "index": 201
+        },
+        {
+            "target": "Yes",
+            "input": "NARA reserves the right to review links and add or remove links at any time for any reason consistent with Federal policy or NARA guidance.",
+            "index": 202
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time",
+            "index": 203
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this policy at any time.",
+            "index": 204
+        },
+        {
+            "target": "Yes",
+            "input": "If we make a material change to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page. If necessary we will give you additional choices regarding such change in these notices. Your continued use of the Online Services will signify your acceptance of these changes.",
+            "index": 205
+        },
+        {
+            "target": "Yes",
+            "input": "we reserve the right to contact you as necessary in our sole discretion",
+            "index": 206
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.",
+            "index": 207
+        },
+        {
+            "target": "Yes",
+            "input": "By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.",
+            "index": 208
+        },
+        {
+            "target": "Yes",
+            "input": "e'll post the revised Privacy Notice on this website and update the \"Last Updated\" date to reflect the date of the changes.",
+            "index": 209
+        },
+        {
+            "target": "Yes",
+            "input": "Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the \"Last Updated\" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.",
+            "index": 210
+        },
+        {
+            "target": "Yes",
+            "input": "If we make any material changes to our privacy practices",
+            "index": 211
+        },
+        {
+            "target": "Yes",
+            "input": "continued use of any of the Sites or the Services after the effective date of the revisions means that you accept and agree to any such revisions.",
+            "index": 212
+        },
+        {
+            "target": "Yes",
+            "input": "This Policy is effective as of the date set out above. We reserve the right to modify this Policy at any time, and such revisions will become effective upon the earlier of (a) posting of the revisions to the Sites, or (b) distribution by electronic mail. Your continued use of any of the Sites or the Services after the effective date of the revisions means that you accept and agree to any such revisions.",
+            "index": 213
+        },
+        {
+            "target": "Yes",
+            "input": "We reserve the right to modify this Policy at any time",
+            "index": 214
+        },
+        {
+            "target": "No",
+            "input": "Parents are able to consent to the use of their childs Personally Identifiable Information without having to consent to the Websites disclosure of the childs Personally Identifiable Information to third parties, as we do not share Personally Identifiable Information of children under the age of 13 with any third parties (other than those service partners who help us provide the lynda.com service to you).",
+            "index": 215
+        },
+        {
+            "target": "No",
+            "input": "From time-to-time, Washingtonian magazine and/or Washingtonian.com may provide its business partners with your name and mailing address for marketing relevant services, products, and programs to you.",
+            "index": 216
+        },
+        {
+            "target": "No",
+            "input": "please notify us by email or call us at the winery and we will honor your request immediately",
+            "index": 217
+        },
+        {
+            "target": "No",
+            "input": "We have installed safeguards to secure and protect the credit card information used for your transactions.",
+            "index": 218
+        },
+        {
+            "target": "No",
+            "input": "These third party service providers may only use your personal information to perform services for us and may not share your personal information with anyone else, or use it for any other purpose, except on an aggregated, non-personally identifiable basis.",
+            "index": 219
+        },
+        {
+            "target": "No",
+            "input": "We and our service providers may combine information about you with information that we or they collect about other users of our Services and share it in a form that does not identify you personally.",
+            "index": 220
+        },
+        {
+            "target": "No",
+            "input": "The respective third parties' privacy policy shall apply to these areas. https://www.vikingsnewsletter.com/Register.jsp http://vikingmerchandise.com/vikings/customer/home.php https://oss.ticketmaster.com/html/home.htmI?team=vikingsl=ENSTAGE=1",
+            "index": 221
+        },
+        {
+            "target": "No",
+            "input": "MediaNews may disclose and use the information collected where required to do so by law, or where MediaNews, in good faith, believes the use or disclosure of the information collected is necessary to (1) comply with the law or legal processes",
+            "index": 222
+        },
+        {
+            "target": "No",
+            "input": "third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services,",
+            "index": 223
+        },
+        {
+            "target": "No",
+            "input": "Children Military is not intended for, nor do we knowingly collect information from, children under the age of 13.",
+            "index": 224
+        },
+        {
+            "target": "No",
+            "input": "Your participation in tournaments or other online game events is conditional upon our collection, use, storage, transmission and public display of statistical data (such as your scores, rankings, and achievements) generated through your participation.",
+            "index": 225
+        },
+        {
+            "target": "No",
+            "input": "please send a request by email to the Privacy Administrator at admin@latinpost.com or by postal mail to Latin Post, 250 Vesey Street, 26th Floor, New York, NY 10281, Attn: Your California Privacy Rights, c/o Privacy Administrator.",
+            "index": 226
+        },
+        {
+            "target": "No",
+            "input": "Cameras: </strong> We operate cameras in store for security and operational purposes, for example, to help us improve the design of our stores to better serve our customers.",
+            "index": 227
+        },
+        {
+            "target": "No",
+            "input": "Access personally identifiable information that MediaNews has collected from your child,",
+            "index": 228
+        },
+        {
+            "target": "No",
+            "input": "As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.",
+            "index": 229
+        },
+        {
+            "target": "No",
+            "input": "A registered user of MediaNews Web sites may review and change his or her PIN and/or e-mail preferences by clicking on the Manage Account link after signing in. A registered user may also review and request an update of the PIN and/or e-mail preferences which he or she provided to MediaNews at any time by e-mailing us at privacycoordinator@medianewsgroup.com or write to us at: Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202. Please include the name of the applicable site.",
+            "index": 230
+        },
+        {
+            "target": "No",
+            "input": "For your security, we only store your credit card information if you choose to set up an authorized account with one of our Sites. In that case, it is stored on a secure computer in an encrypted format.",
+            "index": 231
+        },
+        {
+            "target": "No",
+            "input": "Chase Paymentech is required to undergo periodic third-party assessments and periodic network scans to ensure that, among other things, Chase Paymentech has installed and maintains a firewall configuration to protect data; does not use vendor-supplied defaults for system passwords and other security parameters; protects stored data; encrypts transmission of Cardholder Data and sensitive information across public networks; uses and regularly updates anti-virus software; develops and maintains secure systems and applications; restricts access to data to those with a business need-to-know; tracks and monitors all access to network resources and Cardholder Data; regularly tests security systems and processes; assigns a unique ID to each person with computer access; restricts physical access to Cardholder Data; and maintains a policy that addresses information security.",
+            "index": 232
+        },
+        {
+            "target": "No",
+            "input": "As a Business Associate of a particular healthcare provider, we may be permitted to de-identify your protected health information created or received by us for that healthcare provider. This de-identified information must be created according to criteria prescribed by HIPAA so that there is no reasonable basis to believe that this information can be traced back to you. We may use and disclose any such de-identified information in the same manner as personal information under this privacy policy.",
+            "index": 233
+        },
+        {
+            "target": "No",
+            "input": "You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.",
+            "index": 234
+        },
+        {
+            "target": "No",
+            "input": "We also may disclose aggregate user statistics to third parties for a variety of purposes, including research, analytics, and marketing.",
+            "index": 235
+        },
+        {
+            "target": "No",
+            "input": "(Note: Time Inc. sites do not recognize the \"do not track signals\" that some browsers may employ.)",
+            "index": 236
+        },
+        {
+            "target": "No",
+            "input": "The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our Terms of Use Agreement. If you do not meet such age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.",
+            "index": 237
+        },
+        {
+            "target": "No",
+            "input": "Under COPPA, you have the right to review and have any of your child's information deleted from our records. You also have the right to tell us to stop collecting or using your child's personal information. If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child's personal information in connection with the transaction for which it was originally collected, you may email us at privacy@penguinrandomhouse.com. For tips on protecting your child's privacy online, please see the U.S. Federal Trade Commission's brochure on this topic: www.onguardonline.gov.",
+            "index": 238
+        },
+        {
+            "target": "No",
+            "input": "We use third-party service providers to manage credit card and payment processing. These service providers are not permitted to store, retain, or use billing Information except for the sole purpose of credit card and payment processing on our behalf.",
+            "index": 239
+        },
+        {
+            "target": "No",
+            "input": "To the extent that you use our Websites, and connect to us through your computer, anyone with access to your computer may be able to access our Websites and conduct transactions in your name. We have no ability to know who has access to your computer, or to your credit card information, or who you have authorized to use such computer or information. Persons with access to your computer may be able to view any private or stored account information or other information that you have given to us. Accordingly, you are responsible for any transactions that are made in your name by someone who has access to your computer or your credit card number. It is important for you to protect against unauthorized access to any login or password information, and to your computer.",
+            "index": 240
+        },
+        {
+            "target": "No",
+            "input": "to protect the rights, reputation, property or safety of lynda.com or others;",
+            "index": 241
+        },
+        {
+            "target": "No",
+            "input": "These entities have access to your personal information only as needed to perform their functions and they are obligated to maintain the confidentiality and security of that personal information. They are obligated not to use, sell, distribute or alter this information in any way other than to provide the requested services to the Sites.",
+            "index": 242
+        },
+        {
+            "target": "No",
+            "input": "We may receive information about you from publicly and commercially available sources",
+            "index": 243
+        },
+        {
+            "target": "No",
+            "input": "Information about your visits to this site, such as the number of times you have viewed an ad and other information is used to serve ads to you.",
+            "index": 244
+        },
+        {
+            "target": "No",
+            "input": "Geekdo automatically receives and records information on our server logs from your browser",
+            "index": 245
+        },
+        {
+            "target": "No",
+            "input": "In addition, please note that we may hire vendors (agents or contractors) to collect personal information on our behalf and in such cases such vendors will be instructed to comply with this Privacy Policy. These vendors may not use your personal information for their own marketing purposes.",
+            "index": 246
+        },
+        {
+            "target": "No",
+            "input": "For further information on this or any other topics email us using our Contact page.",
+            "index": 247
+        },
+        {
+            "target": "No",
+            "input": "If you have any questions about this Privacy Policy, please contact us at privacy@barnesandnoble.com or call customer service at 1-800-THE-BOOK [1-800-843-2665].",
+            "index": 248
+        },
+        {
+            "target": "No",
+            "input": "only authorized individuals have access to the information provided by our customers.",
+            "index": 249
+        },
+        {
+            "target": "No",
+            "input": "With business partners who sponsor a sweepstakes, contest, or promotion; or who jointly offer a service or feature with a CBS Interactive Service. Within the family of CBS Interactive Services and other CBS businesses.",
+            "index": 250
+        },
+        {
+            "target": "No",
+            "input": "Your device type, screen size, browser type, language, plug-ins, Internet domain, TCP configuration parameters, operating system and versions of installed software",
+            "index": 251
+        },
+        {
+            "target": "No",
+            "input": "We use your email address only to allow you to log in to your account, send you confirmations (of your registration, purchase, etc.), and to send you messages as part of our services. You may choose to stop receiving these emails by adjusting your email settings at http://app.dictionary.com/users/settings or by clicking on the \"unsubscribe\" link at the bottom of the email.",
+            "index": 252
+        },
+        {
+            "target": "No",
+            "input": "personally identifiable information will be collected only if you voluntarily submit it.",
+            "index": 253
+        },
+        {
+            "target": "No",
+            "input": "Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, its Affiliates or Service Providers maintain facilities.",
+            "index": 254
+        },
+        {
+            "target": "No",
+            "input": "If you are a California resident, please see the special notice to you below about how you can obtain additional information about this sharing.",
+            "index": 255
+        },
+        {
+            "target": "No",
+            "input": "When you open emails from us, we may receive a confirmation noting you opened the email",
+            "index": 256
+        },
+        {
+            "target": "No",
+            "input": "You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser.",
+            "index": 257
+        },
+        {
+            "target": "No",
+            "input": "to comply with legal process or in other cases if we believe in good faith that disclosure is required by law",
+            "index": 258
+        },
+        {
+            "target": "No",
+            "input": "You also may write to us directly if you wish to",
+            "index": 259
+        },
+        {
+            "target": "No",
+            "input": "You may be able to adjust your browser's settings to turn on a \"do not track\" feature. Although our policy may change in the future, currently, we do not support \"do not track\" and will not honor your web browser's \"do not track\" signal.",
+            "index": 260
+        },
+        {
+            "target": "No",
+            "input": "In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.",
+            "index": 261
+        },
+        {
+            "target": "No",
+            "input": "requires employees and service providers who work for or with SRL to sign confidentiality and security contracts restricting their use of any data related to user information",
+            "index": 262
+        },
+        {
+            "target": "No",
+            "input": "we do employ a number of safeguards intended to mitigate the risk of unauthorized access or disclosure of this information.",
+            "index": 263
+        },
+        {
+            "target": "No",
+            "input": "Any data that we store about you is kept behind a secure firewall in our database and is not accessible to the public in any way.",
+            "index": 264
+        },
+        {
+            "target": "No",
+            "input": "These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site.",
+            "index": 265
+        },
+        {
+            "target": "No",
+            "input": "must use an SSL-enabled browser in order to protect the confidentiality of your personal and credit card information while it is transmitted over the Internet",
+            "index": 266
+        },
+        {
+            "target": "No",
+            "input": "you may unsubscribe by following the instructions in the e-mail to which you subscribed",
+            "index": 267
+        },
+        {
+            "target": "No",
+            "input": "Nothing in this Privacy Policy is intended to restrict our use of aggregated or de-identified information in any way.",
+            "index": 268
+        },
+        {
+            "target": "No",
+            "input": "authorized public health officials (or a foreign government agency collaborating with such officials) so",
+            "index": 269
+        },
+        {
+            "target": "No",
+            "input": "If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.",
+            "index": 270
+        },
+        {
+            "target": "No",
+            "input": "If you do not wish to share your PIN, you always have the option to not provide the information or use the MediaNews Web sites that require it.",
+            "index": 271
+        },
+        {
+            "target": "No",
+            "input": "We take reasonable measures to protect the confidentiality, security, and integrity of the personal information collected from our website visitors.",
+            "index": 272
+        },
+        {
+            "target": "No",
+            "input": "We reveal only the last four digits of your credit card numbers when confirming an order.",
+            "index": 273
+        },
+        {
+            "target": "No",
+            "input": "Those who request information pursuant to a subpoena or court order",
+            "index": 274
+        },
+        {
+            "target": "No",
+            "input": "Opting-Out If you are a current MediaNews registered Web site user or would like to become one, but do not want your PIN shared with third parties or do not want to receive promotion and/or marketing information about other products, services and offerings from MediaNews and/or any third parties, please review the following:",
+            "index": 275
+        },
+        {
+            "target": "No",
+            "input": "aw enforcement authorities, government agencies, courts, or other entities, when",
+            "index": 276
+        },
+        {
+            "target": "No",
+            "input": "Please be aware that Kinja is not responsible for the privacy practices of such other sites.",
+            "index": 277
+        },
+        {
+            "target": "No",
+            "input": "In the event that you encounter any user of the Services who is improperly collecting or using information about you or other users, please contact Info@WorldNow.com.",
+            "index": 278
+        },
+        {
+            "target": "No",
+            "input": "you previously opted not to receive such communications, you may later opt-in by editing your account profile.",
+            "index": 279
+        },
+        {
+            "target": "No",
+            "input": "The Company uses cookies, web beacons, and similar tracking devices for certain Online Services to collect information that is not personal.",
+            "index": 280
+        },
+        {
+            "target": "No",
+            "input": "Please be aware that we reserve the right to notify our subscribers of any information that affects the status of current subscriptions. You may not opt out of receiving information regarding the expiration and renewal of the subscriptions, account balances or the payment history and status.",
+            "index": 281
+        },
+        {
+            "target": "No",
+            "input": "will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.",
+            "index": 282
+        },
+        {
+            "target": "No",
+            "input": "We may also collect technical information to help us identify your mobile device.",
+            "index": 283
+        },
+        {
+            "target": "No",
+            "input": "For more information on advertisements and your behavioral advertising options, visit our About Ads page and our Network Advertising Initiatives page.",
+            "index": 284
+        },
+        {
+            "target": "No",
+            "input": "This statement does not apply to our offline information practices.",
+            "index": 285
+        },
+        {
+            "target": "No",
+            "input": "Although no one can guarantee the security of the information collected and received, we do employ a number of safeguards intended to mitigate the risk of unauthorized access or disclosure of this information.",
+            "index": 286
+        },
+        {
+            "target": "No",
+            "input": "you can access your registration information and any billing or shipping information and edit this information",
+            "index": 287
+        },
+        {
+            "target": "No",
+            "input": "We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices. We currently allow Google AdSense to serve ads on our websites. Google uses other companies, such as PointRoll and Nielsen/Netratings to help it serve ads. Google and some of the companies it works with may offer additional choices about your preferences. Please visit the Google for more information about the technologies they use and their privacy practices. Google is a member of the Network Advertising Initiative. The NAI offers useful information about ad networks and a single place to turn off targeted ad serving from any of its members.",
+            "index": 288
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Policy explains what information we collect, how we use it, how other companies may use it, and tracking technologies used to collect information.",
+            "index": 289
+        },
+        {
+            "target": "No",
+            "input": "You can opt out of interest-based advertising from Google by visiting the About Google Ads page or permanently opt out of the DoubleClick cookie by installing the DoubleClick opt out extension.",
+            "index": 290
+        },
+        {
+            "target": "No",
+            "input": "For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites: www.ftc.gov/privacy/privacyinitiatives/childrens.html www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm http://www.onguardonline.gov/features/feature-0002-featured-info-parents",
+            "index": 291
+        },
+        {
+            "target": "No",
+            "input": "Please note that changing or deleting your information through your account profile will only change or delete the data in our database for purposes of transacting future business on the Site and for managing future communications from Cincinnati Museum Center.",
+            "index": 292
+        },
+        {
+            "target": "No",
+            "input": "Your request must state a time period within the past six years for the disclosures you want us to include. For example, you may request a list of the disclosures that we made the previous year between January 1 and June 1. You have a right to receive one accounting within every 12 month period for free. However, we may charge you for the cost of providing any additional accounting in that same 12 month period. Kaleida Health will always notify you of any cost involved so that you may choose to withdraw or modify your request before any costs are incurred.",
+            "index": 293
+        },
+        {
+            "target": "No",
+            "input": "Customer Data and Cardholder Data Use and disclosure of Customer Data collected by Chase Paymentech varies based on the information source and type, as set forth below:",
+            "index": 294
+        },
+        {
+            "target": "No",
+            "input": "If you have subscribed to one or more of our email newsletters or are receiving them from us and you don't want them anymore, you can unsubscribe. Select the \"unsubscribe\" link at the bottom of any message,",
+            "index": 295
+        },
+        {
+            "target": "No",
+            "input": "Your communications and interactions with such third parties are solely between you and them, and are at your own risk.",
+            "index": 296
+        },
+        {
+            "target": "No",
+            "input": "The Sites may link to websites operated by third parties that we do not control. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through the Sites or Services and does not apply to these third party websites. The ability to access information of third parties from the Sites or Services, or links to other websites or locations, is for your convenience only and does not signify our endorsement of such third parties, their products, services, websites, locations or their content.",
+            "index": 297
+        },
+        {
+            "target": "No",
+            "input": "follow the unsubscribe instructions contained within the message you receive",
+            "index": 298
+        },
+        {
+            "target": "No",
+            "input": "4. HOW WE USE YOUR INFORMATION We use information to:",
+            "index": 299
+        },
+        {
+            "target": "No",
+            "input": "We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click here).",
+            "index": 300
+        },
+        {
+            "target": "No",
+            "input": "cancel any User Registration that you may have selected or that we may have assigned.",
+            "index": 301
+        },
+        {
+            "target": "No",
+            "input": "When you interact with our sites and services, depending on the site or service, we may ask",
+            "index": 302
+        },
+        {
+            "target": "No",
+            "input": "You acknowledge and accept that any submissions to chat rooms or other public areas on the Websites are accessible to all third parties.",
+            "index": 303
+        },
+        {
+            "target": "No",
+            "input": "For Barnes & Noble College Booksellers : At any time, a customer may choose to opt out of the receipt of any promotional communications by clicking on the opt out link provided at the bottom of each email and following the instructions.",
+            "index": 304
+        },
+        {
+            "target": "No",
+            "input": "such action is appropriate to enforce the Terms of Use for the Sites, including any investigation of potential violations thereof; (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Services; and/or (iv) such action is appropriate to protect our rights, property or safety or the rights, property or safety of our employees, users of the Services or others.",
+            "index": 305
+        },
+        {
+            "target": "No",
+            "input": "we restrict their access to only that information needed to perform their functions",
+            "index": 306
+        },
+        {
+            "target": "No",
+            "input": "If you would like more information about the information we are receiving and your choices with respect to that data, please: visit the DAA opt-out program the Evidon opt-out program to learn how to opt out of having your information collected in browsers for ad serving purposes; download the Evidon Ad Control application, available for iOS and Android, to learn how to opt out of having your information collected in mobile apps; and visit the Network Advertising Initiative's opt out page.",
+            "index": 307
+        },
+        {
+            "target": "No",
+            "input": "You may choose to delete your reddit account at any time. The usernames associated with deleted accounts remain unavailable for others to use, and your public profile is no longer visible to reddit users. However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts.",
+            "index": 308
+        },
+        {
+            "target": "No",
+            "input": "However, no security system is impenetrable. We do not warrant the security of our servers, nor do we warrant that your information, including Personal Information, will be completely secure or not be intercepted while being transmitted over the Internet.",
+            "index": 309
+        },
+        {
+            "target": "No",
+            "input": "with other FSD Services' users and with your friends associated with your social media account.",
+            "index": 310
+        },
+        {
+            "target": "No",
+            "input": "By using the Sites, you agree that we may share your personal information in the following ways: When you provide personal information to one of our retail stores or affiliates, we may share that information with our other retail stores or affiliates in the United States or Canada.",
+            "index": 311
+        },
+        {
+            "target": "No",
+            "input": "Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the NAI Opt-Out website and DAA Choice Page and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.",
+            "index": 312
+        },
+        {
+            "target": "No",
+            "input": "We may receive additional information about you that is publicly",
+            "index": 313
+        },
+        {
+            "target": "No",
+            "input": "Hearst uses cookies to understand site usage and to improve the content and offerings on our Covered Sites and in other media.",
+            "index": 314
+        },
+        {
+            "target": "No",
+            "input": "Internet Brands, Inc. and its subsidiaries and corporate affiliates (collectively, \"Internet Brands,\" \"our,\" \"us,\" or \"we\") operate websites, provide products and services through mobile and other applications, and develop software. We refer to these as \"site(s),\" \"service(s),\" or \"our sites and services.\"",
+            "index": 315
+        },
+        {
+            "target": "No",
+            "input": "obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases.",
+            "index": 316
+        },
+        {
+            "target": "No",
+            "input": "XIV. CONTACT INFORMATION If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at privacypolicy@enthusiastnetwork.com Please include the URL of the website and/or name of the publication involved in your request. Requests under California Law SB 27 should be directed to yourcaliforniaprivacyrights@enthusiastnetwork.com and include the information noted in Your California Privacy Rights",
+            "index": 317
+        },
+        {
+            "target": "No",
+            "input": "Contacting Us If there are any questions regarding this privacy policy you may contact us using the information below. 204 E. 5th Street South Pittsburg, TN 37380 United States info@lodgemfg.com 423.837.7181",
+            "index": 318
+        },
+        {
+            "target": "No",
+            "input": "All information described above is stored on restricted database servers",
+            "index": 319
+        },
+        {
+            "target": "No",
+            "input": "ou may consult our reference staff for details on specific items. We are aware of donor restrictions applicable to our collections, but we cannot confirm copyright status for any item. We recommend that you contact the United States Copyright Office at The Library of Congress to search currently copyrighted materials.",
+            "index": 320
+        },
+        {
+            "target": "No",
+            "input": "you may e-mail us at privacycoordinator@medianewsgroup.com or write to us at: Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202.",
+            "index": 321
+        },
+        {
+            "target": "No",
+            "input": "through contractual arrangements with service providers and other third parties",
+            "index": 322
+        },
+        {
+            "target": "No",
+            "input": "Kaleida Health may use and disclose your health information if we have removed any information that has the potential to identify you so that the health information is \"completely de-identified.\" Kaleida Health may also use and disclose \"partially de-identified\" health information about you if the person who will receive the information signs an agreement to protect the privacy of the information as required by federal and state law.",
+            "index": 323
+        },
+        {
+            "target": "No",
+            "input": "n with third parties in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability, including as required by law enforcement or other government officials.",
+            "index": 324
+        },
+        {
+            "target": "No",
+            "input": "Liquor.com Holdings, Inc. (\"Liquor.com\") takes very seriously the private nature of your personal information. It is the goal of Liquor.com to bring you information that is relevant and targeted to your individual needs and, at the same time, protect your privacy. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our email publication. Please read this notice carefully.",
+            "index": 325
+        },
+        {
+            "target": "No",
+            "input": "Cookies are generally easy to disable and/or delete but how you do so varies from browser to browser. The help function within your browser should tell you how to do it. The best way may be to close your browser and then search for cookie folder or cookie manager or simply cookie. Please also visit www.allaboutcookies.org for more information about cookies and how to disable them.",
+            "index": 326
+        },
+        {
+            "target": "No",
+            "input": "You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email us at website@vikings.nfl.com, admin@vikingscontests.com, admin@vikingsnewsletter.com.",
+            "index": 327
+        },
+        {
+            "target": "No",
+            "input": "When a visitor shares PII, such as a Social Security number, we will, to the extent of our ability, remove the PII from the third party website in accordance with our comment and posting policies. The removed information will be retained and disposed of in accordance with the applicable records schedule.",
+            "index": 328
+        },
+        {
+            "target": "No",
+            "input": "do not connect your social media service account with your Services",
+            "index": 329
+        },
+        {
+            "target": "No",
+            "input": "as well as from prospective or potential business customers or website visitors who may be interested in learning more about our services (\"Customer Data\").",
+            "index": 330
+        },
+        {
+            "target": "No",
+            "input": "Your personal information may be processed and stored in the U.S. or another country, and the government, courts, law enforcement or regulatory agencies of that country may by law be able to obtain your personal information;",
+            "index": 331
+        },
+        {
+            "target": "No",
+            "input": "Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.",
+            "index": 332
+        },
+        {
+            "target": "No",
+            "input": "Privacy Coordinator, MediaNews Group Interactive, 101 W. Colfax Ave., Suite 950, Denver, CO 80202. Please reference the name of the applicable site.",
+            "index": 333
+        },
+        {
+            "target": "No",
+            "input": "For certain websites covered by this Privacy Policy and involved in e-commerce (for example, www.fandango.com), you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.",
+            "index": 334
+        },
+        {
+            "target": "No",
+            "input": "You may opt out of any or all contacts from Tulsaworld.com at any time. All e-mails sent to you from Tulsaworld.com will allow to opt out of any further e-mail from us.",
+            "index": 335
+        },
+        {
+            "target": "No",
+            "input": "Kinja has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain.",
+            "index": 336
+        },
+        {
+            "target": "No",
+            "input": "oversight of our third party service providers to ensure information remains confidential and secure.",
+            "index": 337
+        },
+        {
+            "target": "No",
+            "input": "If you no longer wish Everyday Health to use or share your Personal Information in accordance with this Policy or you no longer desire to use or access this Site, you can also remove your Personal Information from the \"Profile\" section of the Site.",
+            "index": 338
+        },
+        {
+            "target": "No",
+            "input": "The following notices explain specific privacy practices with respect to certain Google products and services that you may use: Chrome and Chrome OS Books Payments Fiber",
+            "index": 339
+        },
+        {
+            "target": "No",
+            "input": "we may receive and collect certain personal information automatically, as outlined in Section 3(b) of this Privacy Policy, including site analytics regarding our websites, information your Internet browser automatically sends when you visit our websites, and information collected by cookies.",
+            "index": 340
+        },
+        {
+            "target": "No",
+            "input": "Links To Other Websites This website may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you're visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.",
+            "index": 341
+        },
+        {
+            "target": "No",
+            "input": "In addition to responding to your email correspondence and sending you information you have requested via our email lists, we send activation emails and other transactional emails to your e-mail address as necessary. You may not opt out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.",
+            "index": 342
+        },
+        {
+            "target": "No",
+            "input": "certain third parties, such as those who provide services associated with our Services,",
+            "index": 343
+        },
+        {
+            "target": "No",
+            "input": "Law enforcement authorities, government agencies, courts, or other entities, when:",
+            "index": 344
+        },
+        {
+            "target": "No",
+            "input": "Barnes & Noble has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through uk.nook.com, www.nookpress.com, NOOK Apps and your interactions with NOOK Simple Touch, NOOK Simple Touch GlowLight, NOOK GlowLight, NOOK HD and NOOK HD+.",
+            "index": 345
+        },
+        {
+            "target": "No",
+            "input": "The personally identifiable information you provide to us when using the Site",
+            "index": 346
+        },
+        {
+            "target": "No",
+            "input": "information derived from any other subscription, product, or service we provide.",
+            "index": 347
+        },
+        {
+            "target": "No",
+            "input": "You can visit our Web Sites without telling us who you are and without revealing any personally identifiable information to learn about American Honda, American Honda Finance Corporation (\"AHFC\"), our product and service information, special offers and promotions, and investor information. You can also access financial planning tools.",
+            "index": 348
+        },
+        {
+            "target": "No",
+            "input": "provided by third-party advertising companies, on both our Web site and on other sites,",
+            "index": 349
+        },
+        {
+            "target": "No",
+            "input": "We may also share your personal information with third party partners when you have opted into receiving third party offers and/or newsletters on our Site(s).",
+            "index": 350
+        },
+        {
+            "target": "No",
+            "input": "you enter on our Web site or give us in any other way",
+            "index": 351
+        },
+        {
+            "target": "No",
+            "input": "protect the safety of users and others on the online services;",
+            "index": 352
+        },
+        {
+            "target": "No",
+            "input": "To a bank or United States Department of the Treasury account,",
+            "index": 353
+        },
+        {
+            "target": "No",
+            "input": "The following Privacy Policy applies to your use of all websites, mobile applications, and other products and services owned, controlled, operated or hosted (whether now or in the future) by JibJab Media Inc. dba JibJab Bros. Studios and/or its corporate affiliates, including but not limited to the JibJab.com, StoryBots.com, HelloSanta.com, JibJab Messages and all related applications and services (collectively the \"JibJab Sites\").",
+            "index": 354
+        },
+        {
+            "target": "No",
+            "input": "processes that we don't control and subject to their own separate privacy policies, which may differ from ours",
+            "index": 355
+        },
+        {
+            "target": "No",
+            "input": "Kaleida Health will respond to your request for inspection of records within 10 days.",
+            "index": 356
+        },
+        {
+            "target": "No",
+            "input": "Safe Harbor Participation for EU Cardholder Data. Chase Paymentech recognizes that the European Union (\"EU\") has an \"omnibus\" data protection regime established pursuant to the European Commission Data Protection Directive (95/46/EC) (the \"Directive\"). The Directive generally restricts the transfer of personally identifiable information about individuals in the EU to the United States, unless there is \"adequate protection\" for such information when it is received in the United States. In addition to processing transactions for its own Merchants based in the United States, Chase Paymentech provides processing services in the U.S. for its European affiliate, Chase Paymentech Europe Limited, and its European customers. To address the restrictions in the Directive, Paymentech, LLC in the United States (\"CPL\") adheres to the EU Safe Harbor Privacy Principles published by the US Department of Commerce (\"Safe Harbor\") with respect to Cardholder Data about Merchants' customers in the European Union that we receive in the United States (\"EU Cardholder Data\"). We act as a data processor on behalf of Merchants with respect to EU Cardholder Data, and accordingly follow each Merchants' instructions with regard to the collection, processing and protection of EU Cardholder Data. Our Merchants act as the data controller for any EU Cardholder Data. If any consumers in the EU have any questions about our handling of their EU Cardholder Data, such consumers should first contact the Merchant as this may be the most efficient means of addressing such issues. Consumers in the EU may also reach out to the CPL Safe Harbor Privacy Contact in the Legal Department at Chase Paymentech Solutions, 14221 Dallas Parkway, Dallas, Texas, 75254. Questions that are not otherwise resolved with the Merchant and/or CPL may also be directed to local EU data protection authorities.",
+            "index": 357
+        },
+        {
+            "target": "No",
+            "input": "We may also collect additional information about you when you visit certain features of the Services",
+            "index": 358
+        },
+        {
+            "target": "No",
+            "input": "icrosoft may share your personal information with us and we will store and use this information to administer the programs and services in which you choose to participate and otherwise as permitted by this Privacy Policy.",
+            "index": 359
+        },
+        {
+            "target": "No",
+            "input": "Cookies can help us and third parties understand which parts of our Services are the most popular because they help us see which pages and features visitors access and how much time they spend on the pages. By studying this kind of information, we are better able to adapt our Services and provide you with a better experience.",
+            "index": 360
+        },
+        {
+            "target": "No",
+            "input": "In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a Web beacon.",
+            "index": 361
+        },
+        {
+            "target": "No",
+            "input": "We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes",
+            "index": 362
+        },
+        {
+            "target": "No",
+            "input": "Military contains links to other web sites over which we have no control. Military is not responsible for the privacy policies or practices of other web sites to which you choose to link from Military. We encourage you to review the privacy policies of those other web sites so you can understand how they collect, use and share your information. We use data about you and your use of our services to display customized advertising, both on our site and on other sites with which we have a business relationship.",
+            "index": 363
+        },
+        {
+            "target": "No",
+            "input": "\"click stream\" information such as entry and exit points for our Online Services (including referring URLs or domains)",
+            "index": 364
+        },
+        {
+            "target": "No",
+            "input": "third parties, including ClearTrust, BrowserHawk, Capricorn Encryption, and WebTrends e-commerce software.",
+            "index": 365
+        },
+        {
+            "target": "No",
+            "input": "If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.",
+            "index": 366
+        },
+        {
+            "target": "No",
+            "input": "If you have questions about this privacy policy, contact our Member Services team at (800) 289-3787 or member@citizen.org.",
+            "index": 367
+        },
+        {
+            "target": "No",
+            "input": "If you have any inquiries regarding our privacy practices, please contact us directly at businessaffairs@lynda.com",
+            "index": 368
+        },
+        {
+            "target": "No",
+            "input": "Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase; other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are not available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on our Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.",
+            "index": 369
+        },
+        {
+            "target": "No",
+            "input": "We encourage you to read this Privacy Policy carefully to understand what personal information we may collect from you through our Sites, how we may use or share this information, and what steps you may take to control such use or sharing.",
+            "index": 370
+        },
+        {
+            "target": "No",
+            "input": "Information about our customers is an important part of our business, and we are not in the business of selling it to others.",
+            "index": 371
+        },
+        {
+            "target": "No",
+            "input": "your activities on our Sites, such as pages visited and search key words entered",
+            "index": 372
+        },
+        {
+            "target": "No",
+            "input": "With sponsors and third parties related to a sweepstakes or contest that you elect to participate in",
+            "index": 373
+        },
+        {
+            "target": "No",
+            "input": "we use security software to encrypt the information before and during its transmission through the Internet",
+            "index": 374
+        },
+        {
+            "target": "No",
+            "input": "you set up a Honda ID and password as well as provide your email address",
+            "index": 375
+        },
+        {
+            "target": "No",
+            "input": "We have adopted commercially reasonable procedures to help us secure your information but no data transmissions or storage can be guaranteed to be 100 secure.",
+            "index": 376
+        },
+        {
+            "target": "No",
+            "input": "Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted",
+            "index": 377
+        },
+        {
+            "target": "No",
+            "input": "the ForeSee Results' American Customer Satisfaction Index (ACSI) online survey",
+            "index": 378
+        },
+        {
+            "target": "No",
+            "input": "may have access to such information and agree to keep this information confidential.",
+            "index": 379
+        },
+        {
+            "target": "No",
+            "input": "We will correct such information whenever possible and delete stale information on an ongoing basis and are very happy to hear from you to ensure that our information is as complete and accurate as possible.",
+            "index": 380
+        },
+        {
+            "target": "No",
+            "input": "If you reside in California, you may request information about our disclosures of your personal information to third parties for their direct marketing purposes. Such requests must be submitted to us by e-mail at privacy@washingtonian.com or by mail to: Washingtonian.com, 1828 L Street, NW - Suite 200, Washington, D.C. 20035, ATTN: CALIFORNIA PRIVACY DISCLOSURES. Within thirty days of receiving such a request, we will provide a list of the categories of personal information (e.g., your mailing address) disclosed to third-parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than as specified in this paragraph.",
+            "index": 381
+        },
+        {
+            "target": "No",
+            "input": "If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at Info@WorldNow.com.",
+            "index": 382
+        },
+        {
+            "target": "No",
+            "input": "This is done through your browser on the Device you use to access the Site.",
+            "index": 383
+        },
+        {
+            "target": "No",
+            "input": "This authorization key is used to identify a user as valid and allow access to Valve's products, services and third party games. This key is necessary for Valve to supply any products and services subscribed by users.",
+            "index": 384
+        },
+        {
+            "target": "No",
+            "input": "The Curse Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another. When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.",
+            "index": 385
+        },
+        {
+            "target": "No",
+            "input": "we employ other companies and individuals to perform specialized functions on our behalf, such as secure credit card processing and email service providers. They",
+            "index": 386
+        },
+        {
+            "target": "No",
+            "input": "Chase Paymentech Solutions, LLC Privacy Statement Chase Paymentech Solutions, LLC is committed to safeguarding the privacy and security of the information we collect. This statement explains the policies we follow with respect to the handling of customer information collected by Chase Paymentech.",
+            "index": 387
+        },
+        {
+            "target": "No",
+            "input": "as long as your account is active or as needed to provide you services.",
+            "index": 388
+        },
+        {
+            "target": "No",
+            "input": "By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Instagram, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.",
+            "index": 389
+        },
+        {
+            "target": "No",
+            "input": "Local storage files can be cleared through your browser settings or disabled, similar to cookies.",
+            "index": 390
+        },
+        {
+            "target": "No",
+            "input": "e also may share your personal information with third parties when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users, or others who may be harmed or may suffer loss or damage, or when we believe that disclosure is necessary to protect our rights, investigate, or enforce our terms and conditions, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on the Company.",
+            "index": 391
+        },
+        {
+            "target": "No",
+            "input": "Contact Information Our contact information is available at the Farlex home page.",
+            "index": 392
+        },
+        {
+            "target": "No",
+            "input": "\"Cookies\" are small bits of text that are either used for the duration of a session (\"session cookies\"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a website (\"persistent cookies\"). Your computer will only share the information in the cookie with the website that provided it and no other website can request it. The National Archives website and its component sites may use persistent cookies.",
+            "index": 393
+        },
+        {
+            "target": "No",
+            "input": "No Disclosure of Personally Identifiable Information Sally Ride Science will not disclose or sell personally identifiable information (such as full name, email address, school, etc.) about your child without your prior consent. At this time, we would only disclose personally identifiable information about your daughter or son to a successor to our business or to a third party that helps us run Sally Ride Science events and activities (such as a company that hosts our website), but only if that party agrees to comply with our privacy policy and to maintain the confidentiality and security of the information. Should you not agree to this limited third party disclosure of your child's personally identifiable information, please contact the Sally Ride Science operator at the address below.",
+            "index": 394
+        },
+        {
+            "target": "No",
+            "input": "It is possible that our site will provide you an opportunity to go to a software manufacturer's website so you may download a related plug-in that will enable your browser to show you a part of our website. This prompt occurs because our system can tell whether your browser has the needed capabilities provided by these plug-ins. Our system does not read or place anything on your hard drive when recognizing your browser's capabilities. While the plug-in(s) are needed to view some content, you retain control and choice about conducting the download. At the time that we create and post the web pages that require these software plug-ins for viewing, they are provided by their manufacturer for download and use free of charge. We cannot guarantee, however, guarantee that the plug-in will remain free, or that the manufacturer will not collect personally identifying information about you when you elect to download the software from their site. If you choose to visit the manufacturer's website to obtain the plug-in, please carefully review their posted policies for details about personal privacy and use of downloaded plug-ins.",
+            "index": 395
+        },
+        {
+            "target": "No",
+            "input": "the fulfilment of your order, the processing of your payment details and the provision of support services",
+            "index": 396
+        },
+        {
+            "target": "No",
+            "input": "reddit is an open platform that allows you to communicate about anything you want on any topic you want.",
+            "index": 397
+        },
+        {
+            "target": "No",
+            "input": "From time to time we may offer or provide new or additional Barnes & Noble Website, Device or App features and functionality. Such features or functionality may request or require you to submit personal information to us in order to use such feature or functionality.",
+            "index": 398
+        },
+        {
+            "target": "No",
+            "input": "Except as necessary for SRL to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to SRL through an account registration, customer order, or electronic news or information subscription, prospectively retained by SRL, used by SRL for secondary purposes, or disclosed by SRL to third parties by contacting SRL via postal mail, e-mail, or facsimile at the addresses set out above. (This does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the above description.) By way of illustration, you have the option to remove your name from any of our mailing lists at any time.",
+            "index": 399
+        },
+        {
+            "target": "No",
+            "input": "By visiting a GameStop Website or retail store, participating in our PowerUp Rewards Program, or otherwise providing information to GameStop you are accepting the practices described in this Privacy Policy.",
+            "index": 400
+        },
+        {
+            "target": "No",
+            "input": "Valve may allow third parties performing services under contract with Valve, such as order or payment processors or merchandise warehouse and fulfillment services, located in and outside the European Union, to access and use personally identifiable information",
+            "index": 401
+        },
+        {
+            "target": "No",
+            "input": "Or, if you are a California resident and prefer that we send you a separate response, please email your request to privacy@meredith.com",
+            "index": 402
+        },
+        {
+            "target": "No",
+            "input": "If Kaleida Health denies part or all of your request, we will provide a written notice that explains our reasons for doing so. You will have the right to have certain information related to your requested amendment included in your records. For example, if you disagree with our decision, you will have an opportunity to submit a statement explaining your disagreement which we will include in your records. Kaleida Health will also include information on how to file a complaint with us or with the Secretary of the Department of Health and Human Services. These procedures will be explained in more detail in any written denial notice we send you.",
+            "index": 403
+        },
+        {
+            "target": "No",
+            "input": "or through the use of information we received from third parties.",
+            "index": 404
+        },
+        {
+            "target": "No",
+            "input": "Your California Privacy Rights (As provided by California Civil Code Section 1798.83) California residents have the right to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed certain types of personal information (if any) for their direct marketing purposes in the prior calendar year. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes. You can read these instructions above in the section of our Online Privacy Policy titled \" How We Disclose Information and Your Related Opt-out Choices.\" Or, if you are a California resident and prefer that we send you a separate response, please email your request to privacy@meredith.com",
+            "index": 405
+        },
+        {
+            "target": "No",
+            "input": "Under California law, California residents may request once a year, free of charge, certain information regarding MediaNews' disclosure of personal information to third parties for direct marketing purposes.",
+            "index": 406
+        },
+        {
+            "target": "No",
+            "input": "All of the child's personal information collected by MediaNews is securely maintained",
+            "index": 407
+        },
+        {
+            "target": "No",
+            "input": "You may also log-in to cancel any User Registration that you may have selected or that we may have assigned. If you cancel your User Registration, we will retain your email address, user name and assigned user ID on file and use them only for thepurpose of assuring you are not automatically registered again, against your wishes. You may request deletion of your Personally Identifiable Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your information for fraud or similar purposes.",
+            "index": 408
+        },
+        {
+            "target": "No",
+            "input": "We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with our Services, to set cookies, web beacons or similar technologies in certain locations within the Services or certain emails sent by us. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as \"network advertisers.\" A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with our Services in order to tailor certain advertisements and content delivered within our Services and on other websites within such network advertiser's ad network. You may elect to opt out of targeted behavioral advertising from many major third party network advertisers by clicking here.",
+            "index": 409
+        },
+        {
+            "target": "No",
+            "input": "We give you the opportunity to modify information you have provided to us at anytime by logging into the system and navigating to your account and selecting those portions of your account you would like to update",
+            "index": 410
+        },
+        {
+            "target": "No",
+            "input": "This Web site contains links to other sites. Please be aware that we, RedOrbit Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.",
+            "index": 411
+        },
+        {
+            "target": "No",
+            "input": "This Privacy Policy covers the following: How We Use Information Sharing of Information Links to Third Party Sites Data Security How to Access or Update Your Information Changes to this Privacy Policy Other Important Information",
+            "index": 412
+        },
+        {
+            "target": "No",
+            "input": "required to do so by law, for example, in response to a court order or a subpoena.",
+            "index": 413
+        },
+        {
+            "target": "No",
+            "input": "we may use or disclose your Personal Information as we deem necessary or appropriate",
+            "index": 414
+        },
+        {
+            "target": "No",
+            "input": "If you wish to delete or close your account or account profile information altogether",
+            "index": 415
+        },
+        {
+            "target": "No",
+            "input": "We offer you opportunities to engage in public activities on TED.com. \"Public activities\" are any actions you take that are designed to be visible to other users, including comments, conversations, recommendations and ratings.",
+            "index": 416
+        },
+        {
+            "target": "No",
+            "input": "If you login via a Third Party Service, we will receive an identifying token from that service,",
+            "index": 417
+        },
+        {
+            "target": "No",
+            "input": "PRIVACY POLICY This is the Privacy Policy which applies to you if you live outside the European Union, Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and Canada.",
+            "index": 418
+        },
+        {
+            "target": "No",
+            "input": "Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.",
+            "index": 419
+        },
+        {
+            "target": "No",
+            "input": "If you choose to subscribe to our premium products or services, we will request certain information",
+            "index": 420
+        },
+        {
+            "target": "No",
+            "input": "our third-party suppliers and/or the web sites and services of advertisers and merchants with which we have a relationship",
+            "index": 421
+        },
+        {
+            "target": "No",
+            "input": "c. Sole Statement: This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.",
+            "index": 422
+        },
+        {
+            "target": "No",
+            "input": "we require a certain amount of personally identifying information such as name and address to meet your request",
+            "index": 423
+        },
+        {
+            "target": "No",
+            "input": "An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university.",
+            "index": 424
+        },
+        {
+            "target": "No",
+            "input": "Your information may be transferred to, and maintained on, servers and databases located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as your jurisdiction. Please be advised that we may transfer your information to and from any state, province, country or other governmental jurisdiction, and process it in the United States or elsewhere. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to any such transfer.",
+            "index": 425
+        },
+        {
+            "target": "No",
+            "input": "In that case, it is stored on a secure computer in an encrypted format.",
+            "index": 426
+        },
+        {
+            "target": "No",
+            "input": "You may choose to opt-out by contacting us at www.info@worldnow.com.",
+            "index": 427
+        },
+        {
+            "target": "No",
+            "input": "Use of Plug-ins The first time that you use an area of our site that requires animation software, such as \"Flash\" or \"Shockwave,\" you may see an invitation to go to the software manufacturer's website so you may download software or plug-in needed to view the animation on our website. This prompt occurs because a script can tell whether your browser has the needed capabilities provided by these plug-ins. We do not use \"cookies\" to do this, nor do we read anything on your computer other than your browser's capabilities. We do not endorse or guarantee anything about the product that you may download from a manufacturer's website. If you choose to visit the manufacturer's website to obtain the plug-in, please carefully review their policies for details about personal privacy and use of their software.",
+            "index": 428
+        },
+        {
+            "target": "No",
+            "input": "We collect and maintain personally identifiable information and automatic information.",
+            "index": 429
+        },
+        {
+            "target": "No",
+            "input": "without offering you the opportunity to opt out of receiving them",
+            "index": 430
+        },
+        {
+            "target": "Yes",
+            "input": "We may change or update portions of this Privacy Notice",
+            "index": 431
+        },
+        {
+            "target": "Yes",
+            "input": "We may change or update portions of this Privacy Notice at any time.",
+            "index": 432
+        },
+        {
+            "target": "Yes",
+            "input": "notifications about major changes to the SIDEARM Services and/or to our Privacy Policy.",
+            "index": 433
+        },
+        {
+            "target": "Yes",
+            "input": "Accordingly, guidelines are subject to change. In the unlikely event of such changes they will be posted on this page. If the changes represent a material departure from our current practice with respect to the use of children's personal information,",
+            "index": 434
+        },
+        {
+            "target": "No",
+            "input": "External websites and companies with links to and from Valve's online sites",
+            "index": 435
+        },
+        {
+            "target": "No",
+            "input": "Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below)",
+            "index": 436
+        },
+        {
+            "target": "No",
+            "input": "We reserve the right to use, transfer, assign, sell, share, and provide access to all personally identifiable information and other information about you and your computer, mobile or other device that we receive through third-party social networking services in the same ways described in this Agreement as all of your other information.",
+            "index": 437
+        },
+        {
+            "target": "No",
+            "input": "Certain Continuing Rights Regardless of Opt-Outs. However, even if you exercise your opt-out rights above",
+            "index": 438
+        }
+    ]
+}

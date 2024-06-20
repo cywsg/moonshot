@@ -1,0 +1,16 @@
+{
+  "id": "cuad-volume-restriction",
+  "name": "cuad_volume_restriction",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_volume_restriction"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_volume_restriction"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

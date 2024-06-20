@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-courts",
+  "name": "learned_hands_courts",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_courts"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_courts"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

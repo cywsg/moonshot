@@ -1,0 +1,16 @@
+{
+  "id": "ssla-individual-defendants",
+  "name": "ssla_individual_defendants",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/ssla_individual_defendants"
+  ],
+  "prompt_templates": [
+    "legalbench/ssla_individual_defendants"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

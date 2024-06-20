@@ -1,0 +1,16 @@
+{
+  "id": "maud-cor-standard-superior-offer",
+  "name": "maud_cor_standard_(superior_offer)",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_cor_standard_(superior_offer)"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_cor_standard_(superior_offer)"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hearsay",
+  "name": "hearsay",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/hearsay"
+  ],
+  "prompt_templates": [
+    "legalbench/hearsay"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

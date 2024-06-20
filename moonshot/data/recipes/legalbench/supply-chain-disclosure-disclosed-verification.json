@@ -1,0 +1,16 @@
+{
+  "id": "supply-chain-disclosure-disclosed-verification",
+  "name": "supply_chain_disclosure_disclosed_verification",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/supply_chain_disclosure_disclosed_verification"
+  ],
+  "prompt_templates": [
+    "legalbench/supply_chain_disclosure_disclosed_verification"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

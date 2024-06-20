@@ -1,0 +1,16 @@
+{
+  "id": "maud-ability-to-consummate-concept-is-subject-to-mae-carveouts",
+  "name": "maud_ability_to_consummate_concept_is_subject_to_mae_carveouts",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_ability_to_consummate_concept_is_subject_to_mae_carveouts"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_ability_to_consummate_concept_is_subject_to_mae_carveouts"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

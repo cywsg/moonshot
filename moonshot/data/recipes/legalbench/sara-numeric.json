@@ -1,0 +1,16 @@
+{
+  "id": "sara-numeric",
+  "name": "sara_numeric",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/sara_numeric"
+  ],
+  "prompt_templates": [
+    "legalbench/sara_numeric"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

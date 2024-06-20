@@ -84,6 +84,10 @@ Repository = "https://github.com/moonshot-admin/moonshot"
 Documentation = "https://moonshot-admin.github.io/moonshot/"
 Issues = "https://github.com/moonshot-admin/moonshot/issues"
 
+
+
+
+
 [tool.hatch.metadata]
 allow-direct-references = true
 
@@ -96,7 +100,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-openai = "0.28.1"
 python-slugify = "8.0.4"
 bert-score = "0.3.13"
 nltk = "3.8.1"
@@ -118,6 +121,7 @@ uvicorn = "0.28.0"
 dependency-injector = "4.41.0"
 cmd2 = "2.4.3"
 rich = "13.7.1"
+openai = {git = "https://github.com/openai/openai-python.git", rev = "v1.15.0"}
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.10.1"

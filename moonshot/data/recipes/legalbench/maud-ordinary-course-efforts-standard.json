@@ -1,0 +1,16 @@
+{
+  "id": "maud-ordinary-course-efforts-standard",
+  "name": "maud_ordinary_course_efforts_standard",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_ordinary_course_efforts_standard"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_ordinary_course_efforts_standard"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-domestic-violence",
+  "name": "learned_hands_domestic_violence",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_domestic_violence"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_domestic_violence"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

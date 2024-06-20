@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-survival-of-obligations",
+  "name": "contract_nli_survival_of_obligations",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_survival_of_obligations"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_survival_of_obligations"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

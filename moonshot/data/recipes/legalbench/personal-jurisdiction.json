@@ -1,0 +1,16 @@
+{
+  "id": "personal-jurisdiction",
+  "name": "personal_jurisdiction",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/personal_jurisdiction"
+  ],
+  "prompt_templates": [
+    "legalbench/personal_jurisdiction"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

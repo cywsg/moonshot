@@ -1,0 +1,5 @@
+{
+    "name": "canada_tax_court_outcomes",
+    "description": "",
+    "template": "INSTRUCTIONS: Indicate whether the following judgment excerpt from a Tax Court of Canada decision allows the appeal or dismisses the appeal. Where the result is mixed, indicate that the appeal was allowed. Ignore costs orders. Where the outcome is unclear indicate other.  \nOptions: allowed, dimissed, other\n\nJUDGMENT EXCERPT: {{ prompt }}\nOUTCOME: "
+}

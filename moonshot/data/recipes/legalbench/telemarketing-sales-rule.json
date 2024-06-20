@@ -1,0 +1,16 @@
+{
+  "id": "telemarketing-sales-rule",
+  "name": "telemarketing_sales_rule",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/telemarketing_sales_rule"
+  ],
+  "prompt_templates": [
+    "legalbench/telemarketing_sales_rule"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

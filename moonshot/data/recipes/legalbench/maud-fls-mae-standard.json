@@ -1,0 +1,16 @@
+{
+  "id": "maud-fls-mae-standard",
+  "name": "maud_fls_(mae)_standard",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_fls_(mae)_standard"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_fls_(mae)_standard"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

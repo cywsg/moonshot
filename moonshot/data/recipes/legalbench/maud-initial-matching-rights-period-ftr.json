@@ -1,0 +1,16 @@
+{
+  "id": "maud-initial-matching-rights-period-ftr",
+  "name": "maud_initial_matching_rights_period_(ftr)",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_initial_matching_rights_period_(ftr)"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_initial_matching_rights_period_(ftr)"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

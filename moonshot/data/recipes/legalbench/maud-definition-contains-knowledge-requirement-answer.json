@@ -1,0 +1,16 @@
+{
+  "id": "maud-definition-contains-knowledge-requirement-answer",
+  "name": "maud_definition_contains_knowledge_requirement_-_answer",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_definition_contains_knowledge_requirement_-_answer"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_definition_contains_knowledge_requirement_-_answer"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

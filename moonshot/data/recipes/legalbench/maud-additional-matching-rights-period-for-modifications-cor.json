@@ -1,0 +1,16 @@
+{
+  "id": "maud-additional-matching-rights-period-for-modifications-cor",
+  "name": "maud_additional_matching_rights_period_for_modifications_(cor)",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_additional_matching_rights_period_for_modifications_(cor)"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_additional_matching_rights_period_for_modifications_(cor)"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

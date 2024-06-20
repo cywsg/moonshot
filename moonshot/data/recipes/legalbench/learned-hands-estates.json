@@ -1,0 +1,16 @@
+{
+  "id": "learned-hands-estates",
+  "name": "learned_hands_estates",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/learned_hands_estates"
+  ],
+  "prompt_templates": [
+    "legalbench/learned_hands_estates"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

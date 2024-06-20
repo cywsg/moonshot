@@ -1,0 +1,16 @@
+{
+  "id": "cuad-effective-date",
+  "name": "cuad_effective_date",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/cuad_effective_date"
+  ],
+  "prompt_templates": [
+    "legalbench/cuad_effective_date"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

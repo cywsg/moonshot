@@ -1,0 +1,16 @@
+{
+  "id": "supply-chain-disclosure-disclosed-audits",
+  "name": "supply_chain_disclosure_disclosed_audits",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/supply_chain_disclosure_disclosed_audits"
+  ],
+  "prompt_templates": [
+    "legalbench/supply_chain_disclosure_disclosed_audits"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

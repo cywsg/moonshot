@@ -1,0 +1,16 @@
+{
+  "id": "rule-qa",
+  "name": "rule_qa",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/rule_qa"
+  ],
+  "prompt_templates": [
+    "legalbench/rule_qa"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

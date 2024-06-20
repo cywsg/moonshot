@@ -1,0 +1,16 @@
+{
+  "id": "successor-liability",
+  "name": "successor_liability",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/successor_liability"
+  ],
+  "prompt_templates": [
+    "legalbench/successor_liability"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "maud-specific-performance",
+  "name": "maud_specific_performance",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_specific_performance"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_specific_performance"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

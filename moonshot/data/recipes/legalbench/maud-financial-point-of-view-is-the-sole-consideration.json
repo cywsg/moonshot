@@ -1,0 +1,16 @@
+{
+  "id": "maud-financial-point-of-view-is-the-sole-consideration",
+  "name": "maud_financial_point_of_view_is_the_sole_consideration",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/maud_financial_point_of_view_is_the_sole_consideration"
+  ],
+  "prompt_templates": [
+    "legalbench/maud_financial_point_of_view_is_the_sole_consideration"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

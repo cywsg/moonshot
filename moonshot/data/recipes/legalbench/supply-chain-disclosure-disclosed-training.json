@@ -1,0 +1,16 @@
+{
+  "id": "supply-chain-disclosure-disclosed-training",
+  "name": "supply_chain_disclosure_disclosed_training",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/supply_chain_disclosure_disclosed_training"
+  ],
+  "prompt_templates": [
+    "legalbench/supply_chain_disclosure_disclosed_training"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+    "name": "international_citizenship_questions",
+    "description": "",
+    "template": "Answer the following questions considering the state of international law on January 1st, 2020.\n\nQuestion: {{question}} Answer Yes or No.\nAnswer: "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "contract-nli-permissible-copy",
+  "name": "contract_nli_permissible_copy",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_nli_permissible_copy"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_nli_permissible_copy"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}

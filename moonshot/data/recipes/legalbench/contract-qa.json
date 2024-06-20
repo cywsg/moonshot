@@ -1,0 +1,16 @@
+{
+  "id": "contract-qa",
+  "name": "contract_qa",
+  "description": "",
+  "tags": [],
+  "datasets": [
+    "legalbench/contract_qa"
+  ],
+  "prompt_templates": [
+    "legalbench/contract_qa"
+  ],
+  "metrics": [
+    "exactstrmatch",
+    "balancedaccuracy"
+  ]
+}
